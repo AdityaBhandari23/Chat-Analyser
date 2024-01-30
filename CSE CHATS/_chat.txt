@@ -1,0 +1,3260 @@
+[19/05/23, 10:41:04 PM] CSE 2021-2025 Batch: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[25/10/21, 9:50:51 PM] ‪+91 88781 00122‬: ‎‪+91 88781 00122‬ created group “CSE 2021-2025 Batch”
+[19/05/23, 10:19:01 PM] CSE 2021-2025 Batch: ‎~ Rajni Ranjan Singh added you
+[22/05/23, 12:06:03 PM] ~ Ranjeet Kumar Singh: 0901CS211014 Anisha minj call me urgently
+‎[25/05/23, 7:30:03 PM] ~ Rajni Ranjan Singh: MID marks.pdf • ‎6 pages ‎document omitted
+[26/05/23, 2:16:12 PM] ‪+91 94799 34701‬: Hello Mitsians... 👋🏻
+Disaster Management & Awareness club is recruiting..... 🤞🏻
+This is an exhilarating opportunity to become a part of our team..... 🎉
+Those who are interested can register yourself by filling this Google form 👇🏻
+https://forms.gle/fNwbCnnb5kf3etnC8
+[02/06/23, 6:21:38 PM] ~ jaimala jha: https://forms.gle/EPCnG95kmYpr1DCp6
+[02/06/23, 6:21:39 PM] ~ jaimala jha: Dear students please fill your achievements though above Google form link.
+It is mandatory activity , so everyone has to be filled accordingly
+[02/06/23, 9:24:42 PM] ~ Dr. Manish Dixit: Greetings from Madhav Institute of Technology and Science, Gwalior💐
+
+We are happy to inform you that the Department of Computer Science, IEEE Student Chapter MITS & IEEE Computer Society is going to organize a Seminar on "Unleashing the Power of Data: The Exciting World of Data Analytics", by Mr. Anuj Pratap Singh. In this regard, we invite you to attend the Seminar in SH-7. Interested students should register at the link provided below:
+📌 *Registration link for students*
+https://bit.ly/3oFHdiP
+📌 Date: 05.06.2023 
+📌Event Mode: Offline
+📌Venue: Seminar Hall 7
+📌 Registration Fee: FREE                                                                                                                                                                                                              
+Note:
+👉🏻 Who can participate: Expected Participants are Students.  
+👉🏻Certificates will be awarded to all the Participants.
+
+                                                      
+*Convener*
+*Dr. Manish Dixit*
+Professor & Head
+*Coordinator*
+*Aashi Singh Bhadouria*
+Assistant Professor
+Dept. of Computer Science and Engineering 
+MITS, Gwalior
+‎[02/06/23, 9:24:42 PM] ~ Dr. Manish Dixit: ‎image omitted
+‎[08/06/23, 11:56:27 PM] ~ Avinash: Notice No. 37 Dated 01.06.2023.pdf • ‎1 page ‎document omitted
+‎[15/06/23, 4:24:10 PM] ~ Dr. Manish Dixit: Notice For 8th semester students.pdf • ‎1 page ‎document omitted
+[28/06/23, 4:40:34 PM] ~ Dr. Manish Dixit: Dear Prof. Manish Dixit,
+
+Greetings from Internshala!
+
+We are excited to inform you about the launch of our new campaign "Intern with Swiggy", where we are providing full-time internships with Swiggy across many cities.
+
+Students can apply here - internshala.com/i/db-swiggy. The last date to apply is 30th June 2023.
+
+What’s in it for MITS students?
+
+Internship with a job offer
+Stipend up to ₹15,000/month
+A prestigious internship certificate
+Internship details - It is an in-office internship and the duration of this internship is 2-3 months with the probability of a PPO. Students from all years and branches are eligible to apply.
+
+Kindly share this message with all your students, so they don't miss out on the opportunity.
+
+For any questions or concerns, please feel free to reply to this email and we will get back to you.
+
+Regards,
+Surbhi Garg
+Manager - University Relations
+Internshala ~ trusted partner of 4500+ colleges
+[01/07/23, 11:18:49 AM] Arun Sir Mits: Hello Everyone,
+
+I am hiring few interns (PAID INTERNSHIP at BOSCH) in my research group preferably M.Tech students ( B.tech is also fine considering they have required skill sets) for minimum *6 months to 12 months* . The required skills are *hands on experience with deploying AI/ML models on hardwares* such as Nvidia, Pi boards, Radar sensor board, resource constrained microcontrollers/processors. 
+
+The position is available immediately. This internship program will consider only in-person internship and will not be remote.
+
+For any query please reach out to me: alok_ranjan@ieee.org
+[01/07/23, 11:19:11 AM] Arun Sir Mits: Interested candidates can reach out
+[01/07/23, 1:54:00 PM] ~ SMITA PARTE: ‎This message was deleted.
+[01/07/23, 1:54:02 PM] ~ SMITA PARTE: ‎This message was deleted.
+[01/07/23, 1:54:04 PM] ~ SMITA PARTE: ‎This message was deleted.
+[01/07/23, 1:54:06 PM] ~ SMITA PARTE: ‎This message was deleted.
+[02/07/23, 10:56:32 AM] Arun Sir Mits: Join our Free Online Workshop on "ChatGPT for Developers: Building Applications with Large Language Models (LLMs)" to revolutionize students' development skills, conducted by the Department of Computer Science and Engineering, Thapar Institute of Engineering and Technology, Patiala.
+
+We have a few seats open for students from other institutes. Interested students can join this by filling out the following form.
+
+The workshop will focus on training participants to utilize Large Language Models (LLMs) to reshape the software development landscape and leverage ChatGPT APIs to create innovative and robust applications.
+
+Workshop Details:
+
+Total Four Sessions of one hour each
+
+- Dates: July 19th (Wednesday), July 22nd (Saturday), July 26th (Wednesday), and July 29th (Saturday)
+
+- Time: 7:00 PM to 8:00 PM 
+
+Learning Outcomes:
+
+- Understand the working principle of Large Language Models (LLMs)
+
+- Master the use of OpenAI API calls for ChatGPT applications
+
+- Develop applications for summarizing, inferring, transforming text, and expanding using OpenAI API calls
+
+- Efficiently build multi-step systems using large language models
+
+- Learn to break down complex tasks into subtasks using multistage prompts
+
+- Evaluate the safety, accuracy, and relevance of LLM inputs and outputs
+
+- Build your custom chatbot with ChatGPT
+
+ Please note:
+
+- This workshop focuses on using OpenAI API calls in Python to build applications with ChatGPT. To learn more about OpenAI API, please refer to Introduction - OpenAI API.
+
+- The content does not cover the traditional interactive ChatGPT interface.
+
+ - Having a basic understanding of Python can be helpful during the workshop. However, it is not a mandatory requirement for participation. The workshop is designed to accommodate individuals with varying programming experience levels, including those new to Python.
+
+There is no registration fee for this workshop.
+
+This registration form is intended for individuals genuinely interested in attending the workshop and committed to participating in all four sessions. If you cannot attend all sessions, we request that you refrain from registering at this time.
+
+We have limited seats, and confirmation will be on a first-come, first-serve basis.
+
+Fill out this form by July 12th, 2023.
+
+https://forms.gle/nFP8qymWrabBs8Vr7
+‎[02/07/23, 10:56:34 AM] Arun Sir Mits: ‎image omitted
+[03/07/23, 8:54:01 AM] Nishika Mits Cse: गुरु गोविंद दोऊ खड़े, काके लागू पाय । बलिहारी गुरु आपनो, जिन गोविंद दियो बताय ।। 
+Happy guru Purnima to all the professors 🙌🏼✍🏻🙏
+[03/07/23, 8:59:57 AM] Piyush Sanwale Mits: गुरु आपके उपकार का
+कैसे चुकाऊं मैं मोल
+लाख कीमती धन भला
+गुरु है मेरा अनमोल।
+
+गुरु पूर्णिमा के इस पावन अवसर पर सभी गुरुजनों को लख लख वंदन।।
+[03/07/23, 10:10:35 AM] Anshul Mishra Mits: *गुरु पूर्णिमा के पावन पर्व की हार्दिक शुभकामनाएँ व बधाई...!!!* 🙏🏻🙇🏻‍♂️
+[03/07/23, 10:11:39 AM] Tarun Wakalwar Mits: *गुरु पूर्णिमा के पावन पर्व की हार्दिक शुभकामनाएँ व बधाई...!!!* 🙏🏻🙇🏻‍♂️
+[03/07/23, 11:31:52 AM] ~ ~Âmàn Chou®️asiya✓: Guru Purnima is a reminder that learning is a lifelong journey, and there is always something new to learn from the guru's wisdom....
+
+Happy guru Purnima....✍🏻🙏
+[03/07/23, 3:48:32 PM] Akhil Jain Mits: सभी गुरुजनों को गुरु पूर्णिमा की हार्दिक शुभकामनाएं 🙏🏻!
+‎[06/07/23, 3:11:18 AM] ~ Dr. Manish Dixit: NEC Registration Notice July-Dec-2023.pdf • ‎3 pages ‎document omitted
+[06/07/23, 5:38:01 PM] ~ Rajni Ranjan Singh: https://forms.gle/h2cmfHSyFcHfMdhC9
+[06/07/23, 5:38:39 PM] ~ Rajni Ranjan Singh: Hostel admission form ☝️
+[07/07/23, 12:32:54 PM] Tarun Wakalwar Mits: Ok sir
+[09/07/23, 1:13:18 PM] ‪+91 99274 96501‬: Remedial/ Doubt Class Mathematics-II( Vector Calculus) CS(B) 
+Sunday, 9 July · 1:30 – 2:30pm
+Google Meet joining info
+Video call link: https://meet.google.com/zzk-ppbk-ejy
+[09/07/23, 1:37:43 PM] ‪+91 99274 96501‬: CLASS WILL START AT 2PM. WITH SAME LINK
+[09/07/23, 1:43:55 PM] ‪+91 99274 96501‬: Remedial/ Doubt Class Mathematics-II( Vector Calculus)
+Sunday, 9 July · 1:30 – 2:30pm
+Google Meet joining info
+Video call link: https://meet.google.com/zzk-ppbk-ejy
+[10/07/23, 2:03:52 PM] ~ <sumit.h>: ‎POLL:
+Guys is nec website working ?
+‎OPTION: Yes (28 votes)
+‎OPTION: No (50 votes)
+‎[10/07/23, 2:29:07 PM] ~ Ruchi Maravi: ‎image omitted
+[10/07/23, 2:29:16 PM] ~ Kishan Patidar: Ho gaya
+[10/07/23, 2:29:28 PM] ~ Kishan Patidar: ??
+[10/07/23, 2:29:38 PM] ~ Ruchi Maravi: Open hi nhi ho raha hai
+[10/07/23, 2:29:46 PM] ~ Navneet 🍁: hn
+[10/07/23, 2:29:47 PM] ~ <sumit.h>: Nhi abhi tak down hai
+[10/07/23, 2:29:54 PM] Tarun Wakalwar Mits: +1
+[10/07/23, 2:30:01 PM] ~ Mr. RAM JI😎😎: ho jayega keep it up
+[10/07/23, 2:30:01 PM] ~ Shreya 🙈:-): Abhi yhi show ho rha h sbme....
+[10/07/23, 2:30:03 PM] ~ Ruchi Maravi: Bohot hi jada
+[10/07/23, 2:30:04 PM] Nishika Mits Cse: +1
+[10/07/23, 2:30:04 PM] ~ Kishan Patidar: Kal tak ho jayega
+[10/07/23, 2:30:34 PM] Karan Mits: Raat tak time h chill guys le lena agr th tk kuch bachega to😂
+[10/07/23, 2:30:35 PM] Anshul Mishra Mits: Badi samasya h jeevan me 🤧
+[10/07/23, 2:32:28 PM] ~ <sumit.h>: Cs ke to sare course chale gye hoge🥲
+[10/07/23, 2:32:30 PM] ~ Mr. RAM JI😎😎: btao 😊
+[10/07/23, 2:32:38 PM] ~ Mr. RAM JI😎😎: kitna padhoge bro
+[10/07/23, 2:32:47 PM] Anshul Mishra Mits: Kar naa khula??
+[10/07/23, 2:33:16 PM] ~ Mr. RAM JI😎😎: mera to ho gya hai bro😊
+[10/07/23, 2:33:28 PM] ~ Navneet 🍁: Hamra bhi karwa
+[10/07/23, 2:33:37 PM] Anshul Mishra Mits: Mera v kar bro ke bacche 🤦🏻‍♂️
+[10/07/23, 2:33:47 PM] ~ <sumit.h>: +1
+[10/07/23, 2:33:57 PM] ~ Mr. RAM JI😎😎: bhai ab mera bhi nhi khul rha hai yr
+[10/07/23, 2:34:49 PM] Anshul Mishra Mits: ‎This message was deleted.
+[10/07/23, 2:35:38 PM] ~ Mr. RAM JI😎😎: ‎This message was deleted.
+[10/07/23, 2:36:03 PM] ~ Kishan Patidar: Ye official gr hai bhai
+[10/07/23, 2:36:16 PM] ~ Mr. RAM JI😎😎: ‎This message was deleted.
+[10/07/23, 2:36:22 PM] Anshul Mishra Mits: ‎This message was deleted.
+[10/07/23, 2:37:01 PM] ~ Mr. RAM JI😎😎: like a protest😂
+[10/07/23, 2:37:35 PM] ~ Dev Mishra: ‎This message was deleted.
+[10/07/23, 2:37:55 PM] ~ Navneet 🍁: official to chod do
+[10/07/23, 2:38:22 PM] ~ Mr. RAM JI😎😎: ‎This message was deleted.
+[10/07/23, 9:07:41 PM] ~ Dr. Manish Dixit: https://acrobat.adobe.com/id/urn:aaid:sc:AP:a84335fd-beab-4f9b-91b6-6a3e00862880
+[10/07/23, 9:09:39 PM] ~ Dr. Manish Dixit: NEC registration, Technical issue
+[12/07/23, 2:33:00 PM] Amit Manjhavar Sir: Dear Students,
+
+Trilogy Innovations expresses great interest in recruiting students from our esteemed college.  
+
+About the Company: https://innovations.trilogy.com. Trilogy Innovations pride itself on being a software innovation factory. We are a software product development organization that resolves to solve the toughest business problems in the enterprise space. e-ppt attached for your reference and to share with all students.
+
+The role we are hiring for and compensation: The job description is attached below.  
+
+Summer Internship Internship profile: SDE Intern( Pre-final year students, passing out in 2025)
+Stipend: Rs 75,000 
+Location: Remote
+Tentative Start Date: 15th May 2024
+Duration of internship: 2 months
+
+Job Description 
+e-ppt
+student docket 
+
+Eligibility Criteria: All B.tech / M.tech / BSC / MSC / BCA / MCA graduates are allowed to apply for the position.
+
+Note: Students from all streams such as Computer science, Information technology, electronics, electrical, etc are all eligible. What will make the student successful in our process is mentioned in the attached Student docket for your reference and to share with all students.
+
+Recruitment Process :
+- 120 minutes technical test on an online platform
+- Shortlisted students from above take a 15-minute CCAT (Cognitive Criteria Aptitude Test)
+- Further shortlisted students go through 1-4 rounds of virtual technical interviews
+- Final step is a 15-minute PCCAT (Proctored Cognitive Criteria Aptitude Test) 
+
+Please share the registration link with the students: form link
+
+Deadline to fill out the form: 30th July 2023
+‎[12/07/23, 2:33:56 PM] Amit Manjhavar Sir: JAF Details- Intern hiring 2024 (1).docx ‎document omitted
+[12/07/23, 2:37:49 PM] ~ Sunil: ‎This message was deleted.
+[12/07/23, 2:46:45 PM] Amit Manjhavar Sir: https://docs.google.com/forms/d/e/1FAIpQLSfd2dxbwV9spcud-ZNRjjwtuhGewyWe_HnNaDNDYMsF7DPXig/viewform
+[12/07/23, 2:49:35 PM] ~ Sunil: ‎This message was deleted.
+[14/07/23, 5:14:24 PM] ~ <sumit.h>: Sir nec registration reopen kab honge
+[14/07/23, 5:16:47 PM] Nishika Mits Cse: +1
+[14/07/23, 5:21:47 PM] ~ AV...🇮🇳: +1
+[14/07/23, 5:26:32 PM] ~ Rahulverma: +1
+[14/07/23, 5:42:53 PM] ~ Aman Gupta: +1
+[14/07/23, 10:36:21 PM] ~ Ruchi Maravi: +1
+‎[14/07/23, 10:38:00 PM] Anshul Mishra Mits: ‎image omitted
+[14/07/23, 11:22:06 PM] Tarun Wakalwar Mits: Ok
+[15/07/23, 11:27:28 AM] Amit Manjhavar Sir: NEC Registration for UG III & V Sem. (July - Dec. 2023 Session) will  RESUME on 15th July 2023 at 4.00 pm on the NEC portal (https://nec.mitsgwalior.in  . All students who have yet not registered in any course are required to do the registration by using login id & password shared earlier or through institute mail id. 
+
+Those students who have already registered on 10th July 2023 in any course, need not to login again.
+
+
+Dr Rajeev Kansal
+Dean Student Welfare
+(off.) 0751-2409375
+MITS Gwalior.
+[15/07/23, 4:17:03 PM] ~ Dr. Manish Dixit: https://acrobat.adobe.com/id/urn:aaid:sc:AP:0ecbca51-3c3a-4ec7-bb97-4f8d56b6bdce
+[17/07/23, 3:35:21 PM] Amit Manjhavar Sir: The dates of depositing the semester fees of the following are from *15/07/2023 to 31/07/2023*:
+1. B.Tech 5th Sem All branches
+2. B.Tech 7th Sem All branches
+3. B.Arch 5th Sem
+4. B.Arch 7th Sem
+All students are required to deposit the fees *well before the last date* to avoid hassle due to any possible transaction failure and *to avoid late fees.*
+[17/07/23, 3:55:56 PM] Tarun Wakalwar Mits: Ok
+‎[18/07/23, 10:20:45 PM] ~ Dr. Manish Dixit: NEC Re-registration List.xlsx • ‎1 sheet ‎document omitted
+[18/07/23, 10:21:00 PM] ~ Dr. Manish Dixit: Dear Students,
+
+In view of very few registrations in the Novel Engaging Course selected by you for the July - Nov. 2023 session, it is not possible to run that course.
+
+Hence, you are required to re-register for a new course. The procedure for registration will remain the same as earlier.
+
+NEC portal will open for registration tomorrow dated 19th July 2023 at 4.00 pm.  
+
+List of students required to do the registration is attached for reference.
+‎[19/07/23, 3:49:19 PM] Amit Manjhavar Sir: ‎image omitted
+[19/07/23, 5:15:42 PM] ~ jaimala jha: https://docs.google.com/forms/d/e/1FAIpQLSfo1PzSuZr1tmnwx9qhpFbqDl7cEUyAdBOzPBtEbUS-v87cAA/viewform?usp=pp_url
+‎[20/07/23, 5:52:13 PM] ~ SMITA PARTE: ‎image omitted
+[20/07/23, 6:13:33 PM] Nishika Mits Cse: maam can we select any course of our choice or list will be provided??
+[20/07/23, 6:40:12 PM] ~ SMITA PARTE: List will be provided
+[20/07/23, 6:40:28 PM] Nishika Mits Cse: ok maam
+‎[25/07/23, 12:52:32 PM] ~ SMITA PARTE: ‎image omitted
+[25/07/23, 1:15:54 PM] Harsh Shrivasta Mits: Mam please courses ki list share kar dijiye out of which courses opt karne hai!
+[25/07/23, 1:16:51 PM] Arshita Garg Mits: ‎This message was deleted.
+[25/07/23, 1:20:35 PM] ~ Harshit Sharma: ‎This message was deleted.
+‎[25/07/23, 2:50:18 PM] ~ SMITA PARTE: Master_File_Swayam_2023_July_Dec 2023.pdf • ‎5 pages ‎document omitted
+[25/07/23, 2:50:19 PM] ~ SMITA PARTE: Final list of offered courses
+[25/07/23, 3:23:27 PM] ~ Harshit Sharma: @919907525480 mam seminar self study /nptel ke course ka list bta dijiye
+[25/07/23, 3:30:33 PM] Harsh Shrivasta Mits: Ye raha
+[25/07/23, 3:30:39 PM] Harsh Shrivasta Mits: @919131005528
+[25/07/23, 3:32:34 PM] ~ Harshit Sharma: Arey ye waala to alag hai na
+[25/07/23, 3:32:39 PM] ~ Harshit Sharma: Iska alag se milega na shayad
+[25/07/23, 3:37:56 PM] ~ SMITA PARTE: Yes....it will be provided to you soon...
+[25/07/23, 3:56:08 PM] ~ ~Âmàn Chou®️asiya✓: https://chat.whatsapp.com/ETDcvbcbvQ79MjU7qkJKtw
+[25/07/23, 3:56:21 PM] ~ ~Âmàn Chou®️asiya✓: B- Batch only
+[25/07/23, 4:53:10 PM] ~ moonknight: ‎This message was deleted.
+[25/07/23, 10:33:06 PM] ~ Mr. RAM JI😎😎: ‎This message was deleted.
+[25/07/23, 10:33:06 PM] ~ Mr. RAM JI😎😎: ‎This message was deleted.
+[25/07/23, 10:47:30 PM] ~ <sumit.h>: ‎This message was deleted.
+[25/07/23, 10:51:07 PM] ~ praтнaм🤍: is nptel swayam compulsory for all
+[25/07/23, 11:21:53 PM] ~ Navneet 🍁: ‎This message was deleted.
+[26/07/23, 12:19:20 PM] ~ Mr. RAM JI😎😎: @919981181018 maim plz provide us rescheduled time table of classes
+[26/07/23, 12:19:38 PM] Piyush Sanwale Mits: +1
+‎[26/07/23, 1:07:03 PM] ~ SMITA PARTE: ‎image omitted
+[26/07/23, 2:33:50 PM] ~ Dr. Gagandeep Kaur: Students are required to submit Minor Project (150516) Title  with group members details( Max 2 allowed) in the link shared below:
+[26/07/23, 2:34:02 PM] ~ Dr. Gagandeep Kaur: https://forms.gle/nwuouNRycdZbnbNj8
+[27/07/23, 10:24:12 AM] ~ Dev Mishra: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/GSWl4kTJd2QGi5wFLFND6d
+[27/07/23, 2:11:13 PM] ~ Dr. Gagandeep Kaur: Follow this link to join my WhatsApp group: https://chat.whatsapp.com/Kk5bNxcoBu24t4jOUkVDa5
+[27/07/23, 2:35:13 PM] ~ SMITA PARTE: https://meet.google.com/poy-mtzy-ktb
+
+
+A *online meeting* is scheduled on 28/7/2023 Friday at 11:15 am
+ *Agenda:* Honour Minor courses offered and thier selection
+[27/07/23, 3:42:15 PM] ~ jaimala jha: Dear students those who involved in the training placement cell students coordinator are required to report/ meet to the T&P office.
+Also can contact to the given no. 8435516429 
+Shristi Singh
+[27/07/23, 6:15:16 PM] ~ <sumit.h>: ‎This message was deleted.
+[27/07/23, 6:15:24 PM] ~ <sumit.h>: ‎This message was deleted.
+[28/07/23, 11:01:45 AM] ~ SMITA PARTE: https://meet.google.com/poy-mtzy-ktb
+
+
+A *online meeting* is scheduled on 28/7/2023 Friday at 11:15 am
+ *Agenda:* Honour Minor courses offered and thier selection
+[28/07/23, 11:12:27 AM] ~ SMITA PARTE: Join fast
+[28/07/23, 11:17:52 AM] Mohit Sharma Mits: ‎This message was deleted.
+‎[28/07/23, 11:32:51 AM] ~ SMITA PARTE: ‎image omitted
+‎[28/07/23, 12:12:18 PM] ~ SMITA PARTE: ‎image omitted
+[28/07/23, 12:18:08 PM] Shivam Kumar Mits: Ma'am please provide the complete sheet so that we can see the course code + registration link as well
+‎[28/07/23, 12:29:51 PM] ~ Khushboo Agarwal: master time table_19july.xlsx ‎document omitted
+‎[28/07/23, 12:30:13 PM] ~ SMITA PARTE: revised-27-7-23-CSE-SWAYAM Enrollment _Session July-Dec 2023.pdf • ‎1 page ‎document omitted
+[29/07/23, 11:31:20 PM] Hemlata Ma'am: Dear students,
+
+Regarding Trilogy Innovations Intern Hiring.
+
+This is for 2025 Graduating Batch who are now in Pre-final year.
+
+This is a gentle reminder about the upcoming hiring test scheduled for August 6th, from 12 pm to 2 pm.  
+
+To ensure a successful recruitment drive, sharing the registration link and important details with potential candidates who may be interested in this opportunity.  
+
+Test Details: Date: August 6th, 2023 
+Time: 12 pm to 2 pm  
+Register here: form link
+The deadline to register for the test is July 30th, 2023. 
+
+Please inform all candidates to complete the registration process within the specified timeframe. 
+
+ For any questions or further information about the test, please write back to us. 
+
+
+If you have already registered, please ignore this reminder.
+
+trilogy.com
+
+Thanks
+
+TP Cell
+[29/07/23, 11:37:15 PM] Hemlata Ma'am: https://docs.google.com/forms/d/e/1FAIpQLSfd2dxbwV9spcud-ZNRjjwtuhGewyWe_HnNaDNDYMsF7DPXig/viewform
+[29/07/23, 11:37:23 PM] Hemlata Ma'am: Link for Registration👆👆
+[31/07/23, 9:28:46 AM] ~ SMITA PARTE: in 5 semester for honours degree the the 3rd track is - High Performance Computing  - courses offered in this semester are  1)Multi-Core Computer Architecture  2)Distributed Systems
+[31/07/23, 9:30:09 AM] ~ SMITA PARTE: You people can also have choice for 3rd track..High performance Computing as Honour course
+[31/07/23, 9:30:50 AM] Shivam Kumar Mits: What is its course Id in neptel ??
+‎[31/07/23, 10:24:54 AM] ~ SMITA PARTE: ‎image omitted
+[31/07/23, 10:03:10 PM] Harsh Shrivasta Mits: https://chat.whatsapp.com/EFtRJ337L9g9WgqPTRKaXu
+‎[01/08/23, 11:38:39 AM] ~ Mr. RAM JI😎😎: ‎image omitted
+‎[02/08/23, 10:49:02 AM] ~ SMITA PARTE: ‎image omitted
+[02/08/23, 10:53:23 AM] Hemlata Ma'am: Dear Students,
+
+These contents are Uploaded in the Course Section of "Networking with TCP/IP" on my Moodle page 👇🏻👇🏻
+1. Academic Calander
+2. Scheme
+3. Syllabus
+4. Lecture Plan
+5. Study Material (like PPT, Books etc.)
+[02/08/23, 10:59:22 AM] ~ Kratika Sharma: You all are required to join the given group for Disaster Management updates and discussions:
+https://chat.whatsapp.com/Ktjy7alGdf99FKpRtmpBzL
+[02/08/23, 1:52:06 PM] ~ Khushboo Agarwal: ‎This message was deleted.
+‎[02/08/23, 2:03:35 PM] ~ Khushboo Agarwal: master time table_01 Aug.pdf • ‎5 pages ‎document omitted
+[02/08/23, 7:29:34 PM] ~ Dr. Manish Dixit: Dear Students,
+We are thrilled and proud to share some exciting news with all of you. _*MITS Gwalior has been awarded the prestigious A++ Grade by the National Assessment and Accreditation Council (NAAC).*_ This recognition is a significant milestone for our institution and a testament to the collective efforts of our faculty, staff, and, most importantly, and above all our students.
+This recognition reaffirms that we are on the right path in providing you with a high-quality education and preparing you to excel in your chosen fields. It is a testament to the nurturing and supportive environment we strive to create, where your growth and success are at the heart of everything we do.
+Your enthusiasm, engagement, and involvement in various activities have contributed significantly to our institution's overall development and reputation. Together, we can continue to make MITS Gwalior a center of excellence in education and beyond. 
+Keep shining and making us proud!
+
+DIRECTOR
+[03/08/23, 11:15:38 PM] Hemlata Ma'am: Dear All,
+
+The Training and Placement Cell of MITS cordially invites you to Attend a Workshop  on "Financial Awareness" for Female Faculty and Students dated 07.08.2023 at Colloquium from 3:30 PM onwards. Male Faculty and students can also join.
+
+Do attend, it will be beneficial for your future career and financial decosions.
+‎[03/08/23, 11:15:39 PM] Hemlata Ma'am: ‎image omitted
+[04/08/23, 3:35:29 PM] ~ SMITA PARTE: Arshita Garg...plz send your mail id immediately
+[04/08/23, 3:44:17 PM] Arshita Garg Mits: Mam, sent personally
+[04/08/23, 3:45:22 PM] ~ SMITA PARTE: Ok
+[04/08/23, 11:57:36 PM] Hemlata Ma'am: Dear students,
+
+Your weekly quiz-1 is scheduled on my moodle page....everyone pls attempt....this is a mandatory activity for your performance evaluation...
+Time:- 10:00 AM
+Date:- 05/August/2023
+
+All the best 👍🏻👍🏻
+[04/08/23, 11:58:01 PM] ~ Ruchi Maravi: Done
+[05/08/23, 10:37:30 AM] Hemlata Ma'am: Reminder 👆🏻
+[05/08/23, 10:00:31 PM] ~ SMITA PARTE: ‎This message was deleted.
+[05/08/23, 10:02:33 PM] ~ SMITA PARTE: The following is a list of 4 th sem cse students that have not registered.
+0901CS211018', '0901CS211028', '0901CS211036', '0901CS211043', '0901CS211065', '0901CS211068', '0901CS211073', '0901CS211102', '0901CS211126', '0901CS211128', '0901CS211131', '0901CS223D04', '0901CS223D06', '0901CS223D07', '0901CS223D09'
+
+Join the course...as per scheme and list provided or contact me
+[05/08/23, 10:02:54 PM] ~ SMITA PARTE: 5 th sem
+[05/08/23, 10:16:24 PM] ~ AV...🇮🇳: Ma'am which course?
+[05/08/23, 10:18:15 PM] ~ SMITA PARTE: NPTEL
+[07/08/23, 8:07:00 AM] ~ 꿈🖤✨: ‎This message was deleted.
+‎[07/08/23, 11:43:08 AM] ~ SMITA PARTE: ‎image omitted
+‎[07/08/23, 3:44:13 PM] Hemlata Ma'am: ‎image omitted
+[07/08/23, 3:45:01 PM] Hemlata Ma'am: You all are pls come in colloquium for financial awareness workshop
+‎[08/08/23, 5:07:23 PM] ~ Khushboo Agarwal: master time table_03 Aug.pdf • ‎3 pages ‎document omitted
+[09/08/23, 6:59:33 PM] ~ Aryan Mishra: Dear Students,
+
+An exciting opportunity has come up for the students of your esteemed institute! Ode2Code 3.0 by Xiaomi is open for registrations and is inviting coding ninjas to showcase their skills! 
+
+
+Eligibility: Open to B.Tech and M.Tech students (2024, 2025 & 2026 Batch)
+
+Rewards: 
+
+PPIs to the Top 5 teams
+
+Cash prizes up to INR 2,25,000
+
+And goodies from MI!
+
+Registration Link: https://unstop.com/competitions/xiaomi-ode2code-30-xiaomi-india-713806?utm_source=ode2code&utm_medium=Placement-Cells&ref=jkcBmIUA
+
+
+Do participate in this opportunity to get a chance to beg PPIs and win exciting prizes! 
+
+
+
+Thanks
+
+T&P Cell
+‎[10/08/23, 11:13:22 PM] Hemlata Ma'am: ‎image omitted
+‎[10/08/23, 11:13:23 PM] Hemlata Ma'am: ‎image omitted
+[10/08/23, 11:13:23 PM] Hemlata Ma'am: *Want to learn AI &ML tools in coming days??* 🧐👩‍💻
+
+Department of CSE is organising A FIVE DAYS WORKSHOP ON "AI & ML TOOLS AND TECHNIQUES"
+
+Hello Aspiring Tech Enthusiasts😇📝,
+
+Here's a fantastic opportunity knocking at your door🚪 in collaboration🤝 with the *Code-War Club , Kanishka IT and IEEE Student Chapter , at MITS, Gwalior,* Department of CSE  proudly presents the *"AI & ML Tools and Techniques" Workshop.* 🖥️
+
+ _Details:_ 
+
+📌Title: AI & ML Tools and Techniques
+📌Date: August 21-25, 2023
+📌Time: 2:00-4:00 PM
+📍Venue: Data Science Lab
+📌Special Speaker: *Ms. Geeta Kakrani, CEO at Kanishka IT Pvt. Ltd.*✨ 
+
+ _Exciting Prizes for students with exceptional  performance🎁🎉, Hard-Copy Certificates for Winners and E-Certificates for all the participants_ 
+Hurry up to secure your spot.🏃🏻‍♂️
+
+Get ready for a transformative learning experience.💫
+
+For registration:- 👇🏻👇🏻
+Contact Prof. Hemlata Arya
+
+For any queries:- 
+
+ Teena Chhabra (9399849914)
+
+Naman Dubey (9685348248)
+
+Akhil Jain (8962860720)
+‎[11/08/23, 4:33:57 AM] Amit Manjhavar Sir: Notice No. 49, Dated 09.08.2023  -.pdf • ‎1 page ‎document omitted
+‎[12/08/23, 12:03:55 AM] ~ SMITA PARTE: ‎image omitted
+[12/08/23, 12:04:27 AM] ~ SMITA PARTE: ‼️💐Greetings💐‼️
+
+📢We are happy to inform you that the *Department of Computer Science and Engineering*, IEEE Student Chapter MITS and Karate-Do Association of Gwalior is going to organize a Training Session on " *Karate: A Defence Move",* by *Karate Expert Sensei Santosh Pandey* . 
+In this regard, we invite you to attend the Training Session in Director Office Lawn on 18th August 2023. Interested students should register at the link provided below:
+ *_https://forms.gle/R8babAQuaLYnoZbZ9_* 
+
+ 🗓️ *Date* : 18th August 2023 (Friday) 
+⏰ *Event Time* : 04:00 PM to 06:00 PM
+📍 *Venue* : Director Office Lawn
+📌 *Fees* : No Registration Fee                                                                                                                                                                                                             
+Note:
+👉🏻 *All Students and Faculty* 
+
+                                                 
+*Convener*
+*Dr. Manish Dixit*
+Professor & Head,CSE
+
+*Coordinator*
+*Prof. Smita Parte* 
+
+*Co-Coordinator*
+*Prof. Aashi Singh Bhadouria*
+*Prof. Kratika Sharma*
+[12/08/23, 9:09:52 AM] Mahesh Sir IT: Compiler Design quiz 1 ans quiz 2 are scheduled on 12/08/2023 and 13/08/2023 at 12:00 pm. All are required to attend the same.
+[12/08/23, 2:50:27 PM] ~ Saloni Thakre: Sir can you please open the quiz back, i forgot to attempt it।
+[12/08/23, 2:58:56 PM] ~ ♥️~🌸Varsha🌸~♥️: +1
+‎[12/08/23, 9:22:57 PM] Hemlata Ma'am: codewarfinal.mp4 ‎document omitted
+‎[12/08/23, 9:22:57 PM] Hemlata Ma'am: lv_0_20230812131832.mp4 ‎document omitted
+‎[12/08/23, 11:55:11 PM] Shivam Kumar Mits: CSE V Sem.pdf • ‎15 pages ‎document omitted
+[13/08/23, 12:22:43 PM] Shivam Kumar Mits: Do attempt the *Compiler Design* quiz till 1:00 pm
+[13/08/23, 12:50:43 PM] ~ Shruti Gupta: ‎This message was deleted.
+‎[13/08/23, 6:36:52 PM] ~ SMITA PARTE: ‎image omitted
+[13/08/23, 6:37:34 PM] ~ SMITA PARTE: Greetings from Madhav Institute of Technology and Science, Gwalior💐
+
+We are happy to inform you that the Department of Computer Science, IEEE Student Chapter MITS & IEEE Computer Society is going to organize Industry Collaborative Expert Lecture Series on "Data Science Expedition: Navigating Industries to Success", by Dr. Arun Kumar Singh. In this regard, we invite you to attend the Lecture in Computing Lab (PL-1). Interested students should register at the link provided below:
+📌 *Registration link for students*
+https://bit.ly/3OmBgA4
+📌 Date: 25th August 2023 (Friday) & 26th August 2023 (Saturday)
+📌Event Mode: Online
+📌Venue: Computing Lab (PL- 1)
+📌 Registration Fee: FREE                                                                                                                                                                                                              
+Note:
+👉🏻 Who can participate: Expected Participants are Students.  
+👉🏻 Compulsory for CSE Vth Sem Students
+
+                                                      
+*Convener*
+*Dr. Manish Dixit*
+Professor & Head
+*Coordinator*
+*Prof. Smita Parte* 
+*Prof. Aashi Singh Bhadouria*
+Dept. of Computer Science and Engineering 
+MITS, Gwalior
+[13/08/23, 6:44:08 PM] ~ SMITA PARTE: Dear *students* ,
+This Expert Lecture series is focused on development of Industry perspectives understanding toward your  Subject *Data Science 150511* as mentioned in your Fifth sem Scheme.
+
+‼️Your *presence* is *Mandatory* for all lectures 👈
+‎[13/08/23, 9:49:29 PM] Shivam Kumar Mits: Notice No. 47, Dated 04.08.2023 - 15 August 2023.pdf • ‎1 page ‎document omitted
+‎[14/08/23, 12:27:10 PM] Arun Sir Mits: ‎image omitted
+[14/08/23, 2:24:31 PM] ~ SMITA PARTE: Dear SWAYAM Coordinators,
+Only 5 days left for the exam registration in NPTEL Courses . Pl, motivate students to do early registration
+[14/08/23, 2:24:32 PM] ~ SMITA PARTE: *Last Date: 18.08.2023*
+‎[14/08/23, 5:44:50 PM] Amit Manjhavar Sir: ‎image omitted
+[15/08/23, 12:14:32 AM] ~ moonknight: Happy independence day 🇮🇳🇮🇳🇮🇳🇮🇳
+‎[15/08/23, 12:15:39 AM] ~ moonknight: ‎GIF omitted
+‎[15/08/23, 12:57:52 PM] Shivam Kumar Mits: ‎image omitted
+‎[15/08/23, 12:57:53 PM] Shivam Kumar Mits: ‎image omitted
+‎[15/08/23, 12:57:53 PM] Shivam Kumar Mits: ‎image omitted
+‎[15/08/23, 4:27:24 PM] ‪+91 94243 52977‬: ‎image omitted
+‎[16/08/23, 12:16:42 AM] Shivam Kumar Mits: ‎video omitted
+‎[16/08/23, 12:16:42 AM] Shivam Kumar Mits: ‎video omitted
+‎[16/08/23, 12:18:02 AM] Shivam Kumar Mits: ‎image omitted
+‎[16/08/23, 12:18:03 AM] Shivam Kumar Mits: ‎image omitted
+‎[16/08/23, 12:18:03 AM] Shivam Kumar Mits: ‎image omitted
+‎[16/08/23, 12:18:04 AM] Shivam Kumar Mits: ‎image omitted
+[16/08/23, 2:19:05 PM] ~ SMITA PARTE: Last date to register for the NPTEL examination in  Set-1(4/8/12 week) course is going to be closed on 18.08.2023(Extended Deadline)....Get Register ....for Exam immediately
+[16/08/23, 4:19:30 PM] ~ praтнaм🤍: For honours naa
+‎[18/08/23, 1:42:10 PM] ~ SMITA PARTE: ‎image omitted
+‎[18/08/23, 3:29:20 PM] ~ Khushboo Agarwal: master time table_03 Aug _17 aug.pdf • ‎4 pages ‎document omitted
+‎[18/08/23, 8:13:09 PM] Shivam Kumar Mits: ‎image omitted
+‎[18/08/23, 9:15:50 PM] Nishika Mits Cse: ‎image omitted
+‎[18/08/23, 9:16:11 PM] Nishika Mits Cse: ‎image omitted
+‎[18/08/23, 9:16:11 PM] Nishika Mits Cse: ‎image omitted
+‎[18/08/23, 9:16:12 PM] Nishika Mits Cse: ‎image omitted
+[18/08/23, 9:42:25 PM] ~ <sumit.h>: ‎This message was deleted.
+[19/08/23, 9:42:47 AM] Mahesh Sir IT: Compiler Design quiz will be opened at 12:00 pm today. All are required to attend the same.
+[19/08/23, 10:43:30 AM] Hemlata Ma'am: Dear students,
+
+Your weekly quiz  is scheduled on my moodle page for networking with TCP/IP ...
+
+Time:- 4:00 PM
+
+👍🏻👍🏻
+[21/08/23, 2:37:49 PM] Amit Manjhavar Sir: Dear students,                   It is advised to all  CSE 3rd Year students to attend classes regularly and maintain the attendance percentage of theory and practical classes as per MITS norms. If students attendance falls short then they may debar from mid sem exam.                        FRIM                    B.TECH CSE 3RD YEAR COORDINATOR
+‎[21/08/23, 3:17:55 PM] ~ SMITA PARTE: ‎image omitted
+‎[21/08/23, 3:17:56 PM] ~ SMITA PARTE: ‎image omitted
+‎[21/08/23, 3:17:57 PM] ~ SMITA PARTE: ‎image omitted
+[21/08/23, 3:51:37 PM] ~ Naval 75: Enroll my sir
+‎[21/08/23, 7:09:23 PM] ~ SMITA PARTE: ‎image omitted
+‎[22/08/23, 8:24:03 AM] Arun Sir Mits: AAC EDU Kit 2023.pdf • ‎14 pages ‎document omitted
+‎[22/08/23, 2:16:29 PM] ~ SMITA PARTE: ‎image omitted
+[22/08/23, 3:13:24 PM] Tarun Wakalwar Mits: ‎This message was deleted.
+‎[24/08/23, 5:29:10 PM] ~ SMITA PARTE: ‎image omitted
+‎[24/08/23, 5:29:30 PM] ~ SMITA PARTE: ‎image omitted
+[24/08/23, 5:34:10 PM] ~ SMITA PARTE: All students must report at *10:30 am tomorrow* on 25/8/2023 Friday.. Attendance of your classes  will be counted in EXPERT LECTURE Session..
+ *Attendance is Compulsory*
+[24/08/23, 9:20:04 PM] ~ Dr. Manish Dixit: It's compulsory for students of 3rd year CSE
+[25/08/23, 11:01:46 AM] ~ SMITA PARTE: Greetings from Madhav Institute of Technology and Science, Gwalior💐
+
+Congratulations, you have been selected to attend the Industry Collaborative Expert Lecture Series for Data Science by Arun Kumar Singh (Data Research Scientist)  on 25/08/2023 and 26/08/2023 from 10:30pm. Please join the lectures online from the given link below.
+
+Topic: Data Science Expedition: Navigating Industries to Success.
+Time: August 25, 2023 10:30 AM India and  August 26, 2023 10:30 AM India
+
+Join Google Meeting
+https://meet.google.com/taj-bjvh-dti
+
+Time: 10:30Am
+Venue: PL-1
+Note: Please Download and Register yourself in Google Meet before the scheduled time.
+
+
+Convener
+Dr. Manish Dixit
+Professor & Head
+Dept of CSE
+MITS, Gwalior
+
+Coordinator
+Prof. Smita Parte
+Prof. Aashi Singh Bhadouria
+Dept of CSE
+MITS, Gwalior
+‎[25/08/23, 11:22:57 AM] ~ SMITA PARTE: ‎image omitted
+[25/08/23, 11:38:32 AM] ~ Jatin Kaushal: ‎This message was deleted.
+‎[25/08/23, 11:40:50 AM] ~ SMITA PARTE: ‎image omitted
+‎[25/08/23, 11:42:47 AM] Arun Sir Mits: ‎image omitted
+‎[25/08/23, 12:19:08 PM] Amit Manjhavar Sir: Remedial TT July-Dec 2023.pdf • ‎3 pages ‎document omitted
+[25/08/23, 8:09:25 PM] ~ SMITA PARTE: ❗💐Greetings💐❗
+
+ *Congratulations* ! 🎉, you have been selected to attend the Industry Collaborative Expert Lecture Series for *Data Science* by *Dr. Arun Kumar Singh* (Data Research Scientist)  on 25/08/2023 and 26/08/2023 from 10:30pm. 
+
+ Google Meeting LINK:
+ *https://meet.google.com/taj-bjvh-dti* 
+
+Topic: *Data Science Expedition: Navigating Industries to Success.* 
+
+Date:  *26/8/2023* 
+Day: *SATURDAY* 
+Time: *10:30 AM* 
+
+Note: Please Download and *JOIN* yourself in Google Meet before the scheduled time.
+
+BY:
+*Department of CSE*
+[25/08/23, 8:10:42 PM] ~ SMITA PARTE: ‼️Attendance link will be provided *during session* in chat box‼️👈
+‎[26/08/23, 10:18:56 AM] Arun Sir Mits: about.pdf ‎document omitted
+‎[26/08/23, 10:19:21 AM] Arun Sir Mits: ‎image omitted
+[26/08/23, 10:31:47 AM] ~ SMITA PARTE: Join.... plz
+[26/08/23, 10:46:05 AM] Shivam Kumar Mits: Everyone try to join with their college id...Not from ur personal Id
+[26/08/23, 10:46:41 AM] ~ SMITA PARTE: Join fast ...
+‎[26/08/23, 10:54:24 AM] ~ SMITA PARTE: ‎image omitted
+‎[26/08/23, 10:55:22 AM] ~ SMITA PARTE: ‎image omitted
+‎[26/08/23, 10:59:35 AM] ~ SMITA PARTE: ‎image omitted
+‎[26/08/23, 11:09:56 AM] Shivam Kumar Mits: ‎image omitted
+[26/08/23, 11:10:16 AM] ~ SMITA PARTE: 👍
+‎[26/08/23, 11:16:52 AM] ~ SMITA PARTE: ‎image omitted
+‎[26/08/23, 11:35:54 AM] ~ SMITA PARTE: ‎image omitted
+‎[26/08/23, 11:48:05 AM] ~ SMITA PARTE: ‎image omitted
+‎[26/08/23, 11:54:13 AM] ~ SMITA PARTE: ‎image omitted
+‎[26/08/23, 11:55:18 AM] ~ SMITA PARTE: ‎image omitted
+[26/08/23, 11:59:20 AM] ~ Manish Verma: Remove Rinku
+[26/08/23, 11:59:31 AM] ~ Manish Verma: CR
+[26/08/23, 12:00:26 PM] ~ ~Âmàn Chou®️asiya✓: Visitor
+‎[26/08/23, 12:00:37 PM] ~ ~Âmàn Chou®️asiya✓: ‎image omitted
+‎[26/08/23, 12:05:31 PM] ~ SMITA PARTE: ‎image omitted
+‎[26/08/23, 12:12:47 PM] ~ SMITA PARTE: ‎image omitted
+‎[26/08/23, 12:13:32 PM] Shivam Kumar Mits: ‎image omitted
+‎[26/08/23, 12:13:47 PM] ~ SMITA PARTE: ‎image omitted
+‎[26/08/23, 12:16:41 PM] ~ SMITA PARTE: ‎image omitted
+[26/08/23, 12:20:05 PM] ~ SMITA PARTE: Dear students...all are maintaining good decipline and decorum....plz prepare some questions for this session....for the end ..just write in chat box....👍...CR specially
+‎[26/08/23, 12:31:09 PM] ~ SMITA PARTE: ‎image omitted
+‎[26/08/23, 12:43:46 PM] ~ SMITA PARTE: ‎image omitted
+‎[26/08/23, 12:49:16 PM] ~ SMITA PARTE: ‎image omitted
+‎[26/08/23, 12:52:25 PM] ~ SMITA PARTE: ‎image omitted
+‎[26/08/23, 12:54:13 PM] ~ SMITA PARTE: ‎image omitted
+[26/08/23, 1:02:26 PM] ~ SMITA PARTE: ‎This message was deleted.
+‎[26/08/23, 1:20:51 PM] ~ SMITA PARTE: ‎image omitted
+[26/08/23, 1:31:54 PM] ~ SMITA PARTE: ☝️
+‎[26/08/23, 5:55:15 PM] Shivam Kumar Mits: ‎image omitted
+[26/08/23, 8:58:18 PM] ~ Rohit: ‎~ Dr. Manish Dixit added ~ Rohit
+‎[30/08/23, 12:38:16 PM] ~ Dr. Manish Dixit: ‎image omitted
+[31/08/23, 11:20:21 AM] Amit Manjhavar Sir: Dear Training and Placement Head,
+
+Goldman Sachs is Hiring 2025 Batch Students!
+
+Goldman Sachs has launched its Engineering Campus Hiring Program!
+Application Link: https://bit.ly/goldmanhiring2025
+Step-by-Step Registration Process Video: https://youtu.be/-KOgdXL1HDc
+
+Many students last year made a mistake in the application form and did not get the Exam link , hence kindly ask the students to refer above video before applying
+Registrations:  28th August - 10th September
+Aptitude Test:  September, 2nd week
+Coursework:  October
+Technical Test:  November, 1st week
+Interviews:  November, 4th week
+Offer Rollout:  January
+Talent Battle will be conducting Free Training for Goldman Sachs Aptitude Round 1. Interested Students can register for the Free Training here: https://forms.gle/Yos2xnwFiBF1dDxy5
+
+Note: Talent Battle is not conducting this drive but just providing you this information so that deserving candidates from your college can utilize this opportunity. For any queries, you can directly contact the company at the contact details given on their website. 
+
+Also, we have created an exclusive group of Training and Placement Officers for such updates. Kindly let us know if you are interested in joining our WhatsApp Group.
+
+Warm Regards,
+Niranjan Kulkarni,
+Talent Battle Pvt. Ltd.
+www.talentbattle.in
+P.S. Talent Battle is a one-stop platform for placement preparation. We can conduct Campus Recruitment training and all types of company-specific training in all modes like Online/Classroom-based/ Self Paced. Kindly let us know if you have any such training requirements. We can have a call/meeting to discuss this in detail.
+[02/09/23, 9:41:37 AM] Mahesh Sir IT: Compiler Design Quiz 4  will be opened at 12:00 pm ( for those students who could not attended on privious week ) and Quiz 5 will be opened at 01:00 pm today (02-09-2023). All are required to attend the same.
+[02/09/23, 12:03:44 PM] Monica Patidar Cse Mits: Sir quiz 4 is not opened yet
+[02/09/23, 12:04:35 PM] Piyush Sanwale Mits: +1
+[02/09/23, 12:05:00 PM] Abhishek Tiwari Mits CSE: +1
+[02/09/23, 12:06:21 PM] ~ Vikas Sijoriya: +1
+[02/09/23, 12:06:43 PM] ~ Abhikash Bharti: +1
+[02/09/23, 12:09:44 PM] ~ Tanisha🖤: +1
+[02/09/23, 12:17:49 PM] Shivam Kumar Mits: Attempt quiz 5 instead of 4 as per the given timing on Moodle
+[02/09/23, 12:19:12 PM] Mahesh Sir IT: Quiz 4 reshduled it will be opened at 12:30
+[02/09/23, 12:32:23 PM] Mahesh Sir IT: Attend now
+[04/09/23, 7:34:19 PM] Hemlata Ma'am: Accenture Campus Online test is scheduled on 5th and 6th Sep in Institute for all 920+ students and in parallel teacher's day celebrations are also getting arranged in many departments with Music Systems. So in this regards, it is requested to all departments to please arrange the celebration with maintaining silence.
+
+Thanks
+T&P Cell
+[04/09/23, 7:34:19 PM] Hemlata Ma'am: Follow the Instructions 👆🏻 . Celebrate the event in decent way without disturbing placement & other important activities of the institute.
+‎[04/09/23, 9:51:48 PM] ~ Dr. Manish Dixit: ‎image omitted
+[05/09/23, 12:00:34 AM] Piyush Sanwale Mits: Your wisdom, dedication and kindness will always lead us on the right path and inspire us to be better human beings. Dear teacher, I wish you a happy teacher's day. Thank you for being the guide and for inspiring me to do well in my studies. 
+Happy teacher's day ❤️❤️
+[05/09/23, 12:13:26 AM] ~ Avinash: Happy teacher's day 😌
+[05/09/23, 12:13:43 AM] Tarun Wakalwar Mits: Happy teacher day
+[05/09/23, 12:15:40 AM] Tarun Wakalwar Mits: Happy Teacher's Day! On this special occasion, we celebrate the invaluable contributions of educators who shape our future. Teachers are the guiding lights of knowledge, igniting the flames of curiosity in young minds. They impart not only academic lessons but also life skills, fostering growth and development. Their dedication, patience, and passion inspire generations to learn, explore, and innovate. Teachers empower us to overcome challenges and reach new heights. As we honor them today, let's express our gratitude for their tireless efforts. Each word of thanks and appreciation is a tribute to the profound impact they have on our lives. Thank you, teachers, for your unwavering commitment!
+[05/09/23, 12:16:30 AM] ~ Chanchal Sharma: Chat gpt?
+[05/09/23, 12:16:38 AM] ~ Vishal: +1
+[05/09/23, 12:16:53 AM] ~ Abhikash Bharti: ‎This message was deleted.
+[05/09/23, 12:17:19 AM] ~ Shreya 🙈:-): In the classroom's warm embrace,🏢
+You light up knowledge's grace💡🕯️
+With wisdom in your guiding hand🧑‍🏫
+You help us all to understand💁
+
+Through lessons taught and stories shared,
+In your care, we're truly prepared.
+You plant the seeds of curiosity,🌱
+Nurturing our lifelong journey.🧑‍💻🧑‍🎓
+
+With patience, love, and boundless care,✨😌
+You teach us more than we're aware.🤌
+So, to our teachers, we say this day,🗣️
+In gratitude, we'll always stay.🙏🫶
+
+Your impact on our hearts will stay,😍
+In every lesson, come what may.🤩
+In your honor, we stand tall,🙇🫡
+For teachers, you inspire us all.🤗❤️
+
+Happy teacher's day to all teachers💐 🤩😍
+[05/09/23, 12:33:19 AM] ~ Aman Gupta: Dear teacher, Thanks for supporting and enlightening all of us all the way. If we all could have your blessing for a lifetime, we all would succeed the way as we have always done.
+Teachers have to lead by example, and you all have always been an excellent example to follow. As a student, I feel very grateful to have such a great mentors in my life. Happy Teacher’s Day to all my teachers🥳
+[05/09/23, 12:50:12 AM] Harsh Shrivasta Mits: Happy Teacher's Day!🥳 Thank you for being a guiding light in my life's journey.✨
+[05/09/23, 12:52:13 AM] ~ Navneet 🍁: Happy teacher's day ! 🥳
+[05/09/23, 12:52:26 AM] ~ Navneet 🍁: Riyal
+[05/09/23, 1:10:23 AM] Akhil Jain Mits: Happy teacher's day 🎉
+[05/09/23, 1:11:07 AM] Shreya Debnath WhatsApp Mits: Happy teacher's day✨
+[05/09/23, 7:38:19 AM] Anshul Mishra Mits: शिक्षक दिवस की हार्दिक शुभकामनाएं 📚🖊️📝🫶🏻❤️
+[05/09/23, 7:40:17 AM] ~ Ankit: Happy teacher's day 🎉
+[05/09/23, 7:57:03 AM] ~ ♥️~🌸Varsha🌸~♥️: Happy teacher's day 🌸🥰
+[05/09/23, 8:12:14 AM] Nishika Mits Cse: Happy teachers day🥳✨
+[05/09/23, 8:14:02 AM] ~ Yll: Happy teacher's day❤️🥰
+[05/09/23, 8:21:24 AM] ~ Sudhanshu_Jain❤️: On this special day, we want to express our gratitude for your unwavering commitment to education. Happy Teachers' Day  💙❤️🙏
+[05/09/23, 8:55:32 AM] ~ <sumit.h>: Grammarly premium
+[05/09/23, 9:10:46 AM] Divyat Agrawal: Happy Teacher's day 🎉
+[05/09/23, 9:16:56 AM] ~ <sumit.h>: Teaching not just a *profession* it's the intrinsic property of universe and the professors of *MITs* are the *BRAND* and *Next Gen* of teaching their dedication and commitment towards technology inspire us to be *game changer* in the globe 🌍
+Happy teacher's day to everyone we levelling up by your support
+[05/09/23, 10:13:28 AM] Bhavesh Joshi Mits: Happy Teacher's day 🙏🏻⭐
+[05/09/23, 10:18:50 AM] Arin Mits Cse: Happy Teacher's day 🙏🏻🥳
+[05/09/23, 10:28:56 AM] Abhishek Rajput Cse Mits: Happy Teacher's day 🎉🥳
+[05/09/23, 10:34:29 AM] ~ Anisha: Happy Teacher's day 🎊
+[05/09/23, 10:42:56 AM] Snehee Mits: Happy Teacher's Day 🌻
+[05/09/23, 10:44:15 AM] Harsh Agrawal Mits: Happy Teacher's Day
+[05/09/23, 10:46:08 AM] ~ Shruti.. 😉😉: Happy Teacher's day🙏🏻🙏🏻🥳🥳
+[05/09/23, 11:00:31 AM] ~ Pooja 💫: Happy Teacher's day ❤️💐💐
+[05/09/23, 11:18:04 AM] ~ GAURI: Happy Teacher's day 🙏🏻🙏🏻🌸🌸
+[05/09/23, 11:43:09 AM] ~ Shruti Gupta: Happy teacher's day 🥳🥳🤩🤩🙏🙏
+[05/09/23, 11:51:49 AM] ~ Parul~: Happy teacher's day 🥳🥳🎉
+[05/09/23, 1:40:09 PM] Ayushi Mits CSE: Happy teacher's day ♥️✨
+[05/09/23, 3:28:18 PM] Sourav Dinkar Cse Mits: Happy Teacher's day ❤️💐💐
+[05/09/23, 3:35:55 PM] ~ Shivraj: Happy Teacher's day 🎉💐
+[05/09/23, 9:06:49 PM] ~ Dr. Manish Dixit: Thanks to all students for their warm wishes. Keep learning.....!!!😊
+[05/09/23, 9:09:34 PM] Hemlata Ma'am: Thank you all dear students 🥰🌸
+‎[05/09/23, 10:23:32 PM] Shivam Kumar Mits: ‎image omitted
+[05/09/23, 10:25:46 PM] ~ Aryan: ‎This message was deleted.
+[07/09/23, 12:31:14 AM] ~ Mr. RAM JI😎😎: sir plz provide us time table of mid sem...
+[07/09/23, 1:47:30 AM] ~ praтнaм🤍: +1
+[07/09/23, 4:17:02 PM] ~ <sumit.h>: +1
+[07/09/23, 4:24:56 PM] ~ Aman Gupta: +1
+[07/09/23, 6:20:03 PM] Hemlata Ma'am: https://www.tata.com/careers/programs/tata-imagination-challenge
+[07/09/23, 6:20:04 PM] Hemlata Ma'am: Idea Buddy Phase
+
+Top 50 candidates with the best ideas will become the Finalists, who will pitch their idea to Tata leaders. Before the Finale, each Finalist will be paired with an Idea Buddy. These early-career Tata leaders will help you polish and perfect your idea presentation for the Finale.
+
+Start Date: 31 Oct 2023
+End Date: 19 Nov 2023
+[07/09/23, 6:20:06 PM] Hemlata Ma'am: The Tata Imagination Challenge 2023 is live 👇🏻
+
+· Cash prize of INR 2 lakh each to 13 Winners of Tata Imagination Challenge 2023
+· Popular Choice Award
+· Vouchers from Tata brands
+
+Eligibility: All undergraduate & postgraduate students from any stream across India
+[07/09/23, 9:18:47 PM] ~ Shruti Gupta: +1..
+[07/09/23, 9:26:16 PM] ~ Dr. Manish Dixit: Tomorrow by 12 noon,
+[07/09/23, 9:26:51 PM] ~ Dr. Manish Dixit: Time table and seating chart
+[07/09/23, 9:27:29 PM] ~ Dr. Manish Dixit: Ensure not to keep mobiles in your pocket, otherwise UFM will be booked.
+[07/09/23, 9:28:46 PM] ~ Dr. Manish Dixit: Also the list of the debarred students due to short attendance will be displayed tomorrow
+[07/09/23, 9:32:52 PM] Nishika Mits Cse: Sir minimum how much is required
+[08/09/23, 12:53:31 PM] ~ Nikhil: ‎~ soumya added ~ Nikhil
+‎[08/09/23, 3:45:43 PM] ~ Khushboo Agarwal: final mid sem 1_stu.docx ‎document omitted
+[08/09/23, 4:02:32 PM] ~ praтнaм🤍: All students eligible
+[08/09/23, 4:04:33 PM] ~ Navneet 🍁: Shi bata
+[08/09/23, 4:04:44 PM] ~ praтнaм🤍: Puch rhe
+[08/09/23, 4:05:21 PM] ~ Navneet 🍁: Bhai tune khush kar diya tha ques mark to laga diya kar
+[08/09/23, 4:05:35 PM] ~ Dev Mishra: Pr aap to cllg pehli baar Aae hai
+‎[08/09/23, 5:30:39 PM] Amit Manjhavar Sir: ‎image omitted
+‎[09/09/23, 3:04:58 PM] Amit Manjhavar Sir: 01 Mid Sem TT 11 09 2023  15 09 2023 (II, III & IV Year).pdf • ‎3 pages ‎document omitted
+‎[09/09/23, 3:05:58 PM] Amit Manjhavar Sir: 01 Mid Sem TT 11 09 2023  15 09 2023 (II, III & IV Year).pdf • ‎3 pages ‎document omitted
+‎[09/09/23, 3:05:58 PM] Amit Manjhavar Sir: 1st Mid Sem Time Table (Sept 2023) (Chemical Engg).pdf • ‎2 pages ‎document omitted
+[10/09/23, 8:13:09 PM] ~ Dr. Manish Dixit: Students are hereby informed to be seated for Midsem exam as per seating plan. Two sets of exam papers will be circulated in the room. UFM case will be booked, if found Mobile phone and any objectionable papers with you.
+[11/09/23, 1:15:55 PM] ~ Dr. Gagandeep Kaur: Ishita roll no 54 call immediately
+[11/09/23, 1:16:59 PM] ~ Dr. Gagandeep Kaur: ‎This message was deleted.
+[11/09/23, 1:17:17 PM] ~ Dr. Gagandeep Kaur: To Ankita Mam
+‎[11/09/23, 1:17:29 PM] ~ Dr. Gagandeep Kaur: ‎Contact card omitted
+[11/09/23, 1:48:05 PM] Amit Manjhavar Sir: regarding Internship Opportunities. 
+
+1) Traveloka Software Engineer Intern Jakarta, Indonesia
+Batch: 2025/2024
+Apply- https://lnkd.in/gQFyPzhf
+
+
+2) Coinhako Frontend Engineering Intern Singapore
+Batch: Not mentioned
+Apply- https://lnkd.in/g7Uw9PND
+
+3) Riot Games Software Engineering Intern USA
+Batch: 2025/2024
+Apply- https://lnkd.in/gJh4A-dF
+
+4) Microsoft User Experience Design Intern Bangalore/Hyderabad
+Qualification: Bachelor's or Master's Degree in Computer Design
+Batch: 2025
+Apply- https://lnkd.in/gT_meQUD
+
+5) Microsoft Consulting Services Intern Hyderabad
+Batch: 2025
+Apply- https://lnkd.in/gbagxrHm
+[12/09/23, 6:22:54 PM] ~ SMITA PARTE: https://forms.gle/woSvPq3PC9ZLngCt8  Attach NPTEL certificate if any
+‎[15/09/23, 10:53:08 AM] ~ SMITA PARTE: ‎image omitted
+[15/09/23, 11:23:20 AM] Amit Manjhavar Sir: Dear Students, 
+Fill your achievement details whether it's academic, extracurricular, or personal milestones through following google form Link : https://forms.gle/Njn7ywCSBjQAaqK77
+[15/09/23, 12:19:21 PM] Amit Manjhavar Sir: Pls find below the feedback form for SEP - 2023 conducted during summers. All faculty module coordinators are requested to please take feedback from students. Feedback form is common for all and students will give feedback modules wise which we have already mentioned in the form. 
+
+Feedback form link: https://forms.gle/o3xx4Ra36RrqbqN76
+‎[15/09/23, 12:41:22 PM] ~ SMITA PARTE: ‎image omitted
+[15/09/23, 12:41:46 PM] ~ SMITA PARTE: ❗💐Greetings💐❗
+
+ *Congratulations* ! 🎉, you have been selected to attend the Industry Collaborative Expert Lecture Series for *Data Science* by *Mr. Dushyant S Senger* DS and  AI
+Business Consultant US  on 15/09/2023   from 4:00pm. 
+
+ Google Meeting LINK:
+ *https://meet.google.com/taj-bjvh-dti* 
+
+Topic: *Data Science Expedition: Navigating Industries to Success.* 
+
+Date:  *15/9/2023* 
+Day: *FRIRDAY* 
+Time: *4:00-6:00PM* 
+
+Note: Please Download and *JOIN* yourself in Google Meet before the scheduled time.
+
+BY:
+*Department of CSE*
+[15/09/23, 1:36:00 PM] ~ Ranjeet Kumar Singh: Important Notice:
+*Faculty Feedback-I will start from 16/09/23 to 17/09/23. All students are required fill the faculty feedback form via MITS IMS portal.
+‎[15/09/23, 1:58:22 PM] ~ moonknight: ‎GIF omitted
+[15/09/23, 3:49:01 PM] ~ SMITA PARTE: Start joining... attendance form will be provided during session....
+[15/09/23, 3:55:20 PM] ~ SMITA PARTE: ❗💐Greetings💐❗
+
+ *Congratulations* ! 🎉, you have been selected to attend the Industry Collaborative Expert Lecture Series for *Data Science* by *Mr. Dushyant S Senger* DS and  AI
+Business Consultant US  on 15/09/2023   from 4:00pm. 
+
+ Google Meeting LINK:
+ *https://meet.google.com/taj-bjvh-dti* 
+
+Topic: *Data Science Expedition: Navigating Industries to Success.* 
+
+Date:  *15/9/2023* 
+Day: *FRIRDAY* 
+Time: *4:00-6:00PM* 
+
+Note: Please Download and *JOIN* yourself in Google Meet before the scheduled time.
+
+BY:
+*Department of CSE*
+[15/09/23, 3:56:01 PM] ~ SMITA PARTE: Attendance will be include in your theory class...join fast
+‎[15/09/23, 4:03:39 PM] ~ SMITA PARTE: ‎image omitted
+[15/09/23, 4:04:30 PM] ~ SMITA PARTE: Join fast
+‎[15/09/23, 4:17:35 PM] ~ SMITA PARTE: ‎image omitted
+[15/09/23, 4:24:51 PM] ~ SMITA PARTE: Only 40 students are there.....join immediately
+‎[15/09/23, 5:15:53 PM] ~ SMITA PARTE: ‎image omitted
+[15/09/23, 5:22:51 PM] ~ praтнaм🤍: ‎This message was deleted.
+[15/09/23, 5:26:24 PM] ~ Dr. Manish Dixit: Please join, it is compulsory for all students. He is our alumni.
+‎[15/09/23, 5:48:47 PM] ~ SMITA PARTE: ‎image omitted
+[15/09/23, 6:29:46 PM] ~ SMITA PARTE: https://www.linkedin.com/in/dushyant-singh-sengar-51561738/
+dushyantsengar2021@u.northwestern.edu
+[16/09/23, 4:39:48 PM] ~ Ranjeet Kumar Singh: Your feedback matters! We believe in continuous improvement and value your insights into your educational experience. To facilitate this, we have opened a two-day window (IMS Portal) for you to provide feedback. Your feedback plays a crucial role in helping our faculty members understand their strengths and areas that require enhancement. So it is compulsory.
+[16/09/23, 9:45:22 PM] Amit Manjhavar Sir: 🌟 Join the MITS Animation Club! 🌟
+
+Are you passionate about animation, 3D modeling, game development, content writing, or graphic design? We've got exciting opportunities for you! 🎮🎨📝
+
+*Animation club is now recruiting for the roles!*
+🖌 *Graphic Designers*: Create stunning posters, logos, and banners.
+🎮 *Game Developers*: Dive into Unity and bring your game ideas to life.
+📝 *Content Writers*: Craft compelling stories for social media and documents.
+🎨 *3D Modelers*: Explore Blender and build virtual worlds.
+
+_Apply Now_ : https://forms.gle/bRRwm2BkPvy7ahEz8
+
+🚀 Benefits of Joining:
+- Gain valuable skills
+- Collaborate with like-minded creatives
+- Showcase your work
+- Have a blast doing what you love!
+
+Don't miss out on this amazing opportunity! Let's animate our imaginations together! 🎉
+
+See you there! 🎬🎮🖋🎨
+[17/09/23, 9:13:27 AM] ~ Ranjeet Kumar Singh: Feedback response percentage is still very low, all the students are required to give their valuable feedback on IMS portal. Today is the last date for the same.
+[17/09/23, 11:18:02 AM] ~ Dr. Manish Dixit: Today is the last day, please do it positively.
+[17/09/23, 4:54:32 PM] ~ Ranjeet Kumar Singh: Feedback response percentage is still very low, all the students are required to give their valuable feedback on IMS portal. Today is the last date for the same.
+[17/09/23, 7:21:52 PM] ~ Ranjeet Kumar Singh: Dear students please fill the faculty feedback of all students it's necessary to all....
+[17/09/23, 7:21:52 PM] ~ Ranjeet Kumar Singh: Pls complete on time
+[18/09/23, 12:07:55 PM] Hemlata Ma'am: Dear Students, 
+ 
+T&P Cell, MITS with Firstnaukri.com conducting Pathfinder (An assessment )Test, which is made compulsory for all students to assess their skills set for employability in near future. 
+
+All students are required to attend the test genuinely from their own places anytime but in one go only. This test is just for assessment of students and reports will be shared for improvements. Nothing else. So, please give it on your own without any other means of sources. 
+
+Please find the below instruction 
+ 
+*Pre-registration link for engineering students:*
+
+https://www.firstnaukri.com/campusreg/nccchnt
+
+College Name: Madhav Institute of Technology and Science
+
+City: Gwalior
+
+For Batches: All Year Engineering Batches
+
+Test Name: Pathfinder
+
+Date: 19th September, 2023
+
+Timings: 10am to 6pm
+
+*Test Link:*
+
+https://www.firstnaukri.com/pathfinder/role-of-sde-in-software-products-company-1?utm_source=pfcampusnetwork&utm_medium=email&utm_campaign=Pathfindercnet
+ 
+*Pathfinder Test Details:*
+Test duration – 60 minutes
+Cover relevant skills - Programming, DSA, Aptitude, Technical knowledge
+
+Thanks
+T&P Cell
+MITS Gwalior
+‎[18/09/23, 2:38:09 PM] ~ SMITA PARTE: ‎image omitted
+[19/09/23, 10:24:11 AM] Shivam Kumar Mits: Today is holiday... No classes will be there for today
+[19/09/23, 5:27:35 PM] Amit Manjhavar Sir: ear Students, 
+ 
+
+T&P Cell, MITS with Firstnaukri.com conducting Pathfinder (An assessment )Test, which is made compulsory for all students to assess their skills set for employability in near future. 
+
+
+
+All students are required to attend the test genuinely from their own places anytime but in one go only. This test is just for assessment of students and reports will be shared for improvements. Nothing else. So, please give it on your own without any other means of sources. 
+
+
+
+Please find the below instruction 
+
+ 
+
+
+
+Pre-registration link for engineering students (To be shared with students as soon as possible)
+
+ 
+
+ 
+
+https://www.firstnaukri.com/campusreg/nccchnt
+
+ 
+
+ 
+
+College Name
+
+City
+
+For Batches
+
+Test Name
+
+Date
+
+Timings
+
+Test Link
+
+Madhav Institute of Technology and Science
+
+Gwalior
+
+All Year Engineering Batches
+
+Pathfinder
+
+19th September, 2023
+
+10:00 AM – 06:00 PM
+
+https://www.firstnaukri.com/pathfinder/role-of-sde-in-software-products-company-1?utm_source=pfcampusnetwork&utm_medium=email&utm_campaign=Pathfindercnet
+
+ 
+
+ 
+
+Pathfinder Test Details
+
+Test duration – 60 minutes
+
+Cover relevant skills - Programming, DSA, Aptitude, Technical knowledge
+
+ 
+
+
+
+
+
+Thanks
+
+T&P Cell
+
+MITS Gwalior
+[20/09/23, 1:29:22 PM] ~ Dr. Kuldeep N. Tripathi: ‎~ jaimala jha added ~ Dr. Kuldeep N. Tripathi
+[20/09/23, 5:31:48 PM] Amit Manjhavar Sir: PTM MEETING FOR BTECH CSE 3RD YEAR ST…
+View on Google Calendar
+When	Sat Sep 23, 2023 11am – 12pm (IST)
+Who	jaimala.jha@mitsgwalior.in, Amit Kumar Manjhavar*
+Agenda
+Sat Sep 23, 2023
+No earlier events
+11am	PTM MEETING FOR BTECH CSE 3RD YEAR ST…
+No later events
+ 
+Join with Google Meet
+Meeting link
+meet.google.com/maa-pnci-tfh
+Join by phone
+(US) +1 319-493-7995
+PIN: 846925106
+‎[20/09/23, 5:51:08 PM] ~ Khushboo Agarwal: master time table_03 Aug (5).xlsx ‎document omitted
+[20/09/23, 5:51:35 PM] ~ Khushboo Agarwal: Revised time table
+[20/09/23, 8:08:08 PM] ~ praтнaм🤍: ‎This message was deleted.
+[20/09/23, 8:08:41 PM] ~ praтнaм🤍: ‎This message was deleted.
+[20/09/23, 8:12:45 PM] ~ <sumit.h>: ‎This message was deleted.
+[20/09/23, 9:03:50 PM] Hemlata Ma'am: No pratham...
+[20/09/23, 9:04:17 PM] ~ praтнaм🤍: ok mam
+‎[20/09/23, 11:33:18 PM] Shivam Kumar Mits: ‎image omitted
+‎[20/09/23, 11:33:18 PM] Shivam Kumar Mits: ‎image omitted
+‎[20/09/23, 11:51:56 PM] Harsh Shrivasta Mits: Mentor-Mentee List-2023-24.xlsx ‎document omitted
+[21/09/23, 7:38:31 AM] ~ Dr. Kuldeep N. Tripathi: https://eyic.e-yantra.org/
+[21/09/23, 2:48:15 PM] Amit Manjhavar Sir: Request to circulate among Pre-final year students forSkills Enhancement Program (SEP) -2023 at MITS Gwalior for Pre-Final Year Students, Starting from 17th May, 2023.
+
+
+
+There will be a separate Information of Research Internship as well in the next email. 
+
+
+
+Both Research Internship and SEP-2023 Information Pages are available on the website as well. 
+
+
+
+
+
+Thanks
+
+T&P Cell
+
+
+
+________________________________________________________________________________________________________________________________
+
+
+
+Madhav Institute of Technology & Science, Gwalior, M.P., India
+
+
+A Govt. Aided UGC Autonomous & NAAC Accredited Institute, Affiliated to RGPV, Bhopal
+
+(Estd. in 1957)
+
+
+ 
+
+SKILLS ENHANCEMENT PROGRAM (SEP) - 2023
+
+(For Pre-Final Year Students)
+
+  
+
+
+ABOUT SKILLS ENHANCEMENT PROGRAM (SEP)
+
+
+Madhav Institute of Technology and Science, Gwalior introduces the Skills Enhancement Program (SEP) - 2022, Formerly known as Finishing School Program. Catering to Pre-Final year students of the Institute, the Module aspires to instil a synergy of both Soft Skills and Technical Acumen. It is a golden opportunity for students who haven’t been able to apply for an Internship due to any reason as this program is equivalent to any Internship. In keeping with Universal standards, the module boasts of skills required for Industry Readiness of contemporary times as well as aims to target the marketplace of the future.
+
+Salient Points-
+- The Skills Enhancement Program module will be treated as equable to Internship.
+- Details of courses offered are available below.
+- Module follows international standard of Finishing Schools.
+- Caters to Industry readiness and overall personality enhancement.
+
+ELIGIBILITY AND OTHER INSTRUCTIONS
+
+1.     The Skills Enhancement Program is designed only for pre-final year students of MITS, Gwalior.
+
+2.     The students must apply online. And, the program will be offline in the Institute and maybe in blended mode depending on module 
+
+3.     Also, students will get further communication from respective module coordinators after registration. 
+
+4.     Only 60-90 students' registrations will be considered in each module. Students' registrations will be accepted on First Come First Serve Basis only. 
+
+5.     Students can choose any interdisciplinary module as well depending on their interest and background knowledge.
+
+6.     The Skills Enhancement Program is free for the participants of pre-final year students of MITS.
+
+7.     These online modules will be conducted under the Skills Enhancement Program which will be considered equivalent to an Internship of Pre-final year students who could not get any Internship.
+
+8.     Duration of this program will be of three to four weeks which is equivalent to summer Internship period as per AICTE and our Institute policy. Daily no. of hours of online training may be flexible.
+
+9.     Soft Skills part will be covered by T&P Cell under Campus Placement Preparation Classes mainly for MITS students.
+
+10. Certificates will be issued to candidates who have attendance 75% or more and also score more than 60% in the test.
+
+11. STUDENTS CAN REGISTER ONLY ONCE. SO CHECK MODULES CAREFULLY BEFORE YOU START. 
+
+
+Dates
+
+·         Duration: 20-30 Days (Approximately)
+
+·         Registration Last Date: 15th May, 2023 till 2:00 PM
+
+·         Program Start From: 17th May 2023 
+
+MODULES
+
+ 
+
+S.No
+
+Modules
+
+Department
+
+    Detailed Modules link 
+
+1
+
+Decoding Heritage Structures
+
+Architecture & Planning
+
+   Links on Website and Detailed modules are attached as well 
+2
+
+Design of Waste-Water treatment systems as per CPHEED & B/S Norms
+
+ Civil Engineering
+
+3
+
+Data structures & Data Retrieval techniques : Problem solving approaches
+
+Computer Science and Engineering
+
+  
+
+4
+
+Getting Started with IoT: A Hands-On Approach
+
+Computer Science and Engineering
+
+5
+
+Design analysis of grid-connected and off-grid system
+
+Electrical  Engineering
+
+6
+
+Computer Aided Control and Automation 
+
+Electronics Engineering
+
+ 
+
+7
+
+Robotics and Automation
+
+8
+
+Deep Learning – Basics to Advance
+
+Information Technology
+
+ 
+
+9
+
+Google Services Option
+
+10
+
+Social Network Analysis
+
+11
+
+Industrial Automation and Mechanical Maintenance
+
+Mechanical Engineering
+
+
+REGISTRATION
+
+ 
+
+Online Registration for Students
+
+https://forms.gle/pG8CE658jNscV9z57
+
+
+
+
+
+CONTACT
+
+ 
+
+For any query, please contact through Email: tnp@mitsgwalior.in 
+
+
+
+______________________________________________________________________________________________________________
+
+
+
+
+
+Thanks
+
+T&P Cell
+[21/09/23, 2:51:54 PM] Nishika Mits Cse: ‎This message was deleted.
+[21/09/23, 2:56:29 PM] ~ Dr. Manish Dixit: In view of the election training on 22 Sep, 2023 the classes of afternoon session (after lunch) will be held as per scheduled time table. The forenoon classes will be rescheduled on some other day. All students are required to report as per schedule in the afternoon (post lunch session).
+[21/09/23, 4:27:17 PM] Amit Manjhavar Sir: please send the PTM feedback link to the students during the online parent-teacher meeting which will conducted on Saturday 23rd  September 2023.  
+
+and also maintain the records of that meeting.(no of students, no of parents, pics during meeting, points to be discussed /  any issues or feedback given by parents )
+
+
+Feedback Link
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSePV3Fga8n8sNQ3TgKfCXu_tgyTL3iwyhX6XoKullSAGcPExQ/viewform?usp=pp_url
+
+
+--
+‎[22/09/23, 5:45:00 PM] Amit Manjhavar Sir: Remaining Students.xlsx • ‎1 sheet ‎document omitted
+[22/09/23, 5:45:20 PM] Amit Manjhavar Sir: NEC Registration link is open till 5.00 pm on 26th Sept. 2023 for remaining students
+‎[22/09/23, 6:00:00 PM] ~ Khushboo Agarwal: master time table_03 Aug.pdf • ‎13 pages ‎document omitted
+[22/09/23, 6:01:03 PM] ~ Khushboo Agarwal: Revised master time table wef 25 sep
+[23/09/23, 10:30:02 AM] ~ Aryan Mishra: ***
+We cordially invite you for the internship and placements assistance online Assessment test.
+
+***
+
+Winner receives 15,000 INR and a trophy deeming  him as the New Age Domain champion with your college name.
+
+Top-10 receive a KIMO merchandise
+
+Please see below for the date and time of the competition as well as the registration details -
+
+Date - SEP 26th, 2023
+Time - 5 PM onwards.
+
+University code- MITS
+
+Please use this Registration link for signing up - 
+https://competition.kimo.ai/sign-up?college=Madhav%20Institute%20of%20Technology%20and%20Science&code=MITS
+
+*Note : It is mandatory to  give.
+
+All the best.
+-TnP Cell
+[23/09/23, 10:47:09 AM] Amit Manjhavar Sir: PTM MEETING FOR BTECH CSE 3RD YEAR ST…
+View on Google Calendar
+When	Sat Sep 23, 2023 11am – 12pm (IST)
+Who	jaimala.jha@mitsgwalior.in, Amit Kumar Manjhavar*
+Agenda
+Sat Sep 23, 2023
+No earlier events
+11am	PTM MEETING FOR BTECH CSE 3RD YEAR ST…
+No later events
+ 
+Join with Google Meet
+Meeting link
+meet.google.com/maa-pnci-tfh
+Join by phone
+(US) +1 319-493-7995
+PIN: 846925106
+[23/09/23, 10:47:34 AM] Amit Manjhavar Sir: please send the PTM feedback link to the students during the online parent-teacher meeting which will conducted on Saturday 23rd  September 2023.  
+
+and also maintain the records of that meeting.(no of students, no of parents, pics during meeting, points to be discussed /  any issues or feedback given by parents )
+
+
+Feedback Link
+
+
+https://docs.google.com/forms/d/e/1FAIpQLSePV3Fga8n8sNQ3TgKfCXu_tgyTL3iwyhX6XoKullSAGcPExQ/viewform?usp=pp_url
+
+
+--
+[23/09/23, 5:23:03 PM] ~ Aman Gupta: Greetings from DevTown! 🚀
+
+We are thrilled to announce an EXCLUSIVE opportunity just for you! 🎯
+Upskill yourself with our Training Program and get a GUARANTEED one-month Virtual Project Internship from your Dream Company. 🌟🎉
+
+Choose your desired MNC for the Virtual Internship Completion Certificate:
+- AWS (Amazon)
+- Deloitte
+- Walmart
+- JP Morgan & Chase Co.
+- Goldman Sachs
+- KPMG and many more...
+
+Join the ranks of 500+ students who've already successfully completed their internships and received their certificates 🏆🎓. What are you waiting for? 
+
+Benefits:
+👉 Premium Certifications
+👉 LOR
+👉 Industrial Projects
+👉 Job Assistance 
+👉 Mock Interviews
+👉 Resume Building 
+👉🏻Whoever miss the opportunity before can join take part for the internship
+👉🏻join the group while we upload interesting details and information of the internship👇👇👇
+
+
+
+Interested candidates, join the Group ASAP - 
+
+https://chat.whatsapp.com/JWh39bprW7vK9NspJ4EMBT
+
+⏰ Limited slots are available for the upcoming batches of September, October, and November Hurry up, and let's kickstart your dream career! 🚀💫
+[24/09/23, 12:58:44 PM] Hemlata Ma'am: Dear Students,
+
+Networking with TCP -IP Assignment-1 and Assignment -2 is available  on my moodle page. Kindly complete before the end date.
+
+Thanks & Regards
+Hemlata Arya
+[24/09/23, 1:01:22 PM] Hemlata Ma'am: Dear Students,
+
+Your weekly quiz is also available on my Moodle page. pls Attempt the quizzes...
+
+link for Quiz-3👇🏻👇🏻
+
+http://moodle.mitsgwalior.in/mod/quiz/view.php?id=90422
+
+Link for Quiz -4👇🏻👇🏻
+
+http://moodle.mitsgwalior.in/mod/quiz/view.php?id=90423
+
+Thanks & Regards
+Hemlata Arya
+[24/09/23, 1:02:09 PM] Hemlata Ma'am: Starting time today evening 4:20 PM
+‎[26/09/23, 11:13:32 AM] Mahesh Sir IT: V Sem.pdf • ‎2 pages ‎document omitted
+[26/09/23, 11:14:35 AM] Mahesh Sir IT: 👆above listed students are required to meet to me
+[29/09/23, 12:42:25 PM] ~ SMITA PARTE: All please give feedback of Expert Lectures...on Data science...on Moodle and also attempt QUIZ
+[29/09/23, 2:25:34 PM] Amit Manjhavar Sir: Dear Students, 
+ 
+
+T&P Cell, MITS with Firstnaukri.com conducting Pathfinder (An assessment )Test, which is made compulsory for all students to assess their skills set for employability in near future. 
+
+
+
+All students are required to attend the test genuinely from their own places anytime but in one go only. This test is just for assessment of students and reports will be shared for improvements. Nothing else. So, please give it on your own without any other means of sources. 
+
+
+
+Please find the below instruction 
+
+ 
+
+
+
+Pre-registration link for engineering students (To be shared with students as soon as possible)
+
+ 
+
+ 
+
+https://www.firstnaukri.com/campusreg/nccchnt
+
+ 
+
+ 
+
+College Name
+
+City
+
+For Batches
+
+Test Name
+
+Date
+
+Timings
+
+Test Link
+
+Madhav Institute of Technology and Science
+
+Gwalior
+
+All Year Engineering Batches
+
+Pathfinder
+
+27th  September, 2023
+
+10:00 AM – 11:59 PM
+
+https://www.firstnaukri.com/pathfinder/role-of-sde-in-software-products-company-1?utm_source=pfcampusnetwork&utm_medium=email&utm_campaign=Pathfindercnet
+
+ 
+
+ 
+
+Pathfinder Test Details
+
+Test duration – 60 minutes
+
+Cover relevant skills - Programming, DSA, Aptitude, Technical knowledge
+
+ 
+
+
+
+
+
+Thanks
+
+T&P Cell
+
+MITS Gwalior
+[29/09/23, 2:46:59 PM] Mahesh Sir IT: Compiler Design quizes and assignment are uploaded on my Moodle. Students are required to attempt and submit within given timeline.
+‎[29/09/23, 9:41:52 PM] Amit Manjhavar Sir: ‎image omitted
+[30/09/23, 1:44:49 PM] Amit Manjhavar Sir: Dear all Pre-final and final year students, regarding the Guidance session to be conducted by Dr. J. Ramkumar, Vice Chairman [GATE-2024), Professor, Mechanical Engineering Department, IIT-Kanpur. 
+
+They will be delivering a lecture on "Insights of GATE-2024". 
+
+Date:- 3rd Oct, 2023.
+Time:- 2nd Half (Exact Time we will inform all in advance)
+Venue: - Colloquium
+Attendees:- All B.Tech- Pre-Final and Final Year Students
+[30/09/23, 6:01:34 PM] Hemlata Ma'am: Scholarship for Third Year Engineering Students by Micron Technology.
+
+Scholarship worth 80,000 INR ✨✨
+
+Last Date of Application is 30th September ‘23
+
+Link to apply : https://uramscholarship.co.in/form.html
+[30/09/23, 6:29:22 PM] ~ Dr. Manish Dixit: Scholarship for Third Year Engineering Students by Micron Technology.
+
+Scholarship worth 80,000 INR ✨✨
+
+Last Date of Application is 30th September ‘23
+
+Link to apply : https://uramscholarship.co.in/form.html
+[30/09/23, 6:29:51 PM] ~ Dr. Manish Dixit: Today is last date
+[30/09/23, 6:48:55 PM] Amit Manjhavar Sir: Scholarship for Third Year Engineering Students by Micron Technology.
+
+Scholarship worth 80,000 INR ✨✨
+
+Last Date of Application is 30th September ‘23
+
+Link to apply : https://uramscholarship.co.in/form.html
+[30/09/23, 8:36:37 PM] Hemlata Ma'am: Google Summer Intern!
+Position: Engineering Intern
+Qualifications: Bachelor’s/ Master’s Degree
+Salary: 52K - 80K Per Month 
+Experience: Freshers
+Location: Bangalore/ Hyderabad
+
+📌Apply Link: https://merademyjobs.com/index.php/2023/09/30/google-is-hiring-for-application-engineering-intern-apply-now/
+[01/10/23, 8:25:01 PM] ~ praтнaм🤍: ‎This message was deleted.
+[03/10/23, 11:33:55 AM] Amit Manjhavar Sir: Today's Session for GATE Aspirants 2024 is at 2:15 PM sharp in Colloquium. 
+
+
+Request you all to please inform all B.Tech- Pre-Final and Final year students. 
+
+
+Regards,
+
+Vikram Rajput
+
+MITS Gwalior
+[03/10/23, 2:07:35 PM] Hemlata Ma'am: Dear students, pls come in colloquium near main porch...
+[03/10/23, 5:01:56 PM] Amit Manjhavar Sir: Students Data required for upcoming newsletter July Sept 2023. Student data like : internship data , sports data , club data , student chapter or any other achievements.  All students email their data at amitkumar@mitsgwalior.in
+[05/10/23, 11:28:27 PM] ~ Aryan Mishra: DXC Progressing Minds Scholarship Program 2023-24 :
+
+It is an initiative of DXC Technology that aims to support the educational/sports expenses of students who belong to margin.
+
+To know more about the scholarship visit : https://www.buddy4study.com/page/dxc-progressing-minds-scholarship
+
+* This scholarship is only for GIRLS ( 2nd and 3rd Year students)
+
+Last date to apply : 31st October, 2023
+
+Thanks
+T&p Cell
+‎[06/10/23, 11:18:06 AM] ~ Aman Gupta: ‎image omitted
+[06/10/23, 12:54:27 PM] Amit Manjhavar Sir: Ye jiska bhi ho, woh student mere cabin se le jaye
+[06/10/23, 12:54:50 PM] ~ ~Âmàn Chou®️asiya✓: Ji sir
+[06/10/23, 1:28:24 PM] ~ Dr. Manish Dixit: 🌟 Join us for an insightful journey into the realm of Mental Health on World Mental Health Day, 10/10/2023! 🌟
+
+🧠 In today's fast-paced world, it's essential to prioritize our mental and emotional well-being. That's why we're excited to invite you to our special introductory session, where we'll:
+
+🌈 Explore a fresh perspective on mental and emotional health.
+🧘‍♀ Learn a simple, easy-to-adopt meditation practice.
+📚 Gain access to a treasure trove of resources for continuous self-improvement.
+
+📅 Date: October 10th, 2023
+🕟 Time: 4:00 PM - 6:00 PM
+📍 Location: Seminar Hall-7
+
+Registration Link:
+https://forms.gle/3ikJuYYYDgtiyLoJ9
+
+📜 Participants will receive an e-certificate upon joining this session.
+
+Let's come together to nurture our minds, promote well-being, and celebrate World Mental Health Day in a meaningful way. We believe that mental health is a vital aspect of our lives, and this session will empower you with tools to enhance it.
+
+🔮 Don't miss out on this opportunity to invest in yourself and your future. This is a chance to take that crucial step towards a happier, healthier you.
+
+Spread the word, invite your friends, and join us on this enlightening journey. Together, we can make a difference in our lives and those around us. 🌟
+
+For more details or inquires, please reach out to [Aman Gupta at +919519660675]. We're here to support you on your path to mental well-being. See you there, and let's make World Mental Health Day memorable together! 🌞
+‎[06/10/23, 1:28:25 PM] ~ Dr. Manish Dixit: ‎image omitted
+‎[06/10/23, 9:51:03 PM] ~ Saksham: Cluby Mits Gwalior Notice.pdf • ‎1 page ‎document omitted
+[06/10/23, 9:51:04 PM] ~ Saksham: Download Now 👆🏻
+https://rb.gy/si7kx
+[08/10/23, 5:00:19 PM] CSE 2021-2025 Batch: ‎You were added
+[08/10/23, 5:00:39 PM] CSE 2021-2025 Batch: ‎You were added
+[09/10/23, 10:35:07 AM] ~ Dr. Kuldeep N. Tripathi: ‎Waiting for this message. This may take a while.
+[25/10/21, 9:50:51 PM] CSE 2021-2025 Batch: ‎You were added
+‎[10/10/23, 3:23:18 PM] Amit Manjhavar Sir: ‎image omitted
+‎[10/10/23, 4:29:32 PM] ~ Khushboo Agarwal: Kaagaz_20231010_16215158134.pdf • ‎7 pages ‎document omitted
+[11/10/23, 12:59:58 PM] Hemlata Ma'am: Reminder 👆🏻👆🏻
+‎[11/10/23, 3:58:16 PM] Amit Manjhavar Sir: NEC - Not Registered Students.xlsx ‎document omitted
+‎[11/10/23, 10:03:07 PM] ~ Dr. Manish Dixit: ‎image omitted
+[11/10/23, 10:03:08 PM] ~ Dr. Manish Dixit: ❗💐Greetings💐❗from Industry Relations Committee(IRC),IEEE MP section
+
+Hello Everyone,
+📢IRC, IEEE MP Section  is Organizing Industry - Academia workshop on “Artificial Intelligence, Machine Learning & Deep Learning” funded by R10 IEEE , at Madhav Institute of Technology and Science, Gwalior💐
+🌟 IEEE R10 funded  INDUSTRY-ACADEMIA WORKSHOP 🌟
+
+Date: Saturday, 14th October 2023
+Workshop will be divided into two parts Expert Lecture Series and Panel Discussion.
+Expert Lecture Series
+“AIML is one of the most transformative technologies of our time, with the potential to revolutionize every industry and aspect of our lives. 
+Join us for a deep dive into the world of Artificial Intelligence, Machine Learning & Deep Learning with three distinguished experts:
+Date: 14th October 2023
+🌐 Mode: Blended 
+🏛 Venue: Conclave Centre
+
+🕓 Time: 10:00 AM
+👨‍🔬 Expert 1: Debabrata Ghosh, Senior Managing Consultant at IBM
+Topic: Generative A.I.
+
+🕓 Time: 11:45 AM
+👨‍🔬 Expert 2: Dr.Mir Shahnawaz, Center for Artificial Intelligence, MITS, Gwalior
+Topic: Classification Techniques in Machine Learning.
+
+🕓 Time: 02:15 PM
+👨‍🔬 Expert 3: Arun Kumar Singh, Data Research Scientist Topic: Natural Language Processing & Deep Learning
+Topic: Natural Language Processing & Deep Learning
+
+ 
+Join Zoom Meeting
+https://us02web.zoom.us/j/89178183870
+Meeting ID: 891 7818 3870
+
+Panel Discussion
+Date: Saturday, 14th October 2023
+🏢 Mode: Blended
+🏛 Venue: Conclave Center
+🕓 Time: 04:00 - 04:45 PM
+Discussion on AIML with Industry and Academia Experts.
+📜 E-Certificates will be provided to all participants!
+High Tea and Refreshments for all participants!
+
+🔗 Registration Links:
+- For Expert Talk: [Register Here](https://forms.gle/NwcpmeDf2sLALFru9)
+
+- For Panel Discussion: [Register Here](https://forms.gle/LNbiQZWJtpJ2o5wf6)
+
+🤝 Don't miss this opportunity to gain insights from industry leaders and experts in the field of AI, ML, and Deep Learning. Mark your calendars and join us for this workshop!
+
+
+Convener
+Dr. Manish Dixit
+Professor & Head CSE, MITS, Gwalior
+Vice Chair IEEE Madhya Pradesh Section
+
+Coordinator 
+Prof. Aashi Singh Bhadouria
+Assistant Professor 
+Dept of CSE
+MITS, Gwalior
+[12/10/23, 11:01:41 AM] ~ SMITA PARTE: ++++++++++++++++++++++++++++
+*Last chance for candidates to change the Share Info option*
+++++++++++++++++++++++++++++++++
+
+*This Google form is only for the Oct exams registered candidates.*
+
+Kindly inform the students/faculty who want to change their *Share info option* in their registration details for *JUL-OCT 2023 semester.*
+
+*Google form link:*  https://forms.gle/bvjYvsJPKu3o4pV88
+
+After closing this form, we shall freeze the data for LC ratings for the Jul-Dec 2023 semester.
+
+*Last date to fill this form* : *Oct 16, 2023 ( Monday)*
+++++++++++++++++++++++++++++++
+[12/10/23, 1:13:52 PM] CSE 2021-2025 Batch: ‎You were added
+[12/10/23, 2:39:01 PM] Harsh Shrivasta Mits: Mam is this form to be filled by students who are giving the NPTEL exam!
+[12/10/23, 5:49:52 PM] ~ Ranjeet Kumar Singh: Dear students, pls fill the GATE 2024 registration detail by given link.https://forms.gle/pEQsC3GsEvVhX48T7
+[12/10/23, 5:49:52 PM] ~ Ranjeet Kumar Singh: https://forms.gle/pEQsC3GsEvVhX48T7
+‎[13/10/23, 12:19:12 AM] ~ Dr. Manish Dixit: internshala.pdf • ‎3 pages ‎document omitted
+[13/10/23, 11:23:37 AM] Mahesh Sir IT: Midsem Exam II Compiler Design (150514) Syllabus
+
+Bottom up parser (Shift-Reduce Parser), LR(0), SLR(1), LALR(1), LR(1) or CLR(1), Syntax Diracted translation,  application of SDT, synthesized attribute, inherited attribute, L-Attribute, Intermediate code genration, postfix, 3 address code, syntax tree, DAG, triple, quadruple and indirect triple, representative of 3 address code.
+
+All above topics has been completed in the class. ‎<This message was edited>
+‎[13/10/23, 11:50:52 AM] ~ Dr. Manish Dixit: ‎image omitted
+[13/10/23, 12:27:22 PM] ~ Ranjeet Kumar Singh: Dear students this is the registration link for your Gate class pls complete on time.
+[13/10/23, 3:27:37 PM] Mahesh Sir IT: Operator precedence parser also
+[13/10/23, 6:14:10 PM] ~ Dr. Manish Dixit: Please have Tea+ Samosa with us tomorrow.😊 But please come on time at 9.20 AM.
+[13/10/23, 6:49:13 PM] ~ Ranjeet Kumar Singh: Faculty feedback of all the subjects is open on the IMS http://ims.mitsgwalior.in/ for two days( 14 and 15 Oct 2023). Students are required to give  on http://ims.mitsgwalior.in/
+[13/10/23, 10:28:41 PM] Hemlata Ma'am: *Internship Opportunities*
+
+*1)Mobile App Backend Development work from home job/internship at KidZoo*
+Link to apply: https://internshala.com/internship/detail/mobile-app-backend-developmentwork-from-home-job-internship-at-kidzoo1696519456
+Last date to apply: 20 October 2023
+
+*2) Flutter Development work from home job/internship at Monkhub*
+Link to apply: https://internshala.com/internship/detail/flutter-development-work-fromhome-job-internship-at-monkhub1696499446
+Last date to apply: 19 October 2023
+
+*3)Node.js Development work from home job/internship at Gauge.ro (Lalita Ventures)*
+Link to apply: https://internshala.com/internship/detail/nodejs-development-work-fromhome-job-internship-at-gaugero-lalita-ventures1696528740
+Last date to apply: 20 October 2023
+
+*4) Flutter Development work from home job/internship at Apna Software's*
+Link to apply: https://internshala.com/internship/detail/flutter-development-work-fromhome-job-internship-at-apna-softwares1696505627
+Last date to apply: 31 October 2023
+
+*5) Web Development work from home job/internship at Eduminatti*
+Link to apply: https://internshala.com/internship/detail/web-development-workfrom-home-job-internship-at-eduminatti1696501071
+Last date to apply: 19 October 2023
+
+*6) WordPress Landing Page Design work from home job/internship at Red Eye Marketing Solutions Private Limited*
+Link to apply: https://internshala.com/internship/detail/wordpress-landing-pagedesign-work-from-home-job-internship-at-red-eye-marketing-solutions-privatelimited1696494359
+Last date to apply: 19 October 2023
+
+*7) Flutter Development work from home job/internship at Webknot Technologies Private Limited*
+Link to apply: https://internshala.com/internship/detail/flutter-development-work-fromhome-job-internship-at-webknot-technologies-private-limited1696487284
+Last date to apply: 19 October 2023
+
+*8) WordPress Development work from home job/internship at WebLead Technologies*
+Link to apply: https://internshala.com/internship/detail/wordpress-development-workfrom-home-job-internship-at-weblead-technologies1696484466
+Last date to apply: 19 October 2023
+
+*9) Flutter Development work from home job/internship at Ostello India Private Limited*
+Link to apply: https://internshala.com/internship/detail/flutter-development-work-fromhome-job-internship-at-ostello-india-private-limited1696440489
+Last date to apply: 18 October 2023
+
+*10) Web & Node.js Development work from home job/internship at Kyogg*
+Link to apply: https://internshala.com/internship/detail/web-nodejs-development-workfrom-home-job-internship-at-kyogg1696417073
+Last date to apply: 18 October 2023
+‎[14/10/23, 8:02:14 AM] ~ Dr. Manish Dixit: ‎image omitted
+[14/10/23, 8:03:08 AM] ~ Dr. Manish Dixit: All please attend this workshop in the conclave center. Please report at 9.20 AM
+[14/10/23, 8:03:41 AM] ~ Dr. Manish Dixit: Attendance is compulsory physically in the forenoon session.
+[14/10/23, 9:44:54 AM] ~ Dr. Manish Dixit: Please join
+[14/10/23, 9:46:25 AM] ~ Ranjeet Kumar Singh: Your feedback matters! We believe in continuous improvement and value your insights into your educational experience. To facilitate this, we have opened a two-day window (IMS Portal) for you to provide feedback. Your feedback plays a crucial role in helping our faculty members understand their strengths and areas that require enhancement. So it is compulsory.
+[14/10/23, 9:48:25 AM] ~ Dr. Manish Dixit: Topic: IEEE R10 Industry-Academia Workshop on AI,ML and DL - Venue MITS Gwalior
+Time: Oct 14, 2023, 09:15 AM India
+Join Zoom Meeting
+https://us02web.zoom.us/j/89178183870
+Meeting ID: 891 7818 3870
+‎[14/10/23, 10:26:55 AM] ~ Dr. Manish Dixit: ‎image omitted
+‎[14/10/23, 12:23:10 PM] ~ Dr. Manish Dixit: ‎image omitted
+‎[14/10/23, 1:38:03 PM] ~ Dr. Manish Dixit: ‎image omitted
+‎[14/10/23, 2:53:38 PM] ~ Dr. Manish Dixit: ‎image omitted
+‎[14/10/23, 2:54:21 PM] ~ Dr. Manish Dixit: ‎image omitted
+[14/10/23, 3:51:22 PM] ~ Dr. Manish Dixit: Topic: IEEE R10 Industry-Academia Workshop on AI,ML and DL - Venue MITS Gwalior
+Time: Oct 14, 2023, 09:15 AM India
+Join Zoom Meeting
+https://us02web.zoom.us/j/89178183870
+Meeting ID: 891 7818 3870
+[14/10/23, 3:51:23 PM] ~ Dr. Manish Dixit: Please join for panel discussion
+‎[14/10/23, 3:56:42 PM] ~ Dr. Manish Dixit: ‎image omitted
+[14/10/23, 5:54:08 PM] ~ Ranjeet Kumar Singh: Dear Students,
+Your feedback is highly valued as it enables us to pinpoint areas for improvement in our faculty and courses and to create a productive learning atmosphere. By sharing your honest and insightful feedback, you assist us in ensuring that our faculty and courses meet the requirements of our students. We place a great deal of importance on your input, and we would be grateful if you could spare the time to provide it.
+[15/10/23, 9:05:19 AM] ~ Ranjeet Kumar Singh: Feedback response percentage is still very low, all the students are required to give their valuable feedback on IMS portal. Today is the last date for the same.
+‎[15/10/23, 11:30:54 AM] ~ Dr. Manish Dixit: Notice No. 98, Dated 13.10.2023 - Scholarship.pdf • ‎1 page ‎document omitted
+[15/10/23, 1:09:38 PM] ~ Dr. Manish Dixit: All are required to fill it. Please do it timely.
+[15/10/23, 7:37:53 PM] ~ Ranjeet Kumar Singh: Very very few response has been received. Please fill the faculty feedback on priority basis
+‎[16/10/23, 7:31:21 PM] ~ Dr. Gagandeep Kaur: Minor_Project_CSE_Progress_Presentation (2).pdf • ‎1 page ‎document omitted
+[16/10/23, 7:32:49 PM] ~ Dr. Gagandeep Kaur: Dear students, the internal evaluation of minor project 150516 cse 3rd year is scheduled on 30 and 31st Oct 2023.For complete schedule please refer to the above pdf.👆
+‎[16/10/23, 7:33:12 PM] ~ Dr. Gagandeep Kaur: Updated 150516 Minor Project.xlsx ‎document omitted
+[17/10/23, 11:40:38 AM] Hemlata Ma'am: Reminder 👆🏻👆🏻
+
+Your semester performance evaluation based on your quiz and assignment submission....so everyone pls submit your assignment on Moodle....
+[18/10/23, 2:21:59 PM] ~ SMITA PARTE: As a major student-friendly initiative, NPTEL facilitates internship opportunities for the course toppers under the respective course instructors at IITs/IISc
+
+Through this initiative, the eligible students (list enclosed) get an opportunity to work in the research labs under the guidance of the Professors, interact with other researchers, and explore newer areas of learning.
+
+The guidelines received from the office of NPTEL are as follows:
+
+ 
+
+Internship website
+
+https://nptel.ac.in/internship
+
+Mode of internship
+
+In-person or virtual,  as per the decision of the Professor
+
+Stipend
+
+For in-person internships, as per approved norms
+
+Certificates 
+
+Yes, on satisfactory completion of the internship
+
+Eligibility
+
+Candidates who are top performers in the NPTEL Online Certification Courses may be eligible for an internship offer. The final decision is made by the course instructor.
+
+How to apply
+
+After getting the consent from the Professors, NPTEL will contact the course toppers and ask them for their willingness to join the Internship program
+
+Duration
+
+2 to 12 weeks (also depends on the availability of the Professor)
+
+Total Eligible Students
+
+118
+
+ 
+
+The toppers of III and Final-year students are receiving mail directly from the office of NPTEL to submit willingness forms.
+
+
+
+ In this view, the following  guidelines have been approved:
+
+
+
+1.     Students are allowed to pursue internships in IIT/IISCs (after finishing the semester examination)
+
+2.     For final year students, on the completion of the internship students have both options either they will go for the Internship in industry or may opt major project offered at the department level
+
+3.     Circulation of willingness form and internship process  to the eligible students(list enclosed)
+
+Google Form Link:  https://docs.google.com/forms/d/e/1FAIpQLSchhIDhmC5r1QsipBkPw8IXRSBHFtvqi3TeLo1WZBFEZ66cDQ/viewform
+‎[18/10/23, 2:21:59 PM] ~ SMITA PARTE: List of Eligible Students for Internship.xlsx ‎document omitted
+‎[18/10/23, 2:22:00 PM] ~ SMITA PARTE: Internship Processs NPTEL.docx ‎document omitted
+[19/10/23, 11:57:29 AM] ~ Dr. Kuldeep N. Tripathi: _______________________
+Dear Students,
+
+TCS is conducting an Important session regarding Codevita for all students of MITS at 5:00 PM , Today (19th Oct,2023).
+
+Students are advised to join in advance 5 mins before the time. 
+
+It is important for my future career in TCS. Pls find details below 
+ 
+
+Event - TCS Interaction (CodeVita Season XI)
+
+Time – 5 PM – 6 PM
+
+Date & Day – 19th October 2023, Thursday
+
+Link to join session - https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjg5MzlkNjYtMjQ3MS00N2IwLWJjYmItYTA5MTU3ZWVkZjM0%40thread.v2/0?context=%7B%22Tid%22%3A%22404b1967-6507-45ab-8a6d-7374a3f478be%22%2C%22Oid%22%3A%224dce6494-b8fb-460e-a420-5236aefcc5ec%22%2C%22IsBroadcastMeeting%22%3Atrue%2C%22role%22%3A%22a%22%7D&btype=a&role=a
+
+Registration window is open now.
+
+ 
+
+Year of Graduation: 2024, 2025, 2026 & 2027
+
+
+
+
+ 
+
+Registration Link: https://codevita.tcsapps.com/
+
+Note -Students have to join 10 mins prior to the given time slot.
+[19/10/23, 1:08:40 PM] ~ Aryan Mishra: Dear Students,
+
+TCS is conducting an Important session regarding Codevita for all students of MITS at 5:00 PM , Today (19th Oct,2023).
+
+Students are advised to join in advance 5 mins before the time. 
+
+It is important for your future career in TCS. Pls find details below 
+ 
+
+Event - TCS Interaction (CodeVita Season XI)
+
+Time – 5 PM – 6 PM
+
+Date & Day – 19th October 2023, Thursday
+
+Link to join session - https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjg5MzlkNjYtMjQ3MS00N2IwLWJjYmItYTA5MTU3ZWVkZjM0%40thread.v2/0?context=%7B%22Tid%22%3A%22404b1967-6507-45ab-8a6d-7374a3f478be%22%2C%22Oid%22%3A%224dce6494-b8fb-460e-a420-5236aefcc5ec%22%2C%22IsBroadcastMeeting%22%3Atrue%2C%22role%22%3A%22a%22%7D&btype=a&role=a
+
+
+Year of Graduation: 2024, 2025, 2026 & 2027
+
+ 
+
+Registration Link: https://codevita.tcsapps.com/
+
+Note -Students have to join 5to10 mins prior to the given time slot.
+[19/10/23, 5:06:01 PM] ~ Aryan Mishra: Reminder to All☝️☝️
+
+Join the TCS session, it's not lengthy.....
+
+It's regarding company's oncampus drives, working condition and all
+
+Thanks 
+T&P Cell
+MITS Gwalior
+[19/10/23, 5:16:38 PM] Amit Manjhavar Sir: _______________________
+Dear Students,
+
+TCS is conducting an Important session regarding Codevita for all students of MITS at 5:00 PM , Today (19th Oct,2023).
+
+Students are advised to join in advance 5 mins before the time. 
+
+It is important for my future career in TCS. Pls find details below 
+ 
+
+Event - TCS Interaction (CodeVita Season XI)
+
+Time – 5 PM – 6 PM
+
+Date & Day – 19th October 2023, Thursday
+
+Link to join session - https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjg5MzlkNjYtMjQ3MS00N2IwLWJjYmItYTA5MTU3ZWVkZjM0%40thread.v2/0?context=%7B%22Tid%22%3A%22404b1967-6507-45ab-8a6d-7374a3f478be%22%2C%22Oid%22%3A%224dce6494-b8fb-460e-a420-5236aefcc5ec%22%2C%22IsBroadcastMeeting%22%3Atrue%2C%22role%22%3A%22a%22%7D&btype=a&role=a
+
+Registration window is open now.
+
+ 
+
+Year of Graduation: 2024, 2025, 2026 & 2027
+
+
+
+
+ 
+
+Registration Link: https://codevita.tcsapps.com/
+
+Note -Students have to join 10 mins prior to the given time slot.
+‎[20/10/23, 7:00:51 PM] Arun Sir Mits: ‎image omitted
+[20/10/23, 7:00:52 PM] Arun Sir Mits: https://www.swamidayanand.org/scholarship-india
+[21/10/23, 10:07:23 PM] Mahesh Sir IT: All the students of CSE, V sem (A+B) are required to give the CO feedback and Course Curriculum feedback of Compiler Design (150514) available on my Moodle on or before 25/10/2023, also you can go through the following link 
+
+CO Feedback Link
+http://moodle.mitsgwalior.in/mod/feedback/view.php?id=92761
+
+Curriculum feedback Link
+http://moodle.mitsgwalior.in/mod/feedback/view.php?id=92786
+‎[22/10/23, 4:58:33 PM] Amit Manjhavar Sir: TECHgium_2022_Brochure.pdf • ‎10 pages ‎document omitted
+‎[22/10/23, 4:58:34 PM] Amit Manjhavar Sir: TECHgium_2022_A3-India.pdf • ‎1 page ‎document omitted
+‎[23/10/23, 3:06:39 PM] ~ Dr. Kuldeep N. Tripathi: Gmail - FISERV CAMPUS PLACEMENT DRIVE - INTERNS 2025 Graduated Batch.pdf • ‎3 pages ‎document omitted
+[23/10/23, 3:08:05 PM] ~ Dr. Kuldeep N. Tripathi: URGENT!!!  Students go through the given details and register before the mentioned deadline.
+[23/10/23, 3:12:57 PM] Amit Manjhavar Sir: This is urgent registration,  do before the last date.
+‎[23/10/23, 4:57:03 PM] Amit Manjhavar Sir: Notice No. 109, Dated 23.10.2023 - Pratibha Protsahan Chhatravrati.pdf • ‎2 pages ‎document omitted
+[23/10/23, 6:26:05 PM] Achintya Mits Cse: Pre-final year CSE & IT branch students only fill the registration form till 11:00 AM (24th Oct, 2023):- https://forms.gle/QJdc5zWV1sLqtikR9
+[23/10/23, 6:26:06 PM] Achintya Mits Cse: FISERV CAMPUS PLACEMENT DRIVE - INTERNS 2025 Graduated Batch☝️
+‎[23/10/23, 6:26:07 PM] Achintya Mits Cse: FISERV CAMPUS PLACEMENT DRIVE - INTERNS 2025 Graduated Batch.pdf • ‎4 pages ‎document omitted
+‎[24/10/23, 10:15:53 PM] Amit Manjhavar Sir: Notice No. 109, Dated 23.10.2023 - Pratibha Protsahan Chhatravrati.pdf • ‎2 pages ‎document omitted
+‎[25/10/23, 11:23:26 AM] Arun Sir Mits: ‎image omitted
+[25/10/23, 11:28:59 AM] Nishika Mits Cse: ‎This message was deleted.
+[25/10/23, 2:55:12 PM] Amit Manjhavar Sir: This is with reference to letter DO No.2-52/2023(CPP-II) dated 4th September, 2023 received from UG, All students are required to participate in the Chandrayaan-3 Maha Quiz on 26th and 27th October, 2023. The procedure for the same is quite simple. Students just need to google -My Gov Quiz and select ISRO Chandrayaan–3 Maha Quiz. Thereafter, click participate now and enter their details and participate in the Quiz.
+[25/10/23, 3:24:27 PM] Shivam Kumar Mits: Those who have missed out their AI midsem 1 & 2....DM me with *Name & Enrollment No*
+[25/10/23, 5:15:49 PM] Amit Manjhavar Sir: As per the directives received from the Ministry of Higher Education, it is mandatory for all students to generate their ABC id. In this regard, multiple emails have been already circulated to students by the Examination Section through HoDs.   Still it is observed that many students have not yet  generated their ABC id (please refer to the list attached herewith). 
+
+Therefore, all coordinators are requested to ensure that all students have generated their ABC id and  circulate the following link among the students for submitting their ABC id details till 28th Oct 2023:   https://forms.gle/CfrmfFuEfqyufXwj6
+‎[25/10/23, 6:59:16 PM] Amit Manjhavar Sir: Surfacedegradationcourseflier.pptx • ‎2 slides ‎document omitted
+[26/10/23, 2:14:17 PM] Amit Manjhavar Sir: Dear Students,
+
+ 
+
+L'Oréal is back with the seventh season of L'Oréal Sustainability Challenge 2023 and they are looking for students from your college!
+
+ 
+
+Through this challenge,  focus is on PEOPLE & PLANET. 
+
+Aim to create a sustainable planet and are looking for young & passionate change agents in this journey!
+
+ 
+
+What’s in it for our students?
+
+ 
+
+Pre-placement interview offers for all Finalists
+A chance to be mentored by function experts from L'Oréal India
+L'Oréal Goodies
+ 
+
+Eligibility: Final & pre-final year full-time undergraduate & postgraduate students
+
+ 
+
+Application link: https://unstop.com/o/srKpmu6/?ref=kbkzne7X
+
+ 
+
+Registrations close in 48 hours, so hurry & spread the word among your students.
+
+ 
+
+Let’s work together to build a more sustainable future
+
+ 
+
+Regards,
+
+Team L'Oréal
+[28/10/23, 8:37:28 AM] ~ Dr. Manish Dixit: Exam forms portal is opened. Fill at the earliest
+‎[28/10/23, 12:02:01 PM] Shivam Kumar Mits: ‎image omitted
+[30/10/23, 10:18:47 AM] Amit Manjhavar Sir: Students eligible for mid sem 3, which have geninue problem or medical issue on 1 or 2nd mid sem.
+[30/10/23, 10:20:10 AM] Amit Manjhavar Sir: First students report to me with supported documents or application.
+‎[30/10/23, 10:21:16 AM] Amit Manjhavar Sir: ‎image omitted
+‎[30/10/23, 1:26:17 PM] Hemlata Ma'am: Networking with TCP_IP  (Final MST Marks List).pdf • ‎4 pages ‎document omitted
+[30/10/23, 1:28:45 PM] Hemlata Ma'am: Dear students,
+
+Pls see your midsem marks in this sheet 👆🏻👆🏻
+If you found any discrepancy so pls contact me !!
+[30/10/23, 2:48:08 PM] ~ Aman Gupta: Students who gives our NPTEL presentation marks their attention on sheet in PL2
+‎[30/10/23, 3:16:07 PM] ~ Dr. Gagandeep Kaur: Minor_Project_CSE_Progress_Presentation (2).pdf • ‎1 page ‎document omitted
+[30/10/23, 3:16:08 PM] ~ Dr. Gagandeep Kaur: Sample file..
+‎[30/10/23, 3:27:29 PM] ~ Dr. Gagandeep Kaur: Minor_Project_Sample 1.pdf • ‎20 pages ‎document omitted
+‎[30/10/23, 5:12:07 PM] ~ Mr. RAM JI😎😎: ‎image omitted
+‎[31/10/23, 2:28:49 PM] ~ Rahulverma: ‎image omitted
+[31/10/23, 2:56:56 PM] ~ jaimala jha: Students can come for demonstration their project in my chamber now. Those who have prior intimation.
+[01/11/23, 11:30:15 AM] Hemlata Ma'am: Dear Students,
+
+I hope this message finds you well. We are excited to share a list of 32 active off-campus job opportunities from the PrepTrain Community. These openings are tailored for undergraduate students in the batches 2024 to 2026 and offer a wide range of roles in Internships, Data Science, DevOps, Product, and Software Development. These opportunities come from various renowned companies, and we encourage you to explore them and apply as per your interests and qualifications.
+
+Please find the details of these opportunities below:
+
+1. **Tower Research - SDE 1**
+   - Batch: 2024
+   - Compensation: 44 LPA
+   - [Apply Here](https://bit.ly/Tower-Research-SDE1)
+
+2. **Google - SDE Fresher**
+   - Batch: 2024
+   - Compensation: 54 LPA
+   - [Apply Here](https://bit.ly/Google-SDE-1-Hiring)
+
+3. **Upstox - Various Roles (SDE, UI, UX, Design Intern)**
+   - Batches: 2024 / 2025
+   - [Apply Here](https://bit.ly/Upstox-Intern)
+
+4. **ADP - Associate SDE**
+   - Batch: 2024
+   - Compensation: 15-20 LPA
+   - [Apply Here](https://bit.ly/ADP-Associate-SDE)
+
+5. **GoGuardian - SDE 1**
+   - Batch: 2024
+   - Compensation: 12-25 LPA
+   - [Apply Here](https://bit.ly/GoGuardian-SDE1)
+
+6. **Jumptrading - Software Engineer Intern**
+   - Batch: 2025 (10 Weeks Duration)
+   - [Apply Here](https://bit.ly/JumpTrading-SDE-Intern)
+
+7. **Gamification Labs - SDE 1 and SDE Interns**
+   - Batches: 2024 / 2025
+   - [Apply Here](https://bit.ly/Gamification-Labs-SDE-Intern)
+
+8. **Spinny - Data Analyst Intern**
+   - Batches: 2024 / 2025
+   - [Apply Here](https://bit.ly/Spinny-Data-Analyst-Intern)
+
+9. **Scaler - Frontend Developer**
+   - Batch: 2024
+   - [Apply Here](https://bit.ly/Scaler-Frontend-Dev)
+
+10. **AdaGrad - Devops Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/AdaGrad-Devops-Intern)
+
+11. **ApniBus - Flutter Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/ApniBus-Flutter-Intern)
+
+12. **MPL - Data Science and Data Analytics Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/MPL-Intern)
+
+13. **XenonStack - Associate Software Engineer**
+    - Batch: 2024
+    - [Apply Here](https://bit.ly/XenonStack-Associate-SDE)
+
+14. **Mitsogo - SDE 1**
+    - Batch: 2024
+    - [Apply Here](https://bit.ly/Mitsogo-SDE-1)
+
+15. **PIGEON SOLUTIONS - SDE Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/Pigeon-SDE-Intern)
+
+16. **TruckX - SDE Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/TruckX-SDE-Intern)
+
+17. **FinSoftAi - SDE Intern**
+    - Batches: 2024 / 2025
+    - Location: Remote
+    - [Apply Here](https://bit.ly/FinSoftAI-SDE-Intern)
+
+18. **Physics Wallah - Product Analyst Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/PW-Product-Ananlyst)
+
+19. **Kelp - Python Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/Kelp-Python-Intern)
+
+20. **Ziplr - Full Stack Dev Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/Ziplr-Full-Stack-Intern)
+
+21. **AllianceBernstein - SDE Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/AllianceBernstein-SDE-Intern)
+
+22. **Resilinc - SDE Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/Resilinc-SDE-Intern)
+
+23. **Epiq - Software Engineering Intern**
+    - Batch: 2024
+    - [Apply Here](https://bit.ly/Epiq-SDE-Intern)
+
+24. **Omnify - Software QA Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/Omnify-QA-Intern)
+
+25. **Intel - Student Technical Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/Intel-Hiring-Intern)
+
+26. **Zenskar - Frontend and Backend Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/Zenskar-hiring-frontend-backend-interns)
+
+27. **InstaSell - SDE Intern**
+    - Batches: 2024 / 2025
+    - Stipend: 40k
+    - [Apply Here](https://bit.ly/InstaSell-SDE-Intern)
+
+28. **IMC - SDE 1**
+    - Batch: 2024
+    - [Apply Here](https://bit.ly/IMC-SDE-1)
+
+29. **NeuroNexus Innovations - SDE Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/NeuroNexus-SDE-Intern)
+
+30. **Kalvium - Full Stack Dev Intern**
+    - Batches: 2024 / 2025
+    - [Apply Here](https://bit.ly/Kalvium-Dev-Intern)
+
+31. **Zamp - SDE 1**
+    - Batch: 2024
+    - [Apply Here](https://bit.ly/Zamp-SDE1)
+
+32. **Greenie - SDE 1**
+    - Batch: 2024
+    - Location: Remote
+    - [Apply Here](https://bit.ly/Greenie-SDE1)
+
+Please note that some of these positions may close within 24-72 hours due to the high number of applicants. To enhance your chances, we recommend applying as soon as possible. You can apply directly through the provided links or seek referrals on LinkedIn. When applying, ensure you submit a comprehensive resume that highlights your accomplishments, projects, and relevant skills.
+
+These opportunities present a significant step forward in your career journey, and we encourage you to take advantage of them. We wish you the best of luck in your application process!
+
+Should you have any questions or require further assistance, please feel free to reach out.
+
+Warm regards,
+T&P Cell, MITS Gwalior
+[02/11/23, 12:04:07 PM] Amit Manjhavar Sir: JO STUDENTS MID SEM1 OR MID 2 ME CHEATING KARTE HUE PAYE GAYE THE OR UNKA MID SEM CANELLED HO GAYA THE. AISE STUDENTS COLLEGE AAKAR MID SEM 3 KI PERMISSION LE.
+[02/11/23, 12:04:40 PM] Amit Manjhavar Sir: Otherwise aap  logo ka ek MID SEM ka avg marks jayega
+[02/11/23, 1:29:35 PM] Amit Manjhavar Sir: http://moodle.mitsgwalior.in/mod/feedback/view.php?id=92797
+[02/11/23, 1:30:15 PM] Amit Manjhavar Sir: It is compulsory to fill this co feedback immediately on urgent basis.
+[02/11/23, 1:36:47 PM] Amit Manjhavar Sir: http://moodle.mitsgwalior.in/mod/feedback/view.php?id=93325
+[02/11/23, 1:37:27 PM] Amit Manjhavar Sir: Student also fill the Curriculum Feedback by above link immediately.
+‎[02/11/23, 1:40:22 PM] Amit Manjhavar Sir: B.TECH CSE 5TH SEM MID SEM 1 & 2 MARKS JULY DEC 2023  - Sheet1.pdf • ‎3 pages ‎document omitted
+[02/11/23, 1:41:26 PM] Amit Manjhavar Sir: If any students having doubt regarding the MID SEM 1 & 2 Marks , student immediately contact to respected course faculty.
+[02/11/23, 3:27:20 PM] ~ Rohit: All Student must fill the Curriculum Feedback and CO feedback though moodle of Data Science subject immediately
+[02/11/23, 4:07:01 PM] ~ Dr. Manish Dixit: Students of A section are required to give CO feedback and Course content/ curriculum feedback on my Moodle page. Dr.Manish Dixit
+‎[02/11/23, 4:37:21 PM] Mahesh Sir IT: Practical Time Table Dec 2023.pdf • ‎11 pages ‎document omitted
+‎[02/11/23, 5:28:46 PM] Amit Manjhavar Sir: Practical Time Table Dec 2023.pdf • ‎11 pages ‎document omitted
+‎[03/11/23, 12:35:12 PM] Shivam Kumar Mits: ‎image omitted
+[03/11/23, 2:29:57 PM] ~ KISHAN Singh Bhadoria: ‎This message was deleted.
+‎[03/11/23, 9:05:28 PM] ~ Dr. Manish Dixit: ‎image omitted
+‎[03/11/23, 9:06:55 PM] ~ Dr. Manish Dixit: ‎image omitted
+[04/11/23, 12:21:09 PM] Amit Manjhavar Sir: ‎This message was deleted by admin ~ Dr. Manish Dixit.
+‎[06/11/23, 1:23:53 PM] Amit Manjhavar Sir: ‎image omitted
+‎[06/11/23, 1:24:01 PM] ~ Dr. Manish Dixit: ‎image omitted
+[07/11/23, 10:32:30 AM] Mahesh Sir IT: One minute paper writing   and ppt submission for Compiler Design go through the following link
+[07/11/23, 10:32:40 AM] Mahesh Sir IT: https://forms.gle/KLYS2cLnmoRaURZG7
+[07/11/23, 10:34:01 AM] Mahesh Sir IT: 👆All are required to submit through above link
+[07/11/23, 12:07:59 PM] ~ praтнaм🤍: Sir B batch ki proficiency 2 bje s h naa
+[07/11/23, 12:08:57 PM] ~ praтнaм🤍: Accc. To this
+[07/11/23, 11:56:27 PM] Hemlata Ma'am: Dear Students, you all are required to submit your proficiency ppt and one minute paper writing for the subject Networking with TCP/IP. *[MANDATORY for EVALUATION]* 
+
+*Submission Link for Proficiency PPT*👇🏻👇🏻
+
+https://forms.gle/aESZCwcVwhtuw36T9
+
+*Submission link for one Minute paper writing*👇🏻👇🏻
+
+https://forms.gle/ojHXgvtaz543kHNh7
+
+Thanks & Regards
+Hemlata Arya
+[08/11/23, 3:53:58 PM] Mahesh Sir IT: Students are required to come in room 203 for Compiler Design Midsem III exam
+[10/11/23, 3:12:16 PM] Amit Manjhavar Sir: ‎This message was deleted.
+[10/11/23, 4:19:59 PM] ~ SMITA PARTE: Enrollment for 718 courses for the Jan - Apr 2024 semester is open now!
+
+
+
+How to enroll (join) in a course
+
+Please go to this link to join for courses that you/students are interested in. https://onlinecourses.nptel.ac.in/
+
+
+
+KINDLY ALERT YOUR STUDENTS/FACULTY to FOLLOW THESE IMPORTANT STEPS:
+
+Learners have to say YES to the question ‘Are you part of a Local Chapter’
+
+Choose the correct college name from the dropdown. This is very important; otherwise, the learner will not be available in your SPOC login
+
+Students choose the Profession as ‘Student’
+
+Faculty choose the Profession as ‘Faculty’ (Not Employed)
+
+Use the same email ID for enrolling in courses & exam registration. Assignments submitted through one email ID & exam registered through another email ID will not be accepted
+
+NEW: Please note that the exam registration for the 12-week courses will be closed along with the set one 4wk and 8wk courses.
+
+ 
+
+Important dates
+
+     
+
+4 weeks
+
+(SET 1)
+
+8 weeks
+
+(SET 1)
+
+12 weeks
+
+4 weeks
+
+(SET 2)
+
+8 weeks
+
+(SET 2)
+
+Start of course
+
+Jan 22, 2024
+
+Jan 22, 2024
+
+Jan 22, 2024
+
+Feb 19, 2024
+
+Feb 19, 2024
+
+End of course
+
+Feb 16, 2024
+
+Mar 15, 2024
+
+Apr 12, 2024
+
+Mar 15, 2024
+
+Apr 12, 2024
+
+Exam dates
+
+Mar 23/24, 2024
+
+2 Sessions on each date
+
+9 am-12 noon; 2 pm-5 pm
+
+April 20/21/27/28, 2024
+
+2 Sessions on each date
+
+9 am-12 noon; 2 pm-5 pm
+
+Possible Additional Exam dates
+
+Mar 22, 2024
+
+2 Sessions on each date
+
+9 am-12 noon; 2 pm-5 pm
+
+April 18/19/22, 2024
+
+2 Sessions on each date
+
+9 am-12 noon; 2 pm-5 pm
+
+Open enrollment to the course
+
+Nov 9, 2023
+
+Close enrollment to the course
+
+Jan 29, 2024 - 5 pm
+
+Feb 19, 2024 - 5 pm
+
+Open exam registration form
+
+Dec 13, 2023 - 10 am
+
+Close exam registration form
+
+Feb 12, 2024, 5 pm/
+
+Feb 16, 2024, 5 pm
+
+March 11, 2024, 5 pm/
+
+March 15, 2024, 5 pm
+
+
+Note: The exam dates are subject to change based on seat availability. The final exam date will be given in the Hall ticket.
+
+
+Course List
+
+The tentative course list can be found at this link.
+[12/11/23, 12:13:31 AM] ~ ♥️~🌸Varsha🌸~♥️: May the Diyas light lead you onto the road of growth and prosperity. Happy Diwali!✨💫
+[12/11/23, 12:20:23 AM] ~ Aman Gupta: Happy Diwali to all my respected teacher's and dear friends 🥳
+[12/11/23, 8:46:19 AM] Anshul Mishra Mits: आपको और आपके समस्त परिवार को दीपावली की हार्दिक शुभ कामनाएँ, आपकी दीपावली सुखमय हो....🪔🪔🎆🎇🎇🎉🎉🎉💕❤️❤️💙
+‎[12/11/23, 10:13:46 AM] Harsh Shrivasta Mits: ‎image omitted
+[12/11/23, 10:15:22 AM] Harsh Shrivasta Mits: May the festival of lights bring joy and prosperity to everyone! Happy Diwali! 🪔✨
+[12/11/23, 12:10:15 PM] Akhil Jain Mits: Wishing everyone a joyous Diwali filled with light, love, and prosperity! 🪔✨
+‎[12/11/23, 5:28:12 PM] ~ Jatin Verma: ‎image omitted
+[19/11/23, 9:54:15 PM] Tarun Wakalwar Mits: Time table
+[19/11/23, 9:54:20 PM] Tarun Wakalwar Mits: End sem
+[19/11/23, 9:54:35 PM] Tarun Wakalwar Mits: Plzz sir give us
+[19/11/23, 9:55:42 PM] ~ praтнaм🤍: ‎This message was deleted.
+[20/11/23, 11:28:19 AM] ~ Dr. Manish Dixit: Please see the admit card before allowing the student for practical exam
+[20/11/23, 11:29:28 AM] ~ Dr. Manish Dixit: No student will be allowed in a practical exam without admit card
+[20/11/23, 11:34:16 AM] ~ 꿈🖤✨: ‎This message was deleted.
+‎[20/11/23, 1:48:15 PM] ~ Dr. Gagandeep Kaur: Minor_Project_Sample 1.pdf • ‎20 pages ‎document omitted
+[20/11/23, 1:54:14 PM] ~ Dr. Gagandeep Kaur: Please follow this for preparing minor project files...👆
+[20/11/23, 4:20:51 PM] ~ Dr. Gagandeep Kaur: Please mention NAAC A++ Accredited in the header
+[21/11/23, 11:40:17 AM] Harsh Shrivasta Mits: Batch A come in PL4 ‎<This message was edited>
+[21/11/23, 11:40:39 AM] Harsh Shrivasta Mits: For practical viva
+[21/11/23, 1:10:03 PM] Mahesh Sir IT: Navneet Singh Dadoriya, (0901CS211073) contact to me
+‎[21/11/23, 1:41:13 PM] Mahesh Sir IT: Average Midsem Marks.pdf ‎document omitted
+[21/11/23, 1:42:02 PM] Mahesh Sir IT: 👆 Average Midsem marks of Compiler Design
+[21/11/23, 1:42:19 PM] Mahesh Sir IT: if you have any discrepancy in the marks, contact to me
+[22/11/23, 12:17:25 PM] ~ Dr. Gagandeep Kaur: 0901cs211009,Aishwary
+And0901cs211010 akash come for  minor project in pl1
+[22/11/23, 12:21:06 PM] ~ Dr. Gagandeep Kaur: https://forms.gle/r2n2ft73QFnJJaHG8
+[22/11/23, 12:21:45 PM] ~ Dr. Gagandeep Kaur: Please upload the scan copy with signatures of guide and Anshu Mam in this link👆
+[22/11/23, 12:23:22 PM] ~ Dr. Gagandeep Kaur: Submit final hard copy of minor project in my Cabin(PL1)
+[22/11/23, 12:25:41 PM] ~ Dr. Gagandeep Kaur: 0901cs211069 mohit and 95 Reetesh  come to my cabin
+[22/11/23, 1:41:27 PM] ~ Dr. Gagandeep Kaur: Full project file needs to be uploaded
+[22/11/23, 1:57:01 PM] Amit Manjhavar Sir: https://docs.google.com/forms/d/e/1FAIpQLSfmWllYeEjiXPjr1KtEb08hLQp6a-z-1vvkjtlFUXb9aF2nnQ/viewform
+[22/11/23, 1:58:06 PM] Amit Manjhavar Sir: Students, Which are doing minor project under my guidance , they upload the minor project by above form.
+[22/11/23, 5:57:03 PM] ~ Dr. Gagandeep Kaur: https://forms.gle/r2n2ft73QFnJJaHG8
+[22/11/23, 5:57:03 PM] ~ Dr. Gagandeep Kaur: Please upload the scan copy with signatures of guide and Anshu Mam in this link👆
+[22/11/23, 5:57:04 PM] ~ Dr. Gagandeep Kaur: https://forms.gle/zVMH1drSYijuXgUR9
+[22/11/23, 5:57:39 PM] ~ Dr. Gagandeep Kaur: Please fill both the forms👆
+[23/11/23, 3:46:13 PM] ~ Dr. Gagandeep Kaur: Naval 75
+Dev 43
+Gerald 47
+Rahul 89
+Shivam 102
+Sneha 109
+Sudhanshu 115
+Ujjwal 129
+Vidushi 131
+Anirban 140
+Ruchi D09
+[23/11/23, 3:46:55 PM] ~ Dr. Gagandeep Kaur: These students have not reported for minor project practical..come to PL1 immediately 👆👆
+‎[23/11/23, 5:30:23 PM] Mahesh Sir IT: ‎image omitted
+[23/11/23, 5:30:52 PM] Mahesh Sir IT: https://forms.gle/H2TSkLvnDYNkZ93t8
+[24/11/23, 12:48:56 AM] Hemlata Ma'am: TCS is conducting test tomorrow n day after tmrw under CODEVITA for registered students. Pls check your emails whoever had registered. 
+
+Thanks
+T&P Cell
+[24/11/23, 12:58:51 AM] ~ praтнaм🤍: ‎This message was deleted.
+‎[24/11/23, 11:40:37 AM] ~ Dr. Gagandeep Kaur: ‎image omitted
+‎[24/11/23, 11:40:38 AM] ~ Dr. Gagandeep Kaur: ‎image omitted
+‎[24/11/23, 11:40:39 AM] ~ Dr. Gagandeep Kaur: ‎image omitted
+‎[24/11/23, 11:40:40 AM] ~ Dr. Gagandeep Kaur: ‎image omitted
+‎[24/11/23, 11:40:40 AM] ~ Dr. Gagandeep Kaur: ‎image omitted
+[24/11/23, 11:41:00 AM] ~ Dr. Gagandeep Kaur: Minor project end term practical attendance...👆
+[24/11/23, 11:42:20 AM] ~ Dr. Gagandeep Kaur: Roll no:47 Gerald...contact me...
+[24/11/23, 11:56:00 AM] ~ Dr. Gagandeep Kaur: https://forms.gle/r2n2ft73QFnJJaHG8
+[24/11/23, 11:56:01 AM] ~ Dr. Gagandeep Kaur: Please upload the scan copy with signatures of guide and Anshu Mam in this link👆
+[24/11/23, 11:56:01 AM] ~ Dr. Gagandeep Kaur: https://forms.gle/zVMH1drSYijuXgUR9
+[24/11/23, 11:56:02 AM] ~ Dr. Gagandeep Kaur: Please fill both the forms👆
+[24/11/23, 11:56:02 AM] ~ Dr. Gagandeep Kaur: *If anybody is left please do the needful...fill both the forms shared*
+[27/11/23, 10:47:11 AM] ~ praтнaм🤍: Sir end sem time table 🙏
+‎[27/11/23, 10:48:26 AM] ~ R@hul: ‎image omitted
+[28/11/23, 3:13:32 PM] Amit Manjhavar Sir: Dear Students (Final Year & Pre-Final Year),
+
+Hope you are doing well !!
+
+Greetings from MITS Gwalior !!
+
+[Details For MCA Final Year & B.Tech Pre-final Year and final Year]
+
+Praedico Global Research Pvt. Ltd. is conducting Internship drive for Pre-final and final year students(un-placed only) and Date we will disclose Soon.
+
+Please find the details below and register by tomorrow till 5:00 PM only.
+
+We are India's first Fintech research firm that develops Artificial Intelligence-based forecasting products. We cater our services to clients trading on stock markets all around the world. We use hardcore financial research and neural network programming to develop hybrid products that can be used by traders & investors for better prediction of their investments.
+
+Praedico Global Research Pvt. Ltd. is based out of Delhi and we have our Database hub branch office in Bengaluru, Noida, and Gwalior. We are looking for students with good knowledge of programming and would be pleased to offer the Winter intern selection process for the technical students of your College.
+
+Designation offered -
+"Intern - Hardcore developer (Website / Software / App developer) / Digital Marketing"
+FOR MCA Final Year 
+FOR B.Tech. Pre-final and Final Year
+Stipend - 
+Training would be provided on Advanced Technologies.
+Excel interns would be offered with PPO.
+Stipend would be provided to Good Interns.
+Duration -  
+As per the College guidelines
+Achievements/Milestones -  
+Recognized by Forbes Magazine as "Visionary Leaders March 2021". 
+Recognized as One of the "Top 10 Machine Learning Startups" by SwiftNLift Magazine.
+Nominated Times of India for the "Game Changer" award.
+Recognized by "AsiaOne Young Asian Entrepreneurs 2020-21".
+Nominated by BARC Asia for "Prestigious Rising Brand 2021".
+Selected for “Orientation Programme” out of 6800 starts up's by Software Technical Parks of India under the guidance of “Ministry of IT” Govt. of India.
+Praedico has its own patented software.
+Job description-
+Working on neural networks using languages like Python to train Neural Networks, Data Science, Machine Learning and generative AI.  
+Working on Live Software, Websites, and Applications using React, Node, MERN, and Django.
+Testing the accuracy of neural networks by running programs on different applications. 
+Reviewing current systems.
+Presenting ideas for system improvements.
+Working closely with analysts, designers and staff.
+Producing detailed specifications and writing the program codes.
+Testing the product in controlled, real situations before going live.
+Basic Requirements -
+Students should have good logical thinking skills
+Students should be well-versed in basic Programming concepts
+Students should have the zeal for learning
+Students should have good analytical skills
+Students should have good communication skills
+Job Location - 
+Delhi NCR / Gwalior / Work from Home
+The selection process for interns -
+1 hour Online Test / GD. 
+Interview round for shortlisted students.
+
+[Details For MBA Final Year]
+
+We are India's finest FINTECH research firm which develops Artificial Intelligence-based forecasting products. We cater our services to clients trading on stock markets all around the world. We use hardcore financial research and neural network programming to develop hybrid products that can be used by traders & investors for better prediction of their investments. Praedico Global Research Pvt. Ltd. is based out of Delhi and we have our Database hub branch office in Bengaluru, New Delhi, and Gwalior. We are looking for interns with good knowledge of  Financial research and would be pleased to offer a Summer interns selection process for the Management students of your College.
+Designation offered -  " Intern -Research & Business Development Associate"
+
+Stipend - 
+Performance Based
+Excel Interns would be provided with PPO
+  
+Duration -
+As per the College guideline  
+
+Achievements/Milestones- 
+Recognized by Forbes Magazine as "Visionary Leaders March 2021". 
+Recognized as One of the "Top 10 Machine Learning Startups" by SwiftNLift Magazine.
+Nominated Times of India for the "Game Changer" award.
+Recognized by "AsiaOne Young Asian Entrepreneurs 2020-21".
+Nominated by BARC Asia for "Prestigious Rising Brand 2021".
+Selected for “Orientation Programme” out of 6800 starts up's by Software Technical Parks of India under the guidance of “Ministry of IT” Govt. of India.
+Praedico has its own patented software.
+         
+Job description-
+Working on different research platforms of Praedico Global Research Pvt. Ltd.
+Preparing research reports on Indian and global stock markets with the help of fundamental and technical analysis tools Preparing data mining reports on various platforms and working closely with the technical team in the development of new software Marketing of AI-driven software of the company.
+Sales of products by establishing contact & relationship with prospects.
+Identifies product improvements or new products by remaining current on industry trends, market activities, and competitors.
+Maintains quality service by establishing & enforcing organization standards.
+Indian & Global stock markets study.
+Being the ambassador of the financial literacy mission of Praedico Global Research Pvt. Ltd.
+Marketing of the research reports, seminars & workshops for Praedico Global Research Pvt. Ltd.
+Conducting market research to identify selling possibilities and evaluate customer needs
+Actively seeking out new sales opportunities through cold calling, networking, and social media.
+Setting up meetings with potential clients and listening to their wishes and concerns
+Prepare and deliver appropriate presentations on products and services.  
+Identifies product improvements or new products by remaining current on industry trends, market activities, and competitors.  
+Following and achieving the department’s sales goals on a weekly and monthly basis.
+
+Products intended to Dealt-
+
+Praedico provides Subscription software (designed with Artificial Intelligence, Machine Learning, and Neural Network Techniques) based on the Indian Stock market.
+(Further described in the interview round)
+
+Internship Mode- 
+Office-based/Work-from-home
+
+Basic Requirements -
+Proficiency in Communication skills  
+Fast learner with and passion for sales
+Self-motivated with a results-driven approach
+Should be Mature, Confidence, Patience.
+Should have commercial awareness
+“Go the extra mile” to drive sales
+Remain knowledgeable on products offered  
+
+The selection process for interns  
+
+-Interview round  (Through Skype/Google Meet)
+
+Register till 4:00 PM tomorrow only:- https://forms.gle/6wz466CsLatoqkPa8
+
+Thanks & Regards,
+‎[28/11/23, 4:54:19 PM] ~ Khushboo Agarwal: ‎image omitted
+[30/11/23, 8:58:18 PM] ~ Dr. Gagandeep Kaur: Contact me...
+‎[30/11/23, 9:04:06 PM] ~ Rohit: ‎image omitted
+[30/11/23, 9:50:08 PM] ~ Dr. Manish Dixit: Yes, he met an accident and was admitted in hospital
+[01/12/23, 7:37:15 PM] Shivam Kumar Mits: As today’s exam of Networking with TCP/IP(150512) was primarily based on CSD’s study material and there was confusion with syllabus too, our preparation couldn’t suffice to ace the exam, hence we humbly request the concerned faculties to show some leniency while checking and scoring the exam copies.
+[01/12/23, 7:37:24 PM] Arshita Garg Mits: +1
+[01/12/23, 7:37:35 PM] ~ Pratham🥇Kumar: +1
+[01/12/23, 7:37:35 PM] ~ Ⓚཞα†ᶤƙα💕: +1
+[01/12/23, 7:37:39 PM] ~ <sumit.h>: +1
+[01/12/23, 7:37:42 PM] ~ Anshul U: +1
+[01/12/23, 7:37:44 PM] ~ praтнaм🤍: ‎This message was deleted.
+[01/12/23, 7:37:48 PM] ~ Sujal Chandrakar: +1
+[01/12/23, 7:37:49 PM] ~ Aman Gupta: +1
+[01/12/23, 7:37:51 PM] ~ Shivraj: +1
+[01/12/23, 7:37:58 PM] ~ Vikas Sijoriya: +1
+[01/12/23, 7:37:59 PM] ~ Abhikash Bharti: ‎This message was deleted.
+[01/12/23, 7:38:02 PM] ~ <sumit.h>: +1
+[01/12/23, 7:38:08 PM] ~ Kishan Patidar: +1
+[01/12/23, 7:38:10 PM] ~ Mehul: +1
+[01/12/23, 7:38:15 PM] Suyash Agarwal Mits: ‎This message was deleted.
+[01/12/23, 7:38:15 PM] ~ Tanisha🖤: ‎This message was deleted.
+[01/12/23, 7:38:16 PM] Nishika Mits Cse: +1
+[01/12/23, 7:38:17 PM] Arin Mits Cse: ‎This message was deleted.
+[01/12/23, 7:38:20 PM] Suyash Agarwal Mits: +1
+[01/12/23, 7:38:31 PM] Ayush Meena: +1
+[01/12/23, 7:38:31 PM] Karan Mits: ++++++1111
+[01/12/23, 7:38:32 PM] ~ Suyesh Dubey: +1
+[01/12/23, 7:38:32 PM] ~ R@hul: +1
+[01/12/23, 7:38:41 PM] ~ Rohit___: +1
+[01/12/23, 7:38:43 PM] ~ Abhishek Dadoriya: +1
+[01/12/23, 7:38:49 PM] ~ Vikas Sijoriya: ‎This message was deleted.
+[01/12/23, 7:38:53 PM] ~ <sumit.h>: +1
+[01/12/23, 7:38:57 PM] ~ ~Âmàn Chou®️asiya✓: +11
+[01/12/23, 7:38:59 PM] ~ Cj: +1
+[01/12/23, 7:39:00 PM] ~ Somdev Singh: +1
+[01/12/23, 7:39:22 PM] ~ SUJAL SAHARE 😎: +1
+[01/12/23, 7:40:12 PM] ~ Jatın: ‎This message was deleted.
+[01/12/23, 7:40:13 PM] ~ Ankit: +1
+[01/12/23, 7:41:08 PM] ~ Vishal: +1
+[01/12/23, 7:41:11 PM] Piyush Sanwale Mits: +1
+[01/12/23, 7:41:23 PM] ~ Pooja 💫: +1
+[01/12/23, 7:41:28 PM] ~ ℋ𝒶𝓇𝓈𝒽𝒾𝓉 ℬ𝒽𝒶𝓉𝒾𝒶: +11
+[01/12/23, 7:41:53 PM] ~ Astha Shrivastava: +1
+[01/12/23, 7:44:52 PM] Harsh Shrivasta Mits: ‎This message was deleted.
+[01/12/23, 7:45:09 PM] ~ Aman Gupta: +1 @919425117866
+[01/12/23, 7:45:10 PM] Sneha Mits: +1;
+[01/12/23, 7:45:13 PM] ~ Nishant Shrivastava: +1
+[01/12/23, 7:45:32 PM] Divyat Agrawal: ‎This message was deleted.
+[01/12/23, 7:45:58 PM] ~ Sudhanshu_Jain❤️: +1
+[01/12/23, 7:46:16 PM] ~ AV...🇮🇳: +1
+[01/12/23, 7:46:18 PM] ~ 🙂🙂: +1
+[01/12/23, 7:47:18 PM] ~ Mr. RAM JI😎😎: +1
+[01/12/23, 7:48:23 PM] ~ Y@$H..: +1
+[01/12/23, 7:48:46 PM] ~ Ruchi Maravi: +1
+[01/12/23, 7:52:30 PM] ~ Anjali: +1
+[01/12/23, 7:52:35 PM] ~ Rahulverma: +1
+[01/12/23, 7:52:49 PM] Aditya Kumar Mits: +1
+[01/12/23, 7:53:14 PM] ~ Karnika Kanoriya: +1
+[01/12/23, 7:54:11 PM] ~ Y@$H..: +1
+[01/12/23, 7:55:27 PM] ~ Harshit Sharma: +1
+[01/12/23, 7:55:29 PM] ~ VJ: +11
+[01/12/23, 7:55:59 PM] ~ <sumit.h>: ‎This message was deleted.
+[01/12/23, 7:56:09 PM] ~ Aditya Kumar Tiwari: +1
+[01/12/23, 7:56:50 PM] ~ Dev Mishra: +1
+[01/12/23, 7:58:44 PM] ~ Avinash: +1
+[01/12/23, 7:59:02 PM] ~ ℋ𝒶𝓇𝓈𝒽𝒾𝓉 ℬ𝒽𝒶𝓉𝒾𝒶: +1
+[01/12/23, 8:01:52 PM] ~ 𝕐𝕒𝕤𝕙.ℝ: +1
+[01/12/23, 8:02:04 PM] ~ ♥️~🌸Varsha🌸~♥️: +1
+[01/12/23, 8:02:47 PM] ~ Shruti.. 😉😉: ‎This message was deleted.
+[01/12/23, 8:04:27 PM] ~ Shruti.. 😉😉: ‎This message was deleted.
+[01/12/23, 8:06:10 PM] ~ Shruti.. 😉😉: +1
+[01/12/23, 8:06:33 PM] ~ <sumit.h>: +1
+[01/12/23, 8:10:11 PM] ~ Y@$H..: +1
+[01/12/23, 8:11:15 PM] Harsh Agrawal Mits: ‎This message was deleted.
+[01/12/23, 8:16:23 PM] ~ Ram Sharma✌️: +1
+[01/12/23, 8:19:48 PM] Akhil Jain Mits: +1
+[01/12/23, 8:20:24 PM] ~ Akash G.: +1
+[01/12/23, 8:23:02 PM] ~ Jatin Kaushal: +11
+[01/12/23, 8:25:07 PM] ~ -मयंक 🇮🇳: +1
+[01/12/23, 8:31:11 PM] Snehee Mits: +1
+[01/12/23, 8:34:12 PM] ~ Rohit: +1
+[01/12/23, 8:40:14 PM] ~ Aayushi: +1
+[01/12/23, 8:41:30 PM] ~ DURGESH DHURVE 🍃: +1
+[01/12/23, 8:41:41 PM] ~ PUNEET: +1
+[01/12/23, 8:59:11 PM] ~ Shreya 🙈:-): ‎This message was deleted.
+[01/12/23, 9:20:53 PM] Abhishek Rajput Cse Mits: ‎This message was deleted.
+[01/12/23, 10:30:43 PM] ~ Saloni Thakre: +1
+[01/12/23, 11:04:05 PM] ~ soumya: +1
+[01/12/23, 11:04:21 PM] ~ Manish Verma: +1
+[01/12/23, 11:27:00 PM] ~ ~Ankit Chaurasiya: ++1
+[02/12/23, 9:03:21 AM] ~ Yll: +1
+[02/12/23, 11:08:34 AM] ~ Anisha: +1
+[02/12/23, 11:26:28 AM] ~ Navneet 🍁: +111
+[02/12/23, 4:56:57 PM] ~ JK: +1
+[05/12/23, 11:27:21 AM] ~ SMITA PARTE: Nptel Local Chapter : 21st Century Teaching and Learning Skills workshop
+[05/12/23, 11:27:21 AM] ~ SMITA PARTE: Registration link:https://elearn.nptel.ac.in/shop/iit-workshops/ongoing/21st-century-teaching-and-learning-skills-batch-2/
+‎[05/12/23, 11:27:22 AM] ~ SMITA PARTE: ‎image omitted
+[11/12/23, 4:45:53 PM] ~ SMITA PARTE: 🔴🔴🔴🔴🔴🔴 *प्रथम दृष्टया केवल स्वयं सेवक का ही पंजीयन करें।* 
+
+महोदय, 
+            आपसे अनुरोध है कि  भारत सरकार, युवा कार्यक्रम और खेल मंत्रालय के निर्देशानुसार मेरा युवा भारत mybharat पोर्टल पर स्वयं सेवक का पंजीयन अनिवार्य रूप से पूर्ण कराना सुनिश्चित करें । 
+
+रासेयो स्वयंसेवकों/विद्यार्थियों का युवा/Yuva के रूप में पंजीयन हेतु लिंक –
+ 	https://mybharat.gov.in/yuva_register
+
+सादर
+भारत🇮🇳सरकार
+क्षेत्रीय निदेशालय रा.से.यो.
+मध्य प्रदेश-छत्तीसगढ़
+[11/12/23, 4:50:09 PM] ~ SMITA PARTE: All please register immediately...
+[12/12/23, 1:40:25 PM] ~ jaimala jha: https://docs.google.com/forms/d/e/1FAIpQLScbz_DxEPTiIslnR4GLE3M28FiC60_8hHYmYBAM9gK8wupQ6Q/viewform?usp=pp_url
+
+
+Minor projects link 
+For those students who have done projects in my super vision. Can submit pdf in the above link.
+[13/12/23, 11:40:33 PM] Amit Manjhavar Sir: It is observed that few students are giving entry to their outsider friends which is serious threat to security of the Institute. All the students are instructed not to bring such people in the campus, else strict disciplinary action will be taken against the student.
+
+Dr. R. S. Jadon
+Proctor
+[14/12/23, 11:43:57 AM] Harsh Shrivasta Mits: Sir, we have not received the sitting plan for the MCQ exam yet, although the sitting plan for the 3:00 PM written shift has already been available on website. ‎<This message was edited>
+‎[14/12/23, 12:06:42 PM] ~ Vikas Sijoriya: ‎image omitted
+‎[14/12/23, 12:09:15 PM] ~ Vikas Sijoriya: IMG_20231214_120041.jpg ‎document omitted
+[14/12/23, 12:32:30 PM] ~ Harshit Sharma: ‎This message was deleted.
+[15/12/23, 12:48:50 AM] Amit Manjhavar Sir: All the students are requested to download their digital Identity Card from the IMS and carry it on the home screen of their mobile. It may be checked at the entry or in the campus any time.
+Dr. R. S. Jadon
+Proctor
+[15/12/23, 12:49:42 AM] ~ praтнaм🤍: ‎This message was deleted.
+[15/12/23, 3:08:22 PM] Amit Manjhavar Sir: ‎This message was deleted.
+[15/12/23, 3:08:54 PM] Amit Manjhavar Sir: 🔴🔴🔴🔴🔴🔴 *प्रथम दृष्टया केवल स्वयं सेवक का ही पंजीयन करें।* 
+
+महोदय, 
+            आपसे अनुरोध है कि  भारत सरकार, युवा कार्यक्रम और खेल मंत्रालय के निर्देशानुसार मेरा युवा भारत mybharat पोर्टल पर स्वयं सेवक का पंजीयन अनिवार्य रूप से पूर्ण कराना सुनिश्चित करें । 
+
+रासेयो स्वयंसेवकों/विद्यार्थियों का युवा/Yuva के रूप में पंजीयन हेतु लिंक –
+ 	https://mybharat.gov.in/yuva_register
+
+सादर
+भारत🇮🇳सरकार
+क्षेत्रीय निदेशालय रा.से.यो.
+मध्य प्रदेश-छत्तीसगढ़
+[15/12/23, 3:10:31 PM] ~ Shivraj: ‎This message was deleted.
+‎[15/12/23, 11:16:52 PM] Mahesh Sir IT: Youth_Unite_Trifold_Digital.pdf • ‎6 pages ‎document omitted
+[18/12/23, 5:44:44 PM] ~ Dr. Kuldeep N. Tripathi: Dear Students, Department of Computer Science and Engineering and Software Development Club MIT Gwalior will conduct placement-oriented practice test for CSE 3rd year students on 24th December 2023. This will be an online exam of 30 minutes. Those who are interested in appearing in this online examination should register themselves by submitting the Google Form given below: https://forms.gle/knHmRGkAQK1KY8wy5
+[18/12/23, 5:45:58 PM] ~ Dr. Kuldeep N. Tripathi: Details are as follows: Date: 24/12/2023, timing: 4 PM to 7 PM, Mode: Online, Duration: 30 minutes.
+[18/12/23, 7:02:09 PM] ~ SMITA PARTE: 🔴🔴🔴🔴🔴🔴 *प्रथम दृष्टया केवल स्वयं सेवक का ही पंजीयन करें।* 
+
+महोदय, 
+            आपसे अनुरोध है कि  भारत सरकार, युवा कार्यक्रम और खेल मंत्रालय के निर्देशानुसार मेरा युवा भारत mybharat पोर्टल पर स्वयं सेवक का पंजीयन अनिवार्य रूप से पूर्ण कराना सुनिश्चित करें । 
+
+रासेयो स्वयंसेवकों/विद्यार्थियों का युवा/Yuva के रूप में पंजीयन हेतु लिंक –
+ 	https://mybharat.gov.in/yuva_register
+
+सादर
+भारत🇮🇳सरकार
+क्षेत्रीय निदेशालय रा.से.यो.
+मध्य प्रदेश-छत्तीसगढ़
+[18/12/23, 7:02:10 PM] ~ SMITA PARTE: All must register and complete the profile atleast 50%.
+[18/12/23, 7:02:11 PM] ~ SMITA PARTE: You may get good opportunity in future.
+[21/12/23, 6:40:34 AM] ~ Dr. Kuldeep N. Tripathi: *Placement-oriented practice test Update*
+
+Dear Students
+This is a gentle reminder to register for the test. *Tomorrow (22 Dec)* the registration link will be closed. 
+This test will have the questions asked from companies like Kloudspot, Accenture, Newgen, and Tejas Networks, which are unavailable online.
+
+Regards
+
+Dr. Kuldeep N. Thripathi
+Faculty Coordinator
+[21/12/23, 4:44:28 PM] Hemlata Ma'am: Dear Students,
+
+Greetings from MITS Gwalior !!
+
+I feel very glad to share that in the past week we saw around 20-30 new openings coming up for Full time and Intern positions for freshers at various Startups and Top Tech Companies which is a good sign considering the tech industry is facing recessions and going with a hiring freeze.
+
+We have compiled a list of all such openings which are currently active and where you students can apply for Intern / Data Science / Devops / Product / SDE Roles.
+
+This list of 52 latest Active Off-Campus openings that came in the last 1-2 week for students who are currently 2024 / 2025 / 2026 Batch Undergrads.
+
+Amazon Future Engineer Program  
+ Batch : For first year female students  
+Apply from here - https://telegram.me/PrepTrain/838
+
+Google Hiring for Associate Product Manager, University Graduate 2024 
+ Batch : 2024 
+Apply from here - https://telegram.me/PrepTrain/837
+
+PayPal Hiring for SDE Intern 
+ Batch : 2026  
+Apply from here - https://telegram.me/PrepTrain/836
+
+Microsoft Hiring for SDE 1
+ Batch: 2024
+ CTC: 46 LPA
+Apply from here - https://telegram.me/PrepTrain/839
+
+Siemens Hiring for Graduate Trainee Engineer 
+ Batch : 2023 / 2024 
+Apply from here - https://telegram.me/PrepTrain/835
+
+Seagate Hiring for SDE Intern  
+ Batch : 2023 / 2024 / 2025  
+Apply from here - https://telegram.me/PrepTrain/834
+
+Rupeek Hiring for SDE Intern - 6 Months  
+ Batch : 2023 / 2024  
+Apply from here - https://telegram.me/PrepTrain/833
+
+Autodesk Hiring for Apprentice, Software Engineer  
+ Batch : 2024  
+Apply from here - https://telegram.me/PrepTrain/832
+
+Ripple Hiring for SDE Intern  
+ Batch : 2024 / 2025  
+Apply from here - https://telegram.me/PrepTrain/831
+
+S&P Global Hiring for SDE 1  
+ Batch : 2024   
+Apply from here - https://telegram.me/PrepTrain/830
+ 
+ MPL Hiring for Data Science and Data Analytics Intern 
+ Batch: 2024 / 2025
+Apply from here - https://bit.ly/MPL-Intern
+
+Physics Wallah Hiring for Product Analyst Intern 
+ Batch: 2024 / 2025
+Apply from here - https://bit.ly/PW-Product-Ananlyst
+
+Morgan Stanley Hiring for Spring Analyst 
+ Batch: 2024
+Apply from here - https://bit.ly/Morgan-Stanley-Spring-Analyst
+
+InstaSell Hiring for SDE Intern
+ Batch: 2024 / 2025
+ Stipend: 40k
+Apply from here - https://bit.ly/InstaSell-SDE-Intern
+
+Kalvium Hiring for Full Stack Dev Intern
+ Batch: 2024 / 2025
+Apply from here - https://bit.ly/Kalvium-Dev-Intern
+
+Ziplr Hiring for Full Stack Dev Intern
+ Batch: 2024 / 2025
+Apply from here -  https://bit.ly/Ziplr-Full-Stack-Intern
+
+ FinSoftAi Hiring for SDE Intern
+ Batch:  2024 / 2025
+ Location: Remote
+Apply from here - https://bit.ly/FinSoftAI-SDE-Intern
+
+TruckX Hiring for SDE Intern
+ Batch: 2024 / 2025
+Apply from here - https://bit.ly/TruckX-SDE-Intern
+
+GuideWire Hiring for SDE Intern
+ Batch: 2024
+Apply from here - https://bit.ly/GuideWire-SDE-Intern
+
+Kelp Hiring for Python Intern
+ Batch: 2024 / 2025
+Apply from here - https://bit.ly/Kelp-Python-Intern
+
+Omnify Hiring for Software QA Intern
+ Batch: 2024 / 2025
+Apply from here - https://bit.ly/Omnify-QA-Intern
+
+Zamp Hiring for SDE 1
+ Batch: 2024 
+Apply from here - https://bit.ly/Zamp-SDE1
+
+Scaler Hiring For Frontend Developer
+ Batch: 2024 
+Apply from here - https://bit.ly/Scaler-Frontend-Dev
+
+Mitsogo Hiring for SDE 1
+ Batch: 2024
+Apply from here - https://bit.ly/Mitsogo-SDE-1
+
+ PIGEON SOLUTIONS Hiring for SDE Intern
+ Batch:  2024 / 2025
+Apply from here - https://bit.ly/Pigeon-SDE-Intern
+
+XenonStack's Hiring for Associate Software Engineer
+ Batch: 2024
+Apply from here - https://bit.ly/XenonStack-Associate-SDE
+
+Cis Hiring for Trainee Software Developer
+ Batch: 2024
+Apply from here - https://bit.ly/40tnNMt
+
+Kindly note that some of the openings will be closed within 24- 72 hours due to the large number of applicants.
+
+These openings are for the students from 2nd year, 3rd year and 4th year. Apply at the earliest directly or take a referral from some existing employees on LinkedIn by sending a fully updated resume with all accomplishments, projects done, and relevant skills mentioned.
+
+Hope it will be very helpful for the internship and placement season.
+
+Thanks,
+T&P Cell
+MITS Gwalior
+‎[22/12/23, 12:41:46 PM] ~ SMITA PARTE: CSE-List of DE-5,OC-3, DE-1 for Jan-June 2024 Session.pdf • ‎1 page ‎document omitted
+[22/12/23, 1:07:53 PM] ~ Dr. Kuldeep N. Tripathi: Reminder!!! Link will be closed by 6 pm today.
+[22/12/23, 8:21:13 PM] ~ praтнaм🤍: Compulsary kya h isme
+‎[22/12/23, 9:56:33 PM] ~ Dr. Manish Dixit: Adobe Scan 22 Dec 2023.pdf • ‎6 pages ‎document omitted
+[23/12/23, 1:18:50 AM] Amit Manjhavar Sir: [01:17, 23/12/2023] Amit: Dear students, we invite you to celebrate your achievements and inspire your peers by sharing your successes with us through our Google Form. Whether you've participated at college-level events, made waves at the state or national level, presented papers at conferences, or showcased your skills in hackathons, your accomplishments matter. By collecting this information, we aim to create a community that values and recognizes the diverse talents within. Kindly fill the data for e-newsletter of Institute & Department in the google form. *Session: October, November & December 2023* Last date: 31.12.2023,
+[01:17, 23/12/2023] Amit: https://docs.google.com/forms/d/e/1FAIpQLSdrsiEy-fZtLf22vQvx2IGcb84D9LZ_MHpMNsdPQJRYsOjE_Q/viewform
+[23/12/23, 10:08:44 AM] ~ Dr. Kuldeep N. Tripathi: *placement oriented practice test update*
+
+Dear Students 
+Login credentials for the test have been sent to your Institute mail id.
+
+Go through the mail carefully.
+
+Note - *You will be automatically disqualified if any kind of unethical activity is detected by the system*
+
+
+Keep your face infront of the screen throughout the duration. Once you start the test there is no way back.
+
+Any queries Contact:
+Naveen Mittal
+Student Coordinator SDC
+mail - sdc@mitsgwalior.in 
+Website - https://sdc.mitsgwalior.in 
+Examportal link - https://examportal.mitsgwalior.in 
+
+All the best!!
+
+Dr Kuldeep N. Tripathi
+Exam Incharge 
+CSE Department
+‎[27/12/23, 5:52:08 PM] ~ Dr. Manish Dixit: Notice Jan-June 2024.pdf • ‎3 pages ‎document omitted
+‎[27/12/23, 5:53:12 PM] ~ Dr. Manish Dixit: NEC Content Jan-June 2024.pdf • ‎100 pages ‎document omitted
+[27/12/23, 5:54:04 PM] ~ Dr. Manish Dixit: PFA of NEC Registration scheduled to start from 1st Jan. 2024 for circulation among UG 2nd & 3rd year students.
+[27/12/23, 6:00:18 PM] ~ Dr. Manish Dixit: https://nec.mitsweb.in/
+[28/12/23, 12:28:26 AM] Harsh Shrivasta Mits: Correct link of Honors Track 2, IOT 
+Course_ Sensors And Actuators 
+https://onlinecourses.nptel.ac.in/noc24_ee45/preview
+[28/12/23, 12:40:24 AM] ~ praтнaм🤍: Bhai jo compulsary krna ho wo btaado keval
+[28/12/23, 12:43:44 AM] Harsh Shrivasta Mits: DE wale
+‎[29/12/23, 2:20:53 PM] Amit Manjhavar Sir: ‎image omitted
+‎[29/12/23, 2:20:55 PM] Amit Manjhavar Sir: ‎image omitted
+[01/01/24, 1:21:53 PM] Mahesh Sir IT: ‎This message was deleted.
+[01/01/24, 1:21:54 PM] Mahesh Sir IT: ‎This message was deleted.
+[01/01/24, 1:21:54 PM] Mahesh Sir IT: ‎This message was deleted.
+[01/01/24, 1:21:55 PM] Mahesh Sir IT: ‎This message was deleted.
+[01/01/24, 1:21:55 PM] Mahesh Sir IT: ‎This message was deleted.
+[01/01/24, 1:21:55 PM] Mahesh Sir IT: ‎This message was deleted.
+[01/01/24, 1:21:56 PM] Mahesh Sir IT: ‎This message was deleted.
+[01/01/24, 1:21:56 PM] Mahesh Sir IT: ‎This message was deleted.
+‎[01/01/24, 1:21:57 PM] Mahesh Sir IT: ‎image omitted
+‎[01/01/24, 1:21:57 PM] Mahesh Sir IT: ‎image omitted
+‎[01/01/24, 1:21:58 PM] Mahesh Sir IT: ‎image omitted
+‎[01/01/24, 1:21:58 PM] Mahesh Sir IT: ‎image omitted
+‎[01/01/24, 1:21:59 PM] Mahesh Sir IT: ‎image omitted
+‎[01/01/24, 1:21:59 PM] Mahesh Sir IT: ‎image omitted
+‎[01/01/24, 1:21:59 PM] Mahesh Sir IT: ‎image omitted
+‎[01/01/24, 1:25:24 PM] Mahesh Sir IT: ‎image omitted
+[01/01/24, 1:26:16 PM] Mahesh Sir IT: 👆above listed students are required to contact me
+‎[01/01/24, 1:48:13 PM] ~ Dr. Manish Dixit: Adobe Scan 1 Jan 2024.pdf • ‎4 pages ‎document omitted
+‎[01/01/24, 3:26:29 PM] Mahesh Sir IT: CD Midsem Marks.pdf • ‎5 pages ‎document omitted
+[01/01/24, 3:27:01 PM] Mahesh Sir IT: 👆 Compiler Design Midsem Marks
+[01/01/24, 3:42:19 PM] Mahesh Sir IT: Nikhil atal and rajesh singh gond contact me
+[01/01/24, 4:00:35 PM] ~ Dr. Manish Dixit: ‎This message was deleted.
+[01/01/24, 4:39:15 PM] ~ Rohit: Enrollment No.	Student Name	Total (MM20)
+0901CS211001	AAYUSHI VAIDHY	17
+0901CS211002	ABHISHEK DADORIYA	13
+0901CS211003	ABHISHEK RAJPUT	16
+0901CS211004	ABHISHEK TIWARI	15
+0901CS211005	ACHINTYA TIWARI	15
+0901CS211006	ADITYA BHANDARI	17
+0901CS211007	ADITYA KUMAR	15
+0901CS211008	ADITYA SURYAVANSHI	9
+0901CS211009	AISHWARY BHALEKAR	16
+0901CS211010	AISHWARY KUMAR NAHAK	13
+0901CS211011	AKANKSHA RANGARI	8
+0901CS211012	AKASH TIWARI	14
+0901CS211013	AKHIL JAIN	20
+0901CS211014	ANISHA MINJ	10
+0901CS211015	ANJALI PRAJAPATI	13
+0901CS211016	ANKIT CHAURASIYA	15
+0901CS211017	ANKIT SINGH DHURVE	7
+0901CS211018	ANKUR TIWARI	13
+0901CS211019	ANSH MAHESHWARI	16
+0901CS211020	ANSHUL MISHRA	20
+0901CS211021	ANSHUL UCHADIYA	17
+0901CS211023	ARIN SHARMA	19
+0901CS211024	ARSHITA GARG	16
+0901CS211026	ARYAN	17
+0901CS211027	ARYAN MISHRA	16
+0901CS211028	ARYAN UIKEY	10
+0901CS211030	ASTHA SHRIVASTAVA	18
+0901CS211031	ATHARVA BARVE	15
+0901CS211032	AVINASH VIMAL	14
+0901CS211033	AYUSH BHADORIA	13
+0901CS211034	AYUSH KUMAR JAISWAL	7
+0901CS211035	AYUSH MEENA	15
+0901CS211036	AYUSH SINGH RATHORE	10
+0901CS211037	AYUSH TIWARI	17
+0901CS211038	AYUSHI KAURAV	17
+0901CS211039	BHAVESH JOSHI	17
+0901CS211040	CHANCHAL SHARMA	11
+0901CS211041	CHETAN JAISWAL	12
+0901CS211042	CHIRAG BACHWANI	16
+0901CS211043	DEV MISHRA	12
+0901CS211044	DIVYAT AGRAWAL	20
+0901CS211045	DURGESH DHURVE	14
+0901CS211046	GAURI THAKRE	20
+0901CS211047	GERALD D SILVA	12
+0901CS211048	HARSH AGRAWAL	15
+0901CS211049	HARSH SHRIVASTAVA	20
+0901CS211050	HARSHIT BHATIA	16
+0901CS211051	HARSHIT SHARMA	16
+0901CS211052	HIMANSHU GOYAL	14
+0901CS211053	HIMANSHU SINGH CHAUHAN	19
+0901CS211054	ISHITAA DHINGRA	18
+0901CS211055	JATIN KAUSHAL	14
+0901CS211056	JATIN SHAKYA	14
+0901CS211057	JATIN VERMA	16
+0901CS211058	KARAN KUMAR SAKET	12
+0901CS211059	KHUSHI VERMA	16
+0901CS211060	KISHAN PATIDAR	14
+0901CS211061	KISHAN SINGH BHADORIA	10
+0901CS211062	KRATIKA MAHESHWARI	20
+0901CS211064	LALIT KUMAR SHARMA	16
+0901CS211065	MAITHILI DESHPANDE	19
+0901CS211066	MANISH VERMA	16
+0901CS211067	MAYANK CHOUREY	16
+0901CS211068	MEHUL RAKESHIYA	13
+0901CS211069	MOHIT SHARMA	18
+0901CS211070	MONICA PATIDAR	16
+0901CS211071	MUSTAFA DEWASWALA	18
+0901CS211072	NARAYAN SINGH RAGHUWANSHI	15
+0901CS211073	NAVNEET SINGH DADORIYA	8
+0901CS211074	NIHAL CHOURASIYA	16
+0901CS211075	NIKHIL SAHU	12
+0901CS211077	NISHIKA GARG	19
+0901CS211078	NIVESH GARG	17
+0901CS211079	PARAS JAIN	18
+0901CS211080	PARUL SAXENA	12
+0901CS211082	PIYUSH SANWALE	12
+0901CS211083	POOJA BAGHEL	17
+0901CS211084	PRACHI RAHADAWE	17
+0901CS211085	PRATHAM KUMAR	13
+0901CS211086	PRATHAM SHARMA	11
+0901CS211087	PUNEET RAJ TUMRAM	16
+0901CS211088	RAHUL KHAWSE	7
+0901CS211089	RAHUL KUMAR RATHORE	16
+0901CS211090	RAHUL RAWAT	15
+0901CS211091	RAJ KAMLE	9
+0901CS211092	RAJPAL SINGH PANWAR	17
+0901CS211093	RAM JI PANDEY	12
+0901CS211094	RAM SHARMA	13
+0901CS211095	REETESH SHARMA	13
+0901CS211096	ROHIT KUMAR	10
+0901CS211097	ROHIT PATEL	9
+0901CS211098	SAKSHAM TANDEL	15
+0901CS211099	SAPNA WASKALE	12
+0901CS211100	SATYAVEER GURJAR	5
+0901CS211101	SHIVAM KUMAR	18
+0901CS211102	SHIVAM MISHRA	13
+0901CS211103	SHIVANI MUCHHALA	17
+0901CS211104	SHIVRAJ SINGH PATELIYA	15
+0901CS211105	SHREYA DEBNATH	19
+0901CS211106	SHREYA SINGH	15
+0901CS211107	SHRUTI GUPTA	19
+0901CS211108	SHRUTI SINGHAL	17
+0901CS211109	SNEHA AGRAWAL	14
+0901CS211110	SNEHA SHRIVASTAVA	14
+0901CS211111	SNEHEE GOUR	18
+0901CS211112	SOM DEV SINGH	9
+0901CS211113	SOUMYA SETHI	19
+0901CS211114	SOURAV DINKAR	18
+0901CS211115	SUDHANSHU JAIN	12
+0901CS211116	SUJAL CHANDRAKAR	18
+0901CS211117	SUJAL NIGAM	16
+0901CS211118	SUJAL SAHARE	8
+0901CS211120	SUMIT SHARMA	19
+0901CS211121	SUNIL KUSHWAHA	15
+0901CS211122	SURAJ PARMAR	12
+0901CS211123	SUYASH AGARWAL	18
+0901CS211124	TANISHA MUVEL	9
+0901CS211125	TARUN GOLAIT	14
+0901CS211126	TARUN WAKALWAR	7
+0901CS211127	TUSHAR DEWDE	11
+0901CS211128	UDAY ARYA	7
+0901CS211129	UJJAWAL JAIN	15
+0901CS211130	VEDANT SINGH	17
+0901CS211131	VIDUSHI JHA	17
+0901CS211132	VIKAS SIJORIYA	18
+0901CS211133	VISHAL MESHRAM	10
+0901CS211134	YASH AGARWAL	19
+0901CS211135	YASH GUPTA	15
+0901CS211136	YASH RAJPUT	18
+0901CS211137	YOGINI MORI	10
+0901CS211138	RAHUL VERMA	6
+0901CS211139	ABHIKASH BHARTI	7
+0901CS211140	ANIRBAN DAS	10
+0901CS223D01	ADITYA KUMAR TIWARI	10
+0901CS223D02	AMAN CHOURASIYA	15
+0901CS223D03	AMAN GUPTA	16
+0901CS223D04	ANIL KUMAR	16
+0901CS223D05	ARYA KHARE	12
+0901CS223D06	KARNIKA KANORIYA	9
+0901CS223D07	NIKHIL BAMORIYA	8
+0901CS223D08	NISHANT SHRIVASTAVA	16
+0901CS223D09	RUCHI MARAVI	12
+0901CS223D10	SALONI THAKRE	10
+0901CS223D11	SUYESH DUBEY	17
+0901CS223D12	VARSHA SAHU	11
+0901IO211027	JUNAID KHAN	18
+0901CS201075	NAVAL MOGIYA	4
+[01/01/24, 4:39:16 PM] ~ Rohit: check your mid sem marks.....................
+[01/01/24, 4:39:16 PM] ~ Rohit: for any confusion, contact me before 5 PM today
+‎[02/01/24, 7:03:08 AM] ~ SMITA PARTE: Jan-June24- master time table 26 DEC.xlsx - all sem together Jan-June-2023-wef-1-1-2024.pdf ‎document omitted
+[02/01/24, 11:30:08 AM] Amit Manjhavar Sir: ‎This message was deleted.
+[02/01/24, 11:30:09 AM] Amit Manjhavar Sir: ‎This message was deleted.
+[02/01/24, 11:35:20 AM] Nishika Mits Cse: Sir ye 8th sem ki h
+[02/01/24, 11:38:33 AM] Amit Manjhavar Sir: Ok
+[02/01/24, 12:05:56 PM] ~ praтнaм🤍: Sir ye hmko bhi krne h kya
+[02/01/24, 12:05:57 PM] ~ praтнaм🤍: Oc waale
+[02/01/24, 12:06:12 PM] ~ praтнaм🤍: ‎This message was deleted.
+‎[02/01/24, 12:22:40 PM] ~ Dr. Manish Dixit: ‎image omitted
+[02/01/24, 1:40:15 PM] Amit Manjhavar Sir: The introductory/orientation classes of OC - I "Fuels and Combustion" (910115) course will be conducted in Room No. 121. Kindly inform the 3rd year students of your department.
+‎[02/01/24, 1:41:03 PM] Amit Manjhavar Sir: ‎image omitted
+‎[02/01/24, 1:41:30 PM] Amit Manjhavar Sir: ‎image omitted
+‎[02/01/24, 1:41:58 PM] Amit Manjhavar Sir: ‎image omitted
+[02/01/24, 1:46:43 PM] Nishika Mits Cse: Sir oc courses m register kaise krna h
+[02/01/24, 1:47:08 PM] ~ Sunil: +1
+[02/01/24, 1:48:08 PM] Arshita Garg Mits: +1
+[02/01/24, 1:48:32 PM] Piyush Sanwale Mits: +1
+[02/01/24, 1:48:49 PM] ~ Pooja 💫: +1
+[02/01/24, 1:48:58 PM] ~ <sumit.h>: +1
+[02/01/24, 1:50:30 PM] ~ JK: +1
+[02/01/24, 1:51:02 PM] ~ Shruti Gupta: +1
+[02/01/24, 1:51:10 PM] Divyat Agrawal: +1
+[02/01/24, 1:57:47 PM] ~ AV...🇮🇳: +1
+[02/01/24, 2:09:02 PM] ~ ~Âmàn Chou®️asiya✓: +1
+[02/01/24, 2:15:51 PM] ~ Rajni Ranjan Singh: OC registration will start from 7 Jan onwards through IMS.
+‎[02/01/24, 2:28:44 PM] ~ Dr. Manish Dixit: Adobe Scan 2 Jan 2024 (1).pdf • ‎1 page ‎document omitted
+‎[02/01/24, 2:52:11 PM] ~ Ranjeet Kumar Singh: ‎image omitted
+‎[02/01/24, 3:16:58 PM] Amit Manjhavar Sir: ‎image omitted
+‎[02/01/24, 3:17:25 PM] Amit Manjhavar Sir: ‎image omitted
+‎[03/01/24, 6:59:59 AM] Amit Manjhavar Sir: ‎image omitted
+[03/01/24, 9:11:21 PM] ~ Dr. Manish Dixit: Following is the list of students not registered till today in NEC. These students are required to get themselves registered in some NEC course immediately.
+‎[03/01/24, 9:11:21 PM] ~ Dr. Manish Dixit: Remaining Students (1).xlsx ‎document omitted
+[03/01/24, 9:23:57 PM] ~ praтнaм🤍: ‎This message was deleted.
+[03/01/24, 9:25:18 PM] ~ praтнaм🤍: ‎This message was deleted.
+[04/01/24, 2:11:49 AM] Hemlata Ma'am: Zyxware Technologies is hiring!
+Position: Software Engineer- Trainee
+Qualifications: BE/ B.Tech/ MCA
+Salary: 4.6 LPA (Expected)
+Experience: Freshers
+Location: Work From Home
+
+📌Apply Now: https://merademyjobs.com/index.php/2024/01/02/zyxware-technologies-is-hiring-for-software-engineer-trainee-apply-now/
+[04/01/24, 10:39:05 AM] ~ Dr. Kuldeep N. Tripathi: Nikhil Atal contact me immediately.
+‎[04/01/24, 2:53:41 PM] Amit Manjhavar Sir: ‎image omitted
+[04/01/24, 2:54:54 PM] Amit Manjhavar Sir: all of the above students, immediately get enrolled in NEC.
+[04/01/24, 5:34:12 PM] ~ Dr. Gagandeep Kaur: Naval contact me...
+[04/01/24, 5:34:16 PM] ~ Dr. Gagandeep Kaur: ‎This message was deleted.
+[04/01/24, 5:34:27 PM] ~ Dr. Gagandeep Kaur: immediately..
+[04/01/24, 5:42:05 PM] ~ Dr. Gagandeep Kaur: Contact me naval..
+[04/01/24, 5:46:02 PM] ~ Dr. Gagandeep Kaur: Ur mobile is switch off...
+[04/01/24, 5:58:28 PM] ~ Naval 75: ‎This message was deleted.
+[05/01/24, 1:07:39 AM] ~ VJ: ‎This message was deleted.
+[05/01/24, 8:08:20 AM] ~ Dr. Manish Dixit: Dear students, join this meeting (*Campus Engagement Program*) on 5th January 2024 at 2:30 PM
+‎[05/01/24, 8:09:11 AM] ~ Dr. Manish Dixit: ‎image omitted
+[05/01/24, 2:35:52 PM] Hemlata Ma'am: Reminder 👆🏻👆🏻
+[05/01/24, 2:35:53 PM] Hemlata Ma'am: Students pls join fast
+[05/01/24, 2:36:04 PM] Hemlata Ma'am: https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fmeetup-join%2F19%3Ameeting_NTJkNzMyYzEtZjFkYy00MDBkLTg3ZjMtZGU5MmY3ZWY3MWFh%40thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%2522ff355289-721e-4dd7-a663-afec62ab9d54%2522%252c%2522Oid%2522%253a%2522b51c4b2b-5635-4b38-8065-7804ea261c79%2522%257d%26anon%3Dtrue&type=meetup-join&deeplinkId=5ea1f474-7781-4f31-84a9-dee2b815cb08&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true
+‎[05/01/24, 5:21:27 PM] Shivam Kumar Mits: F CSE 6 sem syllabus CSE.pdf • ‎16 pages ‎document omitted
+[07/01/24, 8:13:50 AM] Harsh Shrivasta Mits: Sir @919098054320, @919425117866 
+Aaj OC ke registrations kitne baje se honge
+[07/01/24, 9:00:15 AM] ~ Rajni Ranjan Singh: OC registration will start from 12 Jan 2024 onwards
+[08/01/24, 12:17:21 PM] Mohit Sharma Mits: Orientation is going on in NRGF
+[08/01/24, 12:17:38 PM] Mohit Sharma Mits: Kindly join
+[08/01/24, 12:19:10 PM] Amit Manjhavar Sir: All students BTECH CSE 3RD YEAR IS GOING ON,  ALL STUDENTS IMMEDIATELY JOIN THIS PROGRAM ON NRGF ROOM.
+[08/01/24, 2:03:55 PM] Piyush Sanwale Mits: Come in nrgf for cloud computing class , combined class of batch -A and b .
+‎[08/01/24, 3:31:03 PM] ~ SMITA PARTE: CSE-List of DE-5,OC-3, DE-1 for Jan-June 2024 Session.xlsx • ‎1 sheet ‎document omitted
+[08/01/24, 3:31:38 PM] ~ SMITA PARTE: Please find NPTEL courses offered by dept
+[08/01/24, 11:37:22 PM] ~ Saksham: ‎This message was deleted.
+‎[09/01/24, 10:28:31 AM] ~ SMITA PARTE: ‎image omitted
+‎[10/01/24, 6:57:03 AM] ~ SMITA PARTE: ‎image omitted
+‎[10/01/24, 11:42:27 AM] ~ Dr. Kuldeep N. Tripathi: DSA sheet for campus preparation.xlsx ‎document omitted
+‎[10/01/24, 12:50:17 PM] ~ SMITA PARTE: ‎image omitted
+‎[11/01/24, 7:22:14 AM] ~ SMITA PARTE: ‎image omitted
+[11/01/24, 9:44:39 AM] ~ Dr. Gagandeep Kaur: 0901CS211022,25,29,63,76,81,119,D07,109 these students are required to meet me in PL1 today
+[11/01/24, 11:05:53 AM] ~ Dr. Gagandeep Kaur: Nikhil D07 contact me immediately
+‎[12/01/24, 7:16:46 AM] ~ SMITA PARTE: ‎image omitted
+[12/01/24, 8:49:28 AM] Arshita Garg Mits: Sir at what time will registrations start?
+[12/01/24, 9:52:05 AM] ~ Avinash: +1
+[12/01/24, 9:54:04 AM] ~ Abhikash Bharti: +1
+[12/01/24, 10:19:23 AM] ~ AV...🇮🇳: +1
+[12/01/24, 10:19:42 AM] ~ Aman Gupta: +1
+‎[12/01/24, 10:25:46 AM] ~ SMITA PARTE: ‎image omitted
+‎[12/01/24, 10:27:19 AM] ~ SMITA PARTE: ‎image omitted
+[12/01/24, 10:58:18 AM] ~ Harshit Sharma: ‎This message was deleted.
+[12/01/24, 10:59:54 AM] ~ Harshit Sharma: ‎This message was deleted.
+[12/01/24, 11:12:05 AM] Amit Manjhavar Sir: Student Meeting with CSE 3rd Year Students Regarding the activity to address curricular gaps
+Friday, January 12 · 1:00 – 2:00pm
+Time zone: Asia/Kolkata
+Google Meet joining info
+Video call link: https://meet.google.com/uku-mznw-xvm
+Or dial: ‪(US) +1 314-649-9212‬ PIN: ‪626 152 596‬#
+[12/01/24, 11:13:15 AM] Amit Manjhavar Sir: All B.tech CSE 3rd Year students, join a meeting at 1:00 PM by above google meet link, for conveying important information for 6th semester students.
+[12/01/24, 11:13:31 AM] Amit Manjhavar Sir: all students positively join at 1: 00 PM.
+[12/01/24, 11:22:05 AM] Nishika Mits Cse: +1
+[12/01/24, 11:25:20 AM] Piyush Sanwale Mits: For the OC Registration , I had Talked to Rajni sir , he told me the oc registrations will start after results declaration of 5th sem .
+[12/01/24, 12:59:48 PM] Amit Manjhavar Sir: All students immediately join the meeting immediately
+[12/01/24, 1:00:08 PM] Amit Manjhavar Sir: This is the short duration meeting
+[12/01/24, 1:41:40 PM] ~ SMITA PARTE: Due to first year examination ...for duration 15/1/24---21/1/24
+Section B will merge with section A in Room number NRGF.... Subject Teacher plz do needful -Prof Khushboo
+Prof Smita
+Prof Aashi
+[12/01/24, 5:25:34 PM] ~ Dr. Manish Dixit: It’s observed that attandance of 3 Rd year is very poor. Please be attentive in the class otherwise in short attendance students will not be allowed to appear in further examinations. Please take this as warning.
+[13/01/24, 4:05:30 PM] ~ praтнaм🤍: Sir when will result come ‎<This message was edited>
+[13/01/24, 4:29:28 PM] ~ Dr. Manish Dixit: I think in coming week
+[14/01/24, 10:46:01 AM] ~ SMITA PARTE: Naval contact me immediately
+[14/01/24, 11:01:43 AM] ~ <sumit.h>: ‎This message was deleted.
+‎[15/01/24, 8:11:28 AM] ~ SMITA PARTE: 14-1-2024-Revised-Jan-June24- master timetable.pdf ‎document omitted
+[15/01/24, 2:58:01 PM] Amit Manjhavar Sir: It is advised to all BTECH CSE 6TH semester students,  please attend your classes regularly & maintain your attendance as per institute norms. If students not attending the regularly class and not sincere their attendence.
+[15/01/24, 2:58:50 PM] Amit Manjhavar Sir: Those students debared from mid sem   exam.
+[15/01/24, 3:00:20 PM] Amit Manjhavar Sir: I also not consider any type of application regarding the attendance.
+[15/01/24, 3:01:03 PM] Amit Manjhavar Sir: I received this instruction from HOD of computer science and engineering department.
+‎[15/01/24, 3:02:29 PM] Harsh Shrivasta Mits: ‎image omitted
+[15/01/24, 3:03:12 PM] Amit Manjhavar Sir: Abhi lecture kiska hai
+[15/01/24, 3:03:54 PM] Harsh Shrivasta Mits: Sir abhi mam aa rhi hai
+[15/01/24, 3:04:03 PM] Amit Manjhavar Sir: Harsh abhi jitne bhi students hai,  unki attendence chaiye,  with sign
+[15/01/24, 3:04:13 PM] Amit Manjhavar Sir: Kaun si mam
+[15/01/24, 3:04:25 PM] Harsh Shrivasta Mits: Yes sir
+[15/01/24, 3:05:50 PM] Harsh Shrivasta Mits: Sir Smita mam ka
+[15/01/24, 3:05:55 PM] ~ praтнaм🤍: Ab tm logo ni hogi
+[15/01/24, 3:06:19 PM] ~ praтнaм🤍: Jitne dikhre photu m ‎<This message was edited>
+[15/01/24, 3:09:46 PM] ~ <sumit.h>: Ha puri photo nhi hai apan kaha hai isme
+[15/01/24, 4:30:05 PM] Amit Manjhavar Sir: https://docs.google.com/forms/d/e/1FAIpQLSdTka8YMOdhkZkFGKxljBYRdPLp-2nm4v2wWvO2tZj4QO2kLQ/viewform
+[15/01/24, 4:30:21 PM] Amit Manjhavar Sir: Dear students, immediately fill this google form.
+[15/01/24, 4:41:25 PM] Amit Manjhavar Sir: All students immediately fill this Google form.
+[16/01/24, 11:47:00 AM] Amit Manjhavar Sir: ‎This message was deleted.
+[16/01/24, 11:48:16 AM] Amit Manjhavar Sir: ‎This message was deleted.
+[16/01/24, 12:59:35 PM] ~ Mr. RAM JI😎😎: sir result kab tk me aayega???? @918359806750
+[16/01/24, 2:50:33 PM] Amit Manjhavar Sir: Exam department se pata karo
+‎[17/01/24, 12:39:28 AM] Amit Manjhavar Sir: ‎image omitted
+‎[17/01/24, 1:16:21 PM] ~ Dr. Manish Dixit: OC-1 Registration.pdf • ‎1 page ‎document omitted
+‎[17/01/24, 1:16:22 PM] ~ Dr. Manish Dixit: ‎image omitted
+[18/01/24, 3:24:13 PM] ~ Dr. Manish Dixit: It is observed that very few students are attending the classes, it is hereby informed that they will not be allowed to appear in mid semester exam if fails to satisfy the attendance norms.  Please take it as warning and don’t come to me for any excuses.
+[18/01/24, 4:36:43 PM] ~ Rohit: All students are requested to complete CO feedback for Data Science Lab on Moodle before this sunday............
+http://moodle.mitsgwalior.in/mod/feedback/view.php?id=96388
+[18/01/24, 4:36:54 PM] ~ Rohit: it is mandatory for all
+[18/01/24, 4:40:55 PM] ~ SMITA PARTE: ‎This message was deleted.
+[18/01/24, 4:41:16 PM] ~ SMITA PARTE: ‎This message was deleted.
+‎[19/01/24, 8:53:37 PM] ~ Dr. Manish Dixit: pdf&rendition=1.pdf • ‎1 page ‎document omitted
+[19/01/24, 10:08:53 PM] Hemlata Ma'am: https://leetcode.com/
+
+and 
+
+https://www.geeksforgeeks.org/courses/search
+
+Get a rank on these platforms to enhance employment skills.
+[20/01/24, 5:05:50 PM] Amit Manjhavar Sir: Dear Students,
+The Honorable Prime Minister will address new voters of the nation on 25/01/2024 at 11:00AM in online mode. You are required to register yourself for the same on www.dotook.com. 
+Your active participation will pave the way to move the nation ahead.
+[20/01/24, 5:05:58 PM] ~ Anshul U: ‎This message was deleted.
+[20/01/24, 5:06:32 PM] ~ Ayush: ‎This message was deleted.
+[20/01/24, 5:06:42 PM] ~ Anshul U: ‎This message was deleted.
+[21/01/24, 7:08:23 PM] ~ Abhishek Dadoriya: ‎This message was deleted.
+‎[22/01/24, 3:23:37 PM] Amit Manjhavar Sir: ‎image omitted
+‎[23/01/24, 11:48:16 AM] ~ Rohit: ‎image omitted
+[23/01/24, 4:36:42 PM] ~ Khushboo Agarwal: Registration for OC has opened for today, who have not registered in OC have required to register themselves
+[23/01/24, 5:07:04 PM] ~ Saloni Thakre: ‎This message was deleted.
+[23/01/24, 5:07:37 PM] ~ Saloni Thakre: ‎This message was deleted.
+[24/01/24, 12:09:09 PM] ~ SMITA PARTE: It is aware that the last date (SET-1) to enroll in SWAYAM(NPTEL) courses for the current academic session Jan-May 2024 is 29.01.2024
+
+Please  register before due date
+1. III Year  for DE-1 course
+2. Final Year for DE-5 and OC-3  courses
+3. Back students for the same course (if re-run in the current semester by NPTEL) as per the approved previous scheme
+4. N-Batch Students as per the previous schemes
+[24/01/24, 12:19:30 PM] ~ Dev Mishra: https://chat.whatsapp.com/FtP4zuVLFAv1PSLdgHMHdB
+[24/01/24, 3:19:34 PM] Amit Manjhavar Sir: https://docs.google.com/forms/d/e/1FAIpQLSe3AHSNPSsyojFp-cX02TcW92mC3eZCBTI-LPnhLprR_UnG2A/viewform
+[24/01/24, 3:20:06 PM] Amit Manjhavar Sir: Dear students, please fill the google form on urgent basis.
+[24/01/24, 5:46:27 PM] Amit Manjhavar Sir: प्रिय छात्रों, 
+हमारे आदरणीय प्रधानमंत्री श्री नरेंद्र मोदी वर्चुअल मोड में *_25/01/2024 को 11:00_* बजे 08 करोड़ नए मतदाताओं से संवाद करेंगे। इस आयोजन का आयोजन संस्थान के मुख्य पोर्च के पास *_कॉन्क्लेव सेंटर_* में किया गया है। आप खुद को www.dotook.in पर रजिस्टर कर सकते हैं या +917820078200 पर मिस्ड कॉल देकर भी रजिस्टर कर सकते हैं।
+
+Dear Students,
+We are delighted to announce that our esteemed Prime Minister, Shri Narendra Modi, will engage with 80 million new voters through a virtual session on *_25/01/2024 at 11:00 AM_*. The event will be held at the _*Conclave Center*_, situated near the Main Porch of the Institute.
+To join the session, you can register at www.dotook.in or by giving a missed call to +917820078200.
+[24/01/24, 10:07:39 PM] ~ Dr. Kuldeep N. Tripathi: Dear Students,
+
+Greetings from Talent Battle !
+
+Notion is Hiring 2025 Batch Students!
+
+Role: Software Engineering Intern
+
+Eligibility: 2025 Batch Student.
+
+*Bachelors/Masters in CSE/IT/IT IOT/EE IOT/CSD/EC/ET/EE/AIR/AIDS/AIML/MAC/MCA*
+
+We have posted the Application Link and other details on the link below.
+
+Application Link and Details posted here: https://boards.greenhouse.io/notion/jobs/5755308003#app
+
+Regards
+T&P Cell
+MITS Gwalior
+‎[25/01/24, 2:49:56 PM] Amit Manjhavar Sir: NEC Remaining Students.xlsx • ‎1 sheet ‎document omitted
+‎[25/01/24, 3:04:00 PM] ~ SMITA PARTE: 24-1-2024-Revised-Jan-June24- master timetable  (1).pdf ‎document omitted
+[25/01/24, 5:34:47 PM] Amit Manjhavar Sir: ‎This message was deleted.
+[25/01/24, 5:36:35 PM] Amit Manjhavar Sir: Dear students,  only 45 students filled this Google form.  Remaining students immediately fill this Google form immediately.
+‎[25/01/24, 9:22:29 PM] ~ Dr. Manish Dixit: Notice No. 06, Dated 25.01.2024.pdf • ‎1 page ‎document omitted
+‎[25/01/24, 11:08:29 PM] Harsh Shrivasta Mits: Notice No. 03, Dated 18.01.2024.pdf • ‎1 page ‎document omitted
+‎[26/01/24, 10:33:06 AM] Harsh Shrivasta Mits: ‎image omitted
+[27/01/24, 5:01:49 PM] Harsh Shrivasta Mits: Mam @919981181018 
+Please reschedule the Quizzes of DIP(Digital Image Processing) as Moodle isn't working.
+[27/01/24, 5:02:05 PM] ~ Pratham🥇Kumar: +1
+[27/01/24, 5:03:16 PM] ~ Aman Gupta: ,+1
+[27/01/24, 5:05:28 PM] Arin Mits Cse: +1
+[27/01/24, 5:07:12 PM] ~ Rahulverma: +1
+[27/01/24, 5:08:13 PM] ~ Aryan Mishra: +1
+[27/01/24, 5:12:57 PM] ~ 🙂🙂: +1
+[27/01/24, 5:14:22 PM] Sourav Dinkar Cse Mits: +1
+[27/01/24, 5:16:52 PM] Arshita Garg Mits: +1
+[27/01/24, 5:17:19 PM] Akhil Jain Mits: +1
+[27/01/24, 5:18:40 PM] Nishika Mits Cse: ++1
+[27/01/24, 5:19:01 PM] ~ Raj Kamle: +1
+[27/01/24, 5:21:00 PM] Divyat Agrawal: +1
+[27/01/24, 5:23:20 PM] ~ GAURI: +1
+[27/01/24, 5:23:44 PM] ~ Ⓚཞα†ᶤƙα💕: +1
+[27/01/24, 5:26:44 PM] ~ AV...🇮🇳: +1
+[27/01/24, 5:31:36 PM] ~ Pooja 💫: +1
+[27/01/24, 5:36:01 PM] ~ ayu☃️: +1
+[27/01/24, 5:51:03 PM] ~ Ruchi Maravi: +1
+[27/01/24, 5:51:31 PM] ~ Sujal Nigam: +1
+[27/01/24, 5:51:44 PM] Piyush Sanwale Mits: +1
+[27/01/24, 6:15:18 PM] Ayush Meena: +1
+[27/01/24, 10:16:25 PM] ‪+91 88392 29850‬: ‎‪+91 88392 29850‬ joined using this group's invite link
+[28/01/24, 4:33:07 PM] Harsh Shrivasta Mits: @919981181018
+[28/01/24, 4:33:37 PM] ~ Anshul U: +1
+[28/01/24, 4:48:35 PM] ~ Ruchi Maravi: +1
+[28/01/24, 5:48:55 PM] ~ Saloni Thakre: +1
+[28/01/24, 5:57:31 PM] Abhishek Tiwari Mits CSE: +1
+[29/01/24, 11:27:03 AM] ~ SMITA PARTE: Dear STUDENTS,
+Enrollment for the first set of 662 courses will be closed on Jan 29, 2024 (Today).
+
+KINDLY ALERT YOUR STUDENTS/FACULTY to FOLLOW THESE IMPORTANT STEPS:
+•	Learners have to say YES to the question ‘Are you part of a Local Chapter’
+•	Choose the correct college name from the dropdown. This is very important; otherwise the learner will not be available in your SPOC login
+•	Students choose the Profession as ‘Student’
+•	Faculty choose the Profession as ‘Faculty’ (Not Employed)
+•	Use the same email id for enrolling to courses & exam registration. Assignments submitted through one mail id & exam registered through another mail id will not be accepted
+•	NEW: Please note that the exam registration for the 12-week courses will be closed along with the set one 4-week and 8wk courses.
+ 
+Important dates
+     	4 weeks
+(SET 1)	8 weeks
+(SET 1)	12 weeks	4 weeks
+(SET 2)	8 weeks
+(SET 2)
+Start of course	Jan 22, 2024	Jan 22, 2024	Jan 22, 2024	Feb 19, 2024	Feb 19, 2024
+End of course	Feb 16, 2024	Mar 15, 2024	Apr 12, 2024	Mar 15, 2024	Apr 12, 2024
+Exam dates	Mar 23/24, 2024
+2 Sessions on each date
+9am-12 noon; 2pm-5pm	April 20/21/27/28, 2024
+2 Sessions on each date
+9am-12 noon; 2pm-5pm
+Possible Additional Exam dates	Mar 22, 2024
+2 Sessions on each date
+9am-12 noon; 2pm-5pm	April 18/19/22, 2024
+2 Sessions on each date
+9am-12 noon; 2pm-5pm
+Open enrollment to the course	
+Nov 15, 2023
+Close enrollment to the course	Jan 29, 2024 - 5pm	Feb 19, 2024 - 5pm
+Open exam registration form	Dec 13, 2023 - 10am
+Close exam registration form	Feb 12, 2024 5pm /
+Feb 16, 2024 5pm	March 11, 2024 5pm /
+March 15, 2024 5pm
+
+Note: The exam dates are subject to change based on seat availability. The final exam date will be given in the Hall ticket.
+
+Course List
+The tentative course list can be found at this link.
+[29/01/24, 11:28:03 AM] ~ SMITA PARTE: *Jan - Apr 2024 semester: Enrolment for Set 1 courses will be closed today!*
+++++++++++++++++++++++++++++++
+
+Enrolment for the first set of 662 courses will be closed on Jan 29, 2024 (Today).
+
+*Timelines* - https://bit.ly/47Z8XPX
+
+*Tentative Course List* - https://bit.ly/474qxCx
+
+*To join* - https://onlinecourses.nptel.ac.in/
+
+*_Requesting you to alert all learners to enroll in courses._*
+‎[29/01/24, 11:28:04 AM] ~ SMITA PARTE: ‎image omitted
+[30/01/24, 3:11:36 PM] Amit Manjhavar Sir: Dear Students,
+The _*"Ek Bharat Shreshtha Bharat Yuva Sangam" Phase-IV*_ is a program that focuses on _*organizing trips for young people, especially students from higher educational institutions, to different states in India.*_ The aim is to give them a first-hand experience of various aspects of life, development milestones, recent achievements, and foster connections with the youth in the host state. The visits cover five main areas: Tourism, Traditions, Development, People-to-people connect, and Technology. The goal is to provide a comprehensive exposure to the diverse aspects of the country.
+We are excited to announce the registration open for _*Yuva Sangam Phase-4*_  .  We request you to students to be part of this empowering experience by visiting our website _*https://ebsb.aicte-india.org/*_ and complete the registration form latest by _*4th Feb. 2024.*_
+
+Best wishes, -AICTE
+[30/01/24, 3:38:57 PM] ~ Ayush: Sir iske form mai madhya Pradesh show nahi ho raha
