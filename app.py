@@ -19,7 +19,7 @@ if uploaded_file is not None:
     # st.dataframe(df) #used to dsiplay data frame
     
     # Create a radio button 
-    selected_option = st.radio("Select Time Format:", ["24","12"])
+    # selected_option = st.radio("Select Time Format:", ["24","12"])
         
     # fetch unique users
     user_list = df['user'].unique().tolist()
