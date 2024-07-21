@@ -114,19 +114,23 @@ if uploaded_file is not None:
             with col2:
                 st.dataframe(new_df)  
 # Word Cloud
-st.title("Word Cloud")
-df_wc=helper.create_wordcloud(selected_user,df)
-fig,ax=plt.subplots()
-ax.imshow(df_wc)  
-st.pyplot(fig)   
+if 'df' in locals():
+    st.title("Word Cloud")
+    df_wc=helper.create_wordcloud(selected_user,df)
+    fig,ax=plt.subplots()
+    ax.imshow(df_wc)  
+    st.pyplot(fig)
+else:
+    st.write("Please upload a file ")      
 
 #Most COmmon Words
-most_common_df= helper.most_common_words(selected_user,df)
-fig,ax=plt.subplots()
-ax.barh(most_common_df[0],most_common_df[1])
-plt.xticks(rotation='vertical')
-st.title("Most Common Words")
-st.pyplot(fig)
+if 'df' in locals():
+    most_common_df= helper.most_common_words(selected_user,df)
+    fig,ax=plt.subplots()
+    ax.barh(most_common_df[0],most_common_df[1])
+    plt.xticks(rotation='vertical')
+    st.title("Most Common Words")
+    st.pyplot(fig)
 
 # # emoji analysis
 # emoji_df = helper.emoji_helper(selected_user,df)
